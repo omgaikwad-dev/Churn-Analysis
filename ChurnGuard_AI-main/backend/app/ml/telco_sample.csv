@@ -1,0 +1,2501 @@
+customerID,tenure,MonthlyCharges,Contract,SupportCalls,TotalCharges,InternetService,PaymentMethod,Churn
+TELCO-10000,7,28.51,Month-to-month,2,205.8,Fiber optic,Electronic check,Yes
+TELCO-10001,56,29.27,Month-to-month,4,1589.23,DSL,Mailed check,No
+TELCO-10002,48,30.06,Month-to-month,1,1476.35,DSL,Mailed check,No
+TELCO-10003,32,80.61,One year,1,2483.86,No,Credit card (automatic),No
+TELCO-10004,32,30.73,Month-to-month,0,954.41,No,Bank transfer (automatic),No
+TELCO-10005,62,103.95,Month-to-month,3,6445.23,Fiber optic,Mailed check,No
+TELCO-10006,7,94.12,Month-to-month,1,675.04,DSL,Bank transfer (automatic),Yes
+TELCO-10007,51,100.69,Month-to-month,0,5258.14,No,Credit card (automatic),No
+TELCO-10008,15,71.24,Two year,1,1080.24,Fiber optic,Electronic check,No
+TELCO-10009,7,118.42,Month-to-month,1,810.05,No,Mailed check,Yes
+TELCO-10010,38,22.93,Two year,0,863.97,DSL,Bank transfer (automatic),No
+TELCO-10011,71,58.73,Month-to-month,1,4064.01,DSL,Electronic check,No
+TELCO-10012,53,50.97,Month-to-month,2,2641.17,Fiber optic,Bank transfer (automatic),No
+TELCO-10013,55,113.6,Month-to-month,2,6137.55,No,Electronic check,No
+TELCO-10014,52,76.33,Month-to-month,0,4008.39,DSL,Credit card (automatic),Yes
+TELCO-10015,57,99.32,One year,4,5495.7,DSL,Credit card (automatic),No
+TELCO-10016,37,35.58,Month-to-month,5,1256.24,Fiber optic,Electronic check,Yes
+TELCO-10017,10,116.61,Month-to-month,3,1188.54,No,Bank transfer (automatic),Yes
+TELCO-10018,61,68.49,One year,2,3978.11,Fiber optic,Electronic check,No
+TELCO-10019,33,67.99,One year,1,2349.3,No,Bank transfer (automatic),No
+TELCO-10020,37,115.83,Two year,1,4221.55,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10021,27,56.67,Two year,3,1454.59,No,Credit card (automatic),No
+TELCO-10022,14,58.35,One year,0,848.32,Fiber optic,Electronic check,No
+TELCO-10023,67,77.12,Two year,2,5218.61,DSL,Bank transfer (automatic),No
+TELCO-10024,57,31.34,One year,3,1843.08,Fiber optic,Credit card (automatic),No
+TELCO-10025,47,50.69,Month-to-month,2,2366.95,Fiber optic,Electronic check,No
+TELCO-10026,29,37.87,One year,2,1082.22,Fiber optic,Mailed check,No
+TELCO-10027,60,28.85,Month-to-month,1,1757.86,DSL,Bank transfer (automatic),No
+TELCO-10028,40,105.33,One year,3,4173.6,Fiber optic,Electronic check,Yes
+TELCO-10029,32,77.58,Two year,3,2496.51,No,Electronic check,No
+TELCO-10030,33,54.46,Month-to-month,2,1757.25,Fiber optic,Credit card (automatic),No
+TELCO-10031,17,59.47,Two year,1,994.07,No,Bank transfer (automatic),No
+TELCO-10032,7,61.76,Two year,5,414.26,Fiber optic,Electronic check,No
+TELCO-10033,40,81.97,Month-to-month,4,3371.06,DSL,Credit card (automatic),Yes
+TELCO-10034,64,111.41,Month-to-month,4,7022.47,DSL,Bank transfer (automatic),No
+TELCO-10035,5,112.01,Two year,1,586.65,Fiber optic,Mailed check,No
+TELCO-10036,62,57.75,Two year,3,3494.48,DSL,Credit card (automatic),Yes
+TELCO-10037,60,51.51,Month-to-month,2,3082.89,Fiber optic,Mailed check,No
+TELCO-10038,20,63.72,Month-to-month,2,1249.62,Fiber optic,Mailed check,Yes
+TELCO-10039,46,75.44,One year,1,3537.54,Fiber optic,Bank transfer (automatic),No
+TELCO-10040,12,64.8,Month-to-month,2,801.58,No,Electronic check,No
+TELCO-10041,55,84.54,Month-to-month,3,4643.66,No,Electronic check,No
+TELCO-10042,51,74.08,Month-to-month,2,3727.8,Fiber optic,Electronic check,Yes
+TELCO-10043,26,50.65,Month-to-month,4,1349.13,DSL,Mailed check,Yes
+TELCO-10044,5,53.16,One year,1,257.6,DSL,Electronic check,Yes
+TELCO-10045,70,56.45,One year,1,3990.8,Fiber optic,Bank transfer (automatic),No
+TELCO-10046,33,27.99,One year,2,945.25,Fiber optic,Credit card (automatic),No
+TELCO-10047,65,35.15,One year,2,2232.03,Fiber optic,Mailed check,No
+TELCO-10048,49,90.99,Month-to-month,3,4527.93,Fiber optic,Electronic check,Yes
+TELCO-10049,57,57.51,Month-to-month,2,3355.18,Fiber optic,Electronic check,Yes
+TELCO-10050,55,40.01,Month-to-month,1,2116.36,DSL,Electronic check,No
+TELCO-10051,15,74.91,Month-to-month,1,1103.86,DSL,Bank transfer (automatic),No
+TELCO-10052,27,94.24,Month-to-month,2,2520.64,Fiber optic,Mailed check,Yes
+TELCO-10053,34,44.31,Month-to-month,1,1548.11,No,Mailed check,Yes
+TELCO-10054,36,101.39,Month-to-month,0,3674.68,Fiber optic,Credit card (automatic),No
+TELCO-10055,4,111.48,Month-to-month,4,443.67,Fiber optic,Mailed check,Yes
+TELCO-10056,40,78.39,One year,1,3078.77,Fiber optic,Bank transfer (automatic),No
+TELCO-10057,12,85.56,One year,3,975.8,Fiber optic,Credit card (automatic),No
+TELCO-10058,54,23.77,Two year,2,1222.0,DSL,Electronic check,No
+TELCO-10059,50,113.29,One year,0,5517.48,DSL,Electronic check,Yes
+TELCO-10060,67,57.85,One year,0,3727.38,DSL,Electronic check,No
+TELCO-10061,54,111.12,Month-to-month,2,5772.21,DSL,Electronic check,No
+TELCO-10062,27,76.54,One year,2,2087.81,DSL,Credit card (automatic),Yes
+TELCO-10063,70,18.96,Month-to-month,3,1341.2,Fiber optic,Credit card (automatic),No
+TELCO-10064,30,22.36,Month-to-month,2,640.26,DSL,Bank transfer (automatic),Yes
+TELCO-10065,24,86.71,Month-to-month,4,2100.59,DSL,Electronic check,No
+TELCO-10066,66,74.91,Month-to-month,0,4768.95,DSL,Credit card (automatic),No
+TELCO-10067,27,21.16,Month-to-month,4,564.31,DSL,Credit card (automatic),Yes
+TELCO-10068,6,93.03,One year,1,585.51,DSL,Mailed check,Yes
+TELCO-10069,34,103.93,Two year,2,3541.4,DSL,Bank transfer (automatic),Yes
+TELCO-10070,58,68.27,One year,3,3775.21,DSL,Bank transfer (automatic),No
+TELCO-10071,14,65.19,One year,2,898.76,No,Bank transfer (automatic),No
+TELCO-10072,34,19.05,Month-to-month,1,658.77,DSL,Mailed check,Yes
+TELCO-10073,10,97.36,Month-to-month,2,946.79,DSL,Mailed check,No
+TELCO-10074,50,51.65,One year,5,2702.44,Fiber optic,Mailed check,Yes
+TELCO-10075,35,106.6,Month-to-month,0,3703.13,DSL,Mailed check,No
+TELCO-10076,24,55.9,Month-to-month,0,1277.35,Fiber optic,Credit card (automatic),No
+TELCO-10077,17,75.15,Month-to-month,2,1282.73,Fiber optic,Credit card (automatic),Yes
+TELCO-10078,41,45.6,Two year,2,1902.54,No,Electronic check,No
+TELCO-10079,49,34.6,One year,4,1687.94,No,Electronic check,No
+TELCO-10080,68,96.18,Month-to-month,1,6820.27,Fiber optic,Mailed check,No
+TELCO-10081,32,68.28,One year,3,2272.78,DSL,Credit card (automatic),No
+TELCO-10082,12,72.28,Month-to-month,0,836.04,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10083,60,115.28,Month-to-month,1,6626.26,DSL,Credit card (automatic),Yes
+TELCO-10084,46,115.1,Month-to-month,2,5195.23,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10085,51,104.28,Month-to-month,3,5375.79,DSL,Bank transfer (automatic),Yes
+TELCO-10086,8,37.31,One year,2,301.51,Fiber optic,Bank transfer (automatic),No
+TELCO-10087,23,78.08,Month-to-month,1,1754.83,DSL,Electronic check,Yes
+TELCO-10088,56,106.53,One year,3,6234.79,Fiber optic,Electronic check,No
+TELCO-10089,60,56.04,Month-to-month,1,3297.62,DSL,Bank transfer (automatic),Yes
+TELCO-10090,32,28.64,One year,0,944.36,Fiber optic,Mailed check,No
+TELCO-10091,58,99.8,One year,3,5980.56,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10092,61,66.8,One year,2,3911.17,Fiber optic,Mailed check,No
+TELCO-10093,28,75.08,One year,0,2046.02,DSL,Electronic check,No
+TELCO-10094,65,116.96,Two year,1,7385.88,DSL,Bank transfer (automatic),No
+TELCO-10095,21,79.37,Month-to-month,2,1736.72,No,Credit card (automatic),Yes
+TELCO-10096,18,61.1,One year,1,1083.42,Fiber optic,Mailed check,No
+TELCO-10097,50,55.59,One year,3,2873.02,Fiber optic,Electronic check,No
+TELCO-10098,46,60.37,Month-to-month,1,2770.92,Fiber optic,Mailed check,Yes
+TELCO-10099,11,30.37,Month-to-month,0,332.64,Fiber optic,Credit card (automatic),Yes
+TELCO-10100,60,98.17,Month-to-month,4,6127.82,Fiber optic,Mailed check,Yes
+TELCO-10101,15,102.48,Month-to-month,2,1528.12,DSL,Electronic check,Yes
+TELCO-10102,58,47.01,Month-to-month,1,2793.34,Fiber optic,Credit card (automatic),Yes
+TELCO-10103,1,48.96,Month-to-month,2,48.59,Fiber optic,Electronic check,Yes
+TELCO-10104,58,106.15,One year,3,5911.58,DSL,Electronic check,No
+TELCO-10105,57,20.9,Month-to-month,0,1138.06,Fiber optic,Bank transfer (automatic),No
+TELCO-10106,57,70.68,Two year,2,3911.22,DSL,Mailed check,No
+TELCO-10107,48,64.98,Month-to-month,2,3188.37,DSL,Electronic check,Yes
+TELCO-10108,34,87.69,One year,1,2943.79,No,Electronic check,No
+TELCO-10109,51,34.88,Month-to-month,3,1770.72,No,Electronic check,Yes
+TELCO-10110,20,85.5,Month-to-month,4,1641.92,DSL,Electronic check,Yes
+TELCO-10111,57,56.27,Month-to-month,3,3246.85,Fiber optic,Electronic check,No
+TELCO-10112,41,80.53,One year,5,3401.92,DSL,Mailed check,No
+TELCO-10113,34,22.52,Month-to-month,1,775.23,Fiber optic,Credit card (automatic),No
+TELCO-10114,37,64.79,Two year,1,2513.4,Fiber optic,Mailed check,No
+TELCO-10115,41,70.86,Month-to-month,0,2764.74,Fiber optic,Electronic check,No
+TELCO-10116,3,39.99,One year,3,114.16,Fiber optic,Credit card (automatic),No
+TELCO-10117,11,32.5,Month-to-month,4,357.5,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10118,18,37.39,One year,1,657.3,No,Credit card (automatic),No
+TELCO-10119,9,53.0,Month-to-month,0,485.9,DSL,Bank transfer (automatic),Yes
+TELCO-10120,32,28.21,Month-to-month,1,929.19,DSL,Mailed check,Yes
+TELCO-10121,49,113.47,Month-to-month,0,5338.98,Fiber optic,Bank transfer (automatic),No
+TELCO-10122,48,59.1,Month-to-month,1,2955.19,Fiber optic,Electronic check,Yes
+TELCO-10123,34,99.6,Month-to-month,1,3227.21,DSL,Mailed check,No
+TELCO-10124,62,116.19,Two year,2,7339.5,Fiber optic,Mailed check,Yes
+TELCO-10125,41,26.59,Month-to-month,0,1077.6,Fiber optic,Mailed check,No
+TELCO-10126,6,83.83,Month-to-month,2,511.4,Fiber optic,Credit card (automatic),Yes
+TELCO-10127,56,105.86,Two year,0,5689.63,No,Credit card (automatic),No
+TELCO-10128,42,82.08,Month-to-month,1,3598.04,Fiber optic,Mailed check,No
+TELCO-10129,46,61.51,Month-to-month,2,2953.22,Fiber optic,Credit card (automatic),No
+TELCO-10130,41,61.72,One year,2,2535.43,Fiber optic,Electronic check,No
+TELCO-10131,40,22.1,Two year,0,884.85,DSL,Credit card (automatic),No
+TELCO-10132,7,72.09,One year,1,511.43,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10133,41,118.1,Month-to-month,3,4880.87,No,Bank transfer (automatic),Yes
+TELCO-10134,58,114.61,Two year,2,6676.33,No,Bank transfer (automatic),Yes
+TELCO-10135,22,22.55,Month-to-month,3,500.52,No,Credit card (automatic),No
+TELCO-10136,44,89.26,Two year,0,4068.29,Fiber optic,Bank transfer (automatic),No
+TELCO-10137,3,48.75,Two year,3,147.87,Fiber optic,Credit card (automatic),Yes
+TELCO-10138,26,109.02,Two year,2,2748.3,DSL,Bank transfer (automatic),No
+TELCO-10139,32,23.02,Month-to-month,1,767.13,No,Mailed check,No
+TELCO-10140,71,112.32,Month-to-month,0,7748.21,Fiber optic,Electronic check,No
+TELCO-10141,16,102.46,One year,0,1584.47,DSL,Credit card (automatic),Yes
+TELCO-10142,20,30.28,Month-to-month,4,635.7,No,Electronic check,Yes
+TELCO-10143,30,24.5,Month-to-month,2,713.94,Fiber optic,Electronic check,No
+TELCO-10144,72,102.18,Two year,4,7062.75,No,Electronic check,No
+TELCO-10145,62,34.11,One year,1,2127.93,Fiber optic,Electronic check,No
+TELCO-10146,3,72.12,Month-to-month,2,223.44,No,Electronic check,Yes
+TELCO-10147,17,110.3,Month-to-month,2,1792.74,Fiber optic,Mailed check,Yes
+TELCO-10148,60,75.39,Month-to-month,2,4518.92,Fiber optic,Mailed check,Yes
+TELCO-10149,5,58.32,Month-to-month,2,279.02,Fiber optic,Mailed check,Yes
+TELCO-10150,62,63.11,Month-to-month,0,3884.92,DSL,Mailed check,No
+TELCO-10151,21,24.83,Two year,2,513.29,DSL,Mailed check,No
+TELCO-10152,67,115.62,One year,3,7465.44,No,Electronic check,Yes
+TELCO-10153,22,49.64,Month-to-month,2,1139.15,No,Bank transfer (automatic),Yes
+TELCO-10154,32,37.48,Month-to-month,4,1215.54,No,Mailed check,Yes
+TELCO-10155,48,47.18,One year,0,2342.33,DSL,Bank transfer (automatic),No
+TELCO-10156,10,115.18,Two year,3,1198.56,DSL,Electronic check,Yes
+TELCO-10157,41,27.95,Two year,1,1195.25,No,Credit card (automatic),No
+TELCO-10158,37,105.45,Month-to-month,2,3998.46,DSL,Bank transfer (automatic),Yes
+TELCO-10159,57,89.46,Two year,2,5000.78,Fiber optic,Mailed check,No
+TELCO-10160,72,101.71,Month-to-month,2,7564.0,DSL,Mailed check,Yes
+TELCO-10161,48,116.33,Month-to-month,2,5595.11,No,Mailed check,Yes
+TELCO-10162,30,102.93,Two year,0,3017.39,Fiber optic,Credit card (automatic),No
+TELCO-10163,30,113.07,Month-to-month,3,3353.35,DSL,Bank transfer (automatic),Yes
+TELCO-10164,31,31.23,Month-to-month,4,948.89,Fiber optic,Mailed check,Yes
+TELCO-10165,59,98.28,Month-to-month,1,5778.92,DSL,Bank transfer (automatic),No
+TELCO-10166,24,73.2,Month-to-month,1,1806.22,Fiber optic,Electronic check,Yes
+TELCO-10167,13,72.99,Month-to-month,1,947.43,Fiber optic,Credit card (automatic),No
+TELCO-10168,25,108.62,One year,0,2652.46,Fiber optic,Bank transfer (automatic),No
+TELCO-10169,2,115.92,Month-to-month,2,222.27,Fiber optic,Mailed check,Yes
+TELCO-10170,8,89.16,Month-to-month,4,738.66,DSL,Bank transfer (automatic),Yes
+TELCO-10171,7,66.91,Two year,1,464.5,DSL,Electronic check,No
+TELCO-10172,56,64.25,Month-to-month,2,3577.1,No,Mailed check,Yes
+TELCO-10173,53,57.23,Two year,2,3113.18,Fiber optic,Credit card (automatic),No
+TELCO-10174,51,54.75,Month-to-month,0,2889.9,Fiber optic,Credit card (automatic),No
+TELCO-10175,34,57.75,One year,0,1965.69,Fiber optic,Electronic check,No
+TELCO-10176,52,27.5,Month-to-month,0,1448.93,No,Bank transfer (automatic),No
+TELCO-10177,12,26.26,Two year,2,306.9,Fiber optic,Bank transfer (automatic),No
+TELCO-10178,65,96.68,Month-to-month,1,6557.61,DSL,Bank transfer (automatic),Yes
+TELCO-10179,37,63.22,Two year,3,2355.03,Fiber optic,Mailed check,No
+TELCO-10180,68,111.8,Month-to-month,0,7769.35,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10181,11,79.88,One year,3,844.78,Fiber optic,Mailed check,No
+TELCO-10182,36,22.03,Month-to-month,0,803.94,No,Credit card (automatic),Yes
+TELCO-10183,51,34.29,Month-to-month,3,1725.87,Fiber optic,Credit card (automatic),Yes
+TELCO-10184,36,39.13,Month-to-month,4,1401.65,No,Credit card (automatic),Yes
+TELCO-10185,33,116.32,Month-to-month,2,3908.48,Fiber optic,Mailed check,Yes
+TELCO-10186,12,40.43,Month-to-month,3,499.54,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10187,28,70.2,One year,2,1935.99,Fiber optic,Electronic check,Yes
+TELCO-10188,18,112.35,Month-to-month,1,2097.78,Fiber optic,Credit card (automatic),Yes
+TELCO-10189,22,116.46,Month-to-month,1,2490.12,DSL,Credit card (automatic),Yes
+TELCO-10190,50,42.2,Month-to-month,2,2123.27,Fiber optic,Credit card (automatic),Yes
+TELCO-10191,46,23.42,Month-to-month,4,1039.75,DSL,Electronic check,Yes
+TELCO-10192,44,33.9,Month-to-month,3,1460.16,DSL,Mailed check,Yes
+TELCO-10193,27,24.85,One year,1,697.48,No,Mailed check,No
+TELCO-10194,70,38.06,Month-to-month,1,2534.07,DSL,Credit card (automatic),No
+TELCO-10195,7,75.5,Two year,2,550.47,No,Bank transfer (automatic),No
+TELCO-10196,25,109.97,Month-to-month,3,2702.07,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10197,9,72.36,Month-to-month,3,663.99,Fiber optic,Mailed check,Yes
+TELCO-10198,25,81.26,Two year,1,1948.56,No,Electronic check,No
+TELCO-10199,70,38.74,Month-to-month,0,2750.11,Fiber optic,Bank transfer (automatic),No
+TELCO-10200,27,98.76,Month-to-month,1,2775.7,No,Bank transfer (automatic),Yes
+TELCO-10201,66,80.43,Two year,1,5337.68,DSL,Mailed check,No
+TELCO-10202,36,105.13,Two year,0,3732.5,Fiber optic,Bank transfer (automatic),No
+TELCO-10203,51,113.62,One year,4,5964.74,Fiber optic,Mailed check,Yes
+TELCO-10204,33,53.38,Month-to-month,2,1799.01,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10205,20,27.58,One year,4,530.51,Fiber optic,Mailed check,Yes
+TELCO-10206,56,41.15,Two year,2,2342.58,Fiber optic,Credit card (automatic),No
+TELCO-10207,70,62.39,Two year,0,4439.21,DSL,Credit card (automatic),No
+TELCO-10208,19,113.31,Month-to-month,0,2207.13,DSL,Mailed check,No
+TELCO-10209,57,56.43,Month-to-month,6,3157.42,No,Electronic check,Yes
+TELCO-10210,19,95.77,Month-to-month,1,1801.67,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10211,52,72.68,Month-to-month,1,3953.22,Fiber optic,Credit card (automatic),No
+TELCO-10212,57,36.83,One year,3,2114.73,Fiber optic,Bank transfer (automatic),No
+TELCO-10213,33,50.65,Month-to-month,2,1672.87,No,Mailed check,Yes
+TELCO-10214,54,83.98,Month-to-month,1,4755.7,No,Bank transfer (automatic),No
+TELCO-10215,20,85.95,Month-to-month,1,1672.51,DSL,Mailed check,Yes
+TELCO-10216,6,62.08,Month-to-month,0,368.68,No,Credit card (automatic),Yes
+TELCO-10217,7,41.42,Month-to-month,2,297.48,DSL,Bank transfer (automatic),Yes
+TELCO-10218,33,90.87,Month-to-month,2,3062.61,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10219,65,35.43,Month-to-month,1,2410.43,No,Mailed check,No
+TELCO-10220,10,112.4,Two year,3,1141.34,DSL,Electronic check,Yes
+TELCO-10221,33,37.34,Month-to-month,1,1209.19,DSL,Bank transfer (automatic),No
+TELCO-10222,51,29.26,Month-to-month,1,1476.99,Fiber optic,Mailed check,No
+TELCO-10223,15,68.39,Month-to-month,0,983.76,No,Credit card (automatic),No
+TELCO-10224,52,70.58,Month-to-month,2,3825.67,DSL,Electronic check,No
+TELCO-10225,23,69.45,Month-to-month,0,1538.04,Fiber optic,Credit card (automatic),No
+TELCO-10226,59,62.28,Month-to-month,5,3691.31,Fiber optic,Credit card (automatic),No
+TELCO-10227,42,118.23,Month-to-month,1,4916.7,Fiber optic,Bank transfer (automatic),No
+TELCO-10228,40,67.25,Month-to-month,2,2591.61,Fiber optic,Credit card (automatic),No
+TELCO-10229,13,66.41,One year,0,845.46,Fiber optic,Bank transfer (automatic),No
+TELCO-10230,34,60.78,Month-to-month,1,2094.12,Fiber optic,Electronic check,No
+TELCO-10231,62,25.2,Month-to-month,0,1489.16,Fiber optic,Mailed check,No
+TELCO-10232,2,77.94,One year,1,163.14,No,Credit card (automatic),No
+TELCO-10233,55,41.35,Month-to-month,3,2367.29,No,Credit card (automatic),No
+TELCO-10234,36,82.42,Month-to-month,2,2843.87,DSL,Electronic check,Yes
+TELCO-10235,52,23.6,Month-to-month,5,1272.4,Fiber optic,Electronic check,Yes
+TELCO-10236,48,116.88,Month-to-month,5,5514.06,Fiber optic,Credit card (automatic),Yes
+TELCO-10237,32,65.52,Month-to-month,2,2005.96,DSL,Electronic check,No
+TELCO-10238,23,108.4,Two year,3,2444.86,Fiber optic,Credit card (automatic),Yes
+TELCO-10239,46,66.18,Two year,1,3138.31,Fiber optic,Bank transfer (automatic),No
+TELCO-10240,11,24.55,Two year,2,274.53,DSL,Credit card (automatic),No
+TELCO-10241,43,100.93,Month-to-month,3,4226.53,Fiber optic,Electronic check,Yes
+TELCO-10242,7,83.48,Month-to-month,4,597.17,Fiber optic,Mailed check,Yes
+TELCO-10243,47,96.87,Month-to-month,0,4647.51,Fiber optic,Bank transfer (automatic),No
+TELCO-10244,46,61.42,Month-to-month,2,2893.94,No,Electronic check,Yes
+TELCO-10245,7,82.45,Month-to-month,2,579.5,DSL,Electronic check,Yes
+TELCO-10246,55,104.34,Month-to-month,5,5921.73,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10247,30,81.76,Month-to-month,1,2487.47,Fiber optic,Electronic check,Yes
+TELCO-10248,57,53.35,Month-to-month,3,2927.04,Fiber optic,Credit card (automatic),Yes
+TELCO-10249,3,84.92,Month-to-month,3,262.66,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10250,13,85.85,One year,1,1096.38,DSL,Bank transfer (automatic),No
+TELCO-10251,36,114.8,Month-to-month,1,4217.54,DSL,Bank transfer (automatic),No
+TELCO-10252,14,55.68,Two year,2,793.17,Fiber optic,Bank transfer (automatic),No
+TELCO-10253,24,61.11,Month-to-month,3,1442.57,DSL,Credit card (automatic),Yes
+TELCO-10254,48,99.92,Month-to-month,2,4633.9,No,Electronic check,No
+TELCO-10255,11,69.2,Month-to-month,0,776.04,Fiber optic,Electronic check,Yes
+TELCO-10256,49,92.34,Month-to-month,1,4682.58,DSL,Bank transfer (automatic),Yes
+TELCO-10257,8,64.59,Month-to-month,4,534.2,Fiber optic,Electronic check,No
+TELCO-10258,13,40.1,Month-to-month,2,527.89,No,Electronic check,No
+TELCO-10259,43,93.21,One year,1,3898.77,DSL,Electronic check,No
+TELCO-10260,58,31.65,Month-to-month,0,1801.96,Fiber optic,Electronic check,No
+TELCO-10261,13,38.41,Month-to-month,0,512.04,DSL,Mailed check,Yes
+TELCO-10262,22,81.34,Two year,0,1773.53,No,Bank transfer (automatic),No
+TELCO-10263,67,93.41,Month-to-month,2,6403.98,Fiber optic,Electronic check,Yes
+TELCO-10264,72,108.19,One year,5,7641.25,Fiber optic,Credit card (automatic),No
+TELCO-10265,42,45.83,Month-to-month,5,1829.83,Fiber optic,Credit card (automatic),Yes
+TELCO-10266,33,29.6,Month-to-month,1,986.91,Fiber optic,Bank transfer (automatic),No
+TELCO-10267,25,114.34,Month-to-month,0,2887.35,Fiber optic,Electronic check,No
+TELCO-10268,45,33.98,Month-to-month,1,1548.6,DSL,Bank transfer (automatic),Yes
+TELCO-10269,43,38.32,One year,1,1609.56,DSL,Credit card (automatic),No
+TELCO-10270,22,47.71,Month-to-month,3,1082.27,DSL,Electronic check,Yes
+TELCO-10271,2,71.57,Month-to-month,0,142.96,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10272,11,107.0,Month-to-month,0,1207.88,No,Bank transfer (automatic),Yes
+TELCO-10273,70,94.74,Two year,4,6705.47,DSL,Bank transfer (automatic),No
+TELCO-10274,31,89.49,One year,0,2750.91,No,Credit card (automatic),No
+TELCO-10275,35,36.06,Two year,2,1284.77,No,Electronic check,No
+TELCO-10276,34,54.36,One year,2,1862.1,DSL,Electronic check,No
+TELCO-10277,57,66.46,One year,1,3792.28,DSL,Electronic check,No
+TELCO-10278,5,33.28,Month-to-month,0,168.87,Fiber optic,Mailed check,Yes
+TELCO-10279,6,45.91,Two year,1,264.05,DSL,Mailed check,No
+TELCO-10280,20,49.41,Month-to-month,0,1028.74,Fiber optic,Credit card (automatic),Yes
+TELCO-10281,36,31.26,Month-to-month,4,1106.8,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10282,49,73.66,One year,0,3509.97,Fiber optic,Bank transfer (automatic),No
+TELCO-10283,36,89.18,Month-to-month,3,3297.74,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10284,32,25.51,Month-to-month,2,794.38,DSL,Credit card (automatic),No
+TELCO-10285,68,66.73,Month-to-month,2,4762.6,No,Mailed check,No
+TELCO-10286,12,96.92,Month-to-month,1,1153.79,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10287,42,93.49,Two year,2,3846.72,DSL,Mailed check,No
+TELCO-10288,40,100.21,Month-to-month,2,3832.86,Fiber optic,Electronic check,Yes
+TELCO-10289,35,63.44,Two year,0,2118.66,DSL,Credit card (automatic),Yes
+TELCO-10290,59,100.76,Month-to-month,1,5704.16,No,Electronic check,No
+TELCO-10291,20,42.64,One year,4,810.59,Fiber optic,Mailed check,Yes
+TELCO-10292,69,54.67,Month-to-month,2,3707.0,No,Mailed check,Yes
+TELCO-10293,24,36.18,Two year,1,851.86,No,Electronic check,No
+TELCO-10294,40,65.37,Month-to-month,2,2596.52,Fiber optic,Credit card (automatic),Yes
+TELCO-10295,38,57.8,Month-to-month,1,2137.74,Fiber optic,Mailed check,Yes
+TELCO-10296,62,42.65,Month-to-month,4,2528.68,Fiber optic,Mailed check,No
+TELCO-10297,32,93.87,Month-to-month,3,2875.02,DSL,Mailed check,Yes
+TELCO-10298,21,49.96,Month-to-month,1,1015.81,No,Credit card (automatic),Yes
+TELCO-10299,2,45.85,One year,4,90.02,Fiber optic,Mailed check,Yes
+TELCO-10300,27,31.62,Two year,1,823.69,No,Credit card (automatic),No
+TELCO-10301,60,62.49,One year,1,3698.83,Fiber optic,Bank transfer (automatic),No
+TELCO-10302,1,48.87,Month-to-month,0,50.93,DSL,Credit card (automatic),Yes
+TELCO-10303,65,55.52,Month-to-month,1,3522.77,Fiber optic,Bank transfer (automatic),No
+TELCO-10304,40,42.16,Two year,1,1630.48,DSL,Credit card (automatic),No
+TELCO-10305,11,95.01,Two year,1,1062.33,DSL,Bank transfer (automatic),No
+TELCO-10306,22,111.73,Month-to-month,2,2455.82,Fiber optic,Electronic check,Yes
+TELCO-10307,40,68.42,Two year,0,2612.89,DSL,Electronic check,No
+TELCO-10308,23,82.96,Month-to-month,4,1963.0,No,Credit card (automatic),Yes
+TELCO-10309,8,105.43,Two year,3,861.6,Fiber optic,Electronic check,No
+TELCO-10310,48,118.63,Two year,2,5966.03,Fiber optic,Electronic check,No
+TELCO-10311,49,80.01,One year,4,4092.33,DSL,Credit card (automatic),No
+TELCO-10312,9,107.7,Month-to-month,2,977.47,DSL,Mailed check,Yes
+TELCO-10313,21,109.59,One year,2,2344.2,Fiber optic,Electronic check,Yes
+TELCO-10314,18,97.84,Month-to-month,1,1745.18,DSL,Electronic check,No
+TELCO-10315,48,64.71,One year,1,3226.74,Fiber optic,Mailed check,No
+TELCO-10316,53,26.64,Month-to-month,2,1419.38,Fiber optic,Credit card (automatic),Yes
+TELCO-10317,53,20.08,One year,3,1045.67,DSL,Mailed check,No
+TELCO-10318,68,66.34,Two year,3,4289.85,Fiber optic,Credit card (automatic),No
+TELCO-10319,56,68.06,Month-to-month,5,3844.31,DSL,Bank transfer (automatic),No
+TELCO-10320,24,59.34,Month-to-month,4,1427.78,DSL,Mailed check,No
+TELCO-10321,8,75.46,One year,1,622.51,Fiber optic,Electronic check,No
+TELCO-10322,45,73.85,Month-to-month,4,3219.23,DSL,Credit card (automatic),Yes
+TELCO-10323,66,102.37,Month-to-month,1,6969.52,DSL,Credit card (automatic),No
+TELCO-10324,71,29.39,Month-to-month,1,1985.54,Fiber optic,Electronic check,Yes
+TELCO-10325,17,41.07,Month-to-month,3,704.29,Fiber optic,Mailed check,Yes
+TELCO-10326,18,98.0,One year,1,1745.8,No,Bank transfer (automatic),No
+TELCO-10327,3,103.5,One year,0,305.27,No,Credit card (automatic),No
+TELCO-10328,11,118.23,Month-to-month,3,1291.85,Fiber optic,Credit card (automatic),Yes
+TELCO-10329,40,106.01,Month-to-month,2,4123.19,Fiber optic,Mailed check,Yes
+TELCO-10330,40,107.71,Month-to-month,0,4172.01,Fiber optic,Credit card (automatic),Yes
+TELCO-10331,27,50.01,Month-to-month,1,1391.47,DSL,Bank transfer (automatic),Yes
+TELCO-10332,23,58.77,One year,1,1314.91,No,Mailed check,Yes
+TELCO-10333,60,45.38,Month-to-month,2,2787.32,Fiber optic,Mailed check,No
+TELCO-10334,34,79.28,Month-to-month,4,2752.49,DSL,Credit card (automatic),Yes
+TELCO-10335,59,112.62,Two year,3,6334.54,Fiber optic,Credit card (automatic),Yes
+TELCO-10336,70,53.05,Month-to-month,1,3855.01,Fiber optic,Credit card (automatic),No
+TELCO-10337,23,74.34,One year,3,1759.29,Fiber optic,Mailed check,No
+TELCO-10338,15,48.2,Month-to-month,0,744.41,DSL,Mailed check,No
+TELCO-10339,69,35.52,Month-to-month,1,2526.66,No,Credit card (automatic),No
+TELCO-10340,46,38.07,Month-to-month,3,1765.68,DSL,Mailed check,Yes
+TELCO-10341,21,24.31,One year,1,535.7,No,Credit card (automatic),No
+TELCO-10342,45,113.67,Two year,2,4951.03,Fiber optic,Bank transfer (automatic),No
+TELCO-10343,38,58.89,Month-to-month,1,2142.12,No,Bank transfer (automatic),Yes
+TELCO-10344,66,102.12,Month-to-month,1,6877.53,No,Electronic check,Yes
+TELCO-10345,19,86.8,Month-to-month,0,1615.22,Fiber optic,Electronic check,No
+TELCO-10346,72,37.74,One year,1,2746.69,No,Bank transfer (automatic),No
+TELCO-10347,68,36.09,One year,0,2427.54,DSL,Mailed check,No
+TELCO-10348,14,99.9,One year,1,1375.32,DSL,Bank transfer (automatic),Yes
+TELCO-10349,12,45.04,Two year,2,561.73,Fiber optic,Credit card (automatic),Yes
+TELCO-10350,39,110.06,Month-to-month,1,4138.69,Fiber optic,Electronic check,Yes
+TELCO-10351,4,32.54,One year,3,126.11,DSL,Credit card (automatic),Yes
+TELCO-10352,22,86.44,One year,3,1933.6,Fiber optic,Electronic check,Yes
+TELCO-10353,32,100.15,Month-to-month,5,3295.37,No,Electronic check,Yes
+TELCO-10354,70,42.08,Two year,3,3043.46,No,Credit card (automatic),No
+TELCO-10355,72,46.19,Month-to-month,3,3236.27,DSL,Electronic check,No
+TELCO-10356,11,115.19,One year,3,1315.51,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10357,65,45.03,One year,3,2959.01,DSL,Electronic check,No
+TELCO-10358,7,61.6,Two year,1,445.14,DSL,Electronic check,No
+TELCO-10359,54,61.86,Month-to-month,3,3196.31,No,Electronic check,No
+TELCO-10360,61,43.87,Month-to-month,2,2637.77,No,Bank transfer (automatic),No
+TELCO-10361,65,96.27,Two year,2,6273.11,DSL,Mailed check,No
+TELCO-10362,17,95.88,One year,2,1642.5,DSL,Electronic check,Yes
+TELCO-10363,65,56.43,Month-to-month,2,3520.89,Fiber optic,Credit card (automatic),No
+TELCO-10364,9,102.22,One year,0,923.54,Fiber optic,Electronic check,Yes
+TELCO-10365,38,39.86,Month-to-month,0,1539.75,DSL,Electronic check,Yes
+TELCO-10366,34,18.93,One year,3,634.71,DSL,Electronic check,Yes
+TELCO-10367,23,75.76,Two year,1,1742.61,Fiber optic,Credit card (automatic),Yes
+TELCO-10368,2,118.16,Month-to-month,1,231.42,DSL,Mailed check,Yes
+TELCO-10369,56,22.37,Month-to-month,1,1299.13,No,Credit card (automatic),No
+TELCO-10370,25,39.35,Two year,3,993.51,Fiber optic,Credit card (automatic),No
+TELCO-10371,48,70.52,One year,4,3402.32,Fiber optic,Mailed check,No
+TELCO-10372,30,99.7,Two year,2,3123.91,Fiber optic,Credit card (automatic),No
+TELCO-10373,27,27.43,Month-to-month,0,752.82,No,Mailed check,Yes
+TELCO-10374,64,58.12,Two year,1,3637.78,DSL,Bank transfer (automatic),No
+TELCO-10375,7,93.39,Month-to-month,1,663.0,No,Bank transfer (automatic),Yes
+TELCO-10376,54,55.75,Month-to-month,1,3149.47,DSL,Credit card (automatic),No
+TELCO-10377,54,37.43,Month-to-month,2,1924.92,No,Electronic check,No
+TELCO-10378,28,38.1,One year,3,1080.3,DSL,Electronic check,No
+TELCO-10379,19,59.61,Two year,0,1093.72,No,Bank transfer (automatic),No
+TELCO-10380,1,66.56,One year,0,68.67,DSL,Credit card (automatic),Yes
+TELCO-10381,68,104.9,One year,3,7233.55,No,Bank transfer (automatic),No
+TELCO-10382,69,82.89,Month-to-month,2,5969.34,Fiber optic,Electronic check,No
+TELCO-10383,18,87.71,Month-to-month,1,1605.55,DSL,Electronic check,No
+TELCO-10384,3,117.04,Month-to-month,3,334.17,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10385,9,59.79,Month-to-month,3,538.67,DSL,Credit card (automatic),Yes
+TELCO-10386,5,58.94,Month-to-month,2,306.6,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10387,60,111.07,Two year,1,6485.8,DSL,Mailed check,No
+TELCO-10388,65,43.15,One year,2,2687.76,Fiber optic,Bank transfer (automatic),No
+TELCO-10389,12,91.66,One year,1,1124.11,No,Electronic check,No
+TELCO-10390,54,94.15,Month-to-month,0,5085.38,Fiber optic,Mailed check,No
+TELCO-10391,13,28.3,Month-to-month,0,351.26,Fiber optic,Credit card (automatic),Yes
+TELCO-10392,27,65.44,Month-to-month,0,1727.99,No,Bank transfer (automatic),Yes
+TELCO-10393,44,38.61,Month-to-month,3,1669.41,Fiber optic,Electronic check,Yes
+TELCO-10394,52,37.08,Month-to-month,1,1960.53,DSL,Electronic check,No
+TELCO-10395,63,65.0,Month-to-month,2,4083.37,Fiber optic,Electronic check,No
+TELCO-10396,4,47.52,Month-to-month,3,189.84,DSL,Mailed check,Yes
+TELCO-10397,15,98.31,One year,0,1519.86,Fiber optic,Electronic check,No
+TELCO-10398,21,109.49,Month-to-month,1,2248.34,DSL,Credit card (automatic),Yes
+TELCO-10399,23,98.97,Month-to-month,4,2315.59,No,Mailed check,Yes
+TELCO-10400,72,45.17,Month-to-month,2,3209.17,Fiber optic,Electronic check,Yes
+TELCO-10401,56,45.98,Month-to-month,0,2553.86,Fiber optic,Mailed check,No
+TELCO-10402,24,44.04,Month-to-month,2,1062.87,DSL,Bank transfer (automatic),Yes
+TELCO-10403,70,32.04,Month-to-month,1,2286.68,DSL,Bank transfer (automatic),No
+TELCO-10404,36,113.12,One year,1,4253.62,Fiber optic,Credit card (automatic),Yes
+TELCO-10405,37,58.81,Month-to-month,0,2125.71,Fiber optic,Mailed check,No
+TELCO-10406,32,41.03,Two year,2,1260.93,No,Bank transfer (automatic),No
+TELCO-10407,11,103.38,Month-to-month,0,1129.08,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10408,68,58.52,Month-to-month,1,3997.95,DSL,Electronic check,No
+TELCO-10409,2,22.02,Month-to-month,0,42.84,Fiber optic,Electronic check,Yes
+TELCO-10410,13,34.73,Month-to-month,1,469.12,Fiber optic,Credit card (automatic),No
+TELCO-10411,17,82.58,Month-to-month,3,1445.81,DSL,Mailed check,Yes
+TELCO-10412,21,96.99,Two year,3,2035.5,Fiber optic,Bank transfer (automatic),No
+TELCO-10413,10,39.65,Month-to-month,2,394.52,DSL,Credit card (automatic),Yes
+TELCO-10414,2,110.47,One year,0,210.79,DSL,Electronic check,Yes
+TELCO-10415,49,103.81,Month-to-month,3,5105.45,DSL,Credit card (automatic),Yes
+TELCO-10416,70,103.55,Month-to-month,2,7317.9,Fiber optic,Electronic check,No
+TELCO-10417,9,41.32,Month-to-month,3,386.44,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10418,22,23.57,Month-to-month,2,518.6,DSL,Electronic check,No
+TELCO-10419,37,105.46,Month-to-month,0,3768.33,Fiber optic,Mailed check,Yes
+TELCO-10420,67,49.16,Two year,1,3188.34,Fiber optic,Mailed check,No
+TELCO-10421,50,80.55,One year,2,3890.51,Fiber optic,Mailed check,No
+TELCO-10422,56,94.69,Two year,1,5535.18,DSL,Electronic check,No
+TELCO-10423,42,31.36,Month-to-month,5,1355.76,DSL,Credit card (automatic),Yes
+TELCO-10424,31,96.78,One year,0,3097.62,DSL,Electronic check,No
+TELCO-10425,15,112.59,One year,1,1746.34,No,Credit card (automatic),No
+TELCO-10426,63,91.52,One year,1,5532.61,No,Electronic check,No
+TELCO-10427,58,62.73,Two year,4,3711.9,DSL,Bank transfer (automatic),No
+TELCO-10428,2,106.39,One year,0,217.13,Fiber optic,Bank transfer (automatic),No
+TELCO-10429,52,71.38,Two year,2,3609.62,DSL,Mailed check,No
+TELCO-10430,7,93.16,One year,2,651.51,DSL,Bank transfer (automatic),Yes
+TELCO-10431,54,100.76,Month-to-month,1,5529.42,DSL,Electronic check,No
+TELCO-10432,60,93.62,One year,5,5840.39,DSL,Credit card (automatic),Yes
+TELCO-10433,10,47.36,Month-to-month,3,455.15,DSL,Electronic check,Yes
+TELCO-10434,32,30.31,Two year,2,1007.96,DSL,Bank transfer (automatic),No
+TELCO-10435,9,42.39,Two year,1,397.63,Fiber optic,Electronic check,No
+TELCO-10436,41,68.91,Month-to-month,2,2944.99,Fiber optic,Bank transfer (automatic),No
+TELCO-10437,67,69.15,Month-to-month,2,4403.64,Fiber optic,Mailed check,Yes
+TELCO-10438,6,76.91,Month-to-month,2,448.59,Fiber optic,Mailed check,Yes
+TELCO-10439,29,58.11,Month-to-month,1,1717.42,Fiber optic,Electronic check,No
+TELCO-10440,71,97.39,Month-to-month,5,6791.43,Fiber optic,Electronic check,Yes
+TELCO-10441,22,110.04,One year,2,2314.62,No,Mailed check,No
+TELCO-10442,10,43.23,One year,0,443.67,DSL,Bank transfer (automatic),No
+TELCO-10443,36,92.34,Two year,0,3167.53,Fiber optic,Bank transfer (automatic),No
+TELCO-10444,37,86.47,Month-to-month,3,3182.12,DSL,Mailed check,No
+TELCO-10445,48,70.94,Month-to-month,3,3557.53,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10446,23,37.4,Month-to-month,1,855.06,Fiber optic,Electronic check,Yes
+TELCO-10447,69,98.22,Two year,2,7056.32,Fiber optic,Bank transfer (automatic),No
+TELCO-10448,38,114.8,Month-to-month,4,4322.7,No,Bank transfer (automatic),Yes
+TELCO-10449,21,90.86,Month-to-month,3,1878.81,Fiber optic,Electronic check,Yes
+TELCO-10450,70,110.52,Month-to-month,0,7432.66,DSL,Electronic check,No
+TELCO-10451,67,117.16,Two year,4,7738.33,Fiber optic,Bank transfer (automatic),No
+TELCO-10452,36,53.79,Month-to-month,1,1904.87,DSL,Bank transfer (automatic),Yes
+TELCO-10453,2,82.48,One year,0,170.68,Fiber optic,Credit card (automatic),No
+TELCO-10454,43,66.01,One year,1,2957.62,No,Mailed check,No
+TELCO-10455,40,117.41,One year,1,4471.88,Fiber optic,Mailed check,Yes
+TELCO-10456,11,27.9,Month-to-month,2,294.57,Fiber optic,Mailed check,Yes
+TELCO-10457,46,59.84,Month-to-month,1,2792.07,DSL,Credit card (automatic),Yes
+TELCO-10458,61,106.27,Month-to-month,0,6472.58,DSL,Mailed check,No
+TELCO-10459,8,46.98,Month-to-month,0,368.21,No,Mailed check,Yes
+TELCO-10460,53,97.48,One year,1,5042.4,DSL,Mailed check,No
+TELCO-10461,11,56.87,Month-to-month,2,608.35,DSL,Bank transfer (automatic),No
+TELCO-10462,54,116.74,Month-to-month,1,6320.0,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10463,31,107.07,Month-to-month,2,3159.01,Fiber optic,Mailed check,Yes
+TELCO-10464,1,48.71,One year,3,49.87,DSL,Mailed check,No
+TELCO-10465,70,95.71,Month-to-month,1,6565.97,DSL,Bank transfer (automatic),Yes
+TELCO-10466,12,52.27,One year,0,622.65,Fiber optic,Mailed check,No
+TELCO-10467,43,79.29,Month-to-month,0,3418.69,Fiber optic,Credit card (automatic),No
+TELCO-10468,14,84.51,Two year,3,1148.99,Fiber optic,Bank transfer (automatic),No
+TELCO-10469,68,101.67,One year,3,7178.84,DSL,Mailed check,Yes
+TELCO-10470,54,20.95,Month-to-month,4,1151.9,No,Electronic check,No
+TELCO-10471,58,40.57,Month-to-month,1,2440.19,DSL,Credit card (automatic),No
+TELCO-10472,32,89.87,Month-to-month,1,2868.78,DSL,Bank transfer (automatic),No
+TELCO-10473,34,74.99,Month-to-month,5,2532.44,No,Credit card (automatic),No
+TELCO-10474,46,68.18,Month-to-month,1,3053.84,No,Bank transfer (automatic),Yes
+TELCO-10475,57,24.03,Two year,2,1375.85,DSL,Credit card (automatic),No
+TELCO-10476,61,53.41,One year,0,3288.36,Fiber optic,Electronic check,No
+TELCO-10477,2,105.23,Month-to-month,1,208.77,No,Electronic check,Yes
+TELCO-10478,48,21.6,One year,1,1000.03,DSL,Bank transfer (automatic),No
+TELCO-10479,8,58.24,Month-to-month,3,455.35,DSL,Electronic check,No
+TELCO-10480,21,113.25,Two year,3,2262.73,Fiber optic,Credit card (automatic),No
+TELCO-10481,60,23.6,Month-to-month,5,1390.39,No,Credit card (automatic),Yes
+TELCO-10482,19,93.66,One year,5,1793.91,Fiber optic,Bank transfer (automatic),No
+TELCO-10483,58,44.33,One year,4,2688.31,Fiber optic,Bank transfer (automatic),No
+TELCO-10484,34,105.38,Month-to-month,3,3467.51,No,Mailed check,Yes
+TELCO-10485,17,93.29,Month-to-month,2,1515.43,DSL,Credit card (automatic),Yes
+TELCO-10486,25,107.29,Month-to-month,2,2627.62,Fiber optic,Electronic check,Yes
+TELCO-10487,39,40.15,Two year,3,1512.11,DSL,Mailed check,No
+TELCO-10488,56,71.76,Month-to-month,0,4097.13,Fiber optic,Bank transfer (automatic),No
+TELCO-10489,44,96.62,One year,0,4041.16,Fiber optic,Credit card (automatic),No
+TELCO-10490,68,43.13,One year,1,3073.87,DSL,Electronic check,Yes
+TELCO-10491,63,41.63,Two year,2,2715.97,Fiber optic,Credit card (automatic),No
+TELCO-10492,55,21.23,Month-to-month,4,1166.56,No,Mailed check,Yes
+TELCO-10493,44,114.59,Month-to-month,0,5254.2,Fiber optic,Credit card (automatic),Yes
+TELCO-10494,21,89.68,One year,0,1907.4,DSL,Mailed check,Yes
+TELCO-10495,30,82.21,Month-to-month,3,2588.08,DSL,Bank transfer (automatic),Yes
+TELCO-10496,9,93.09,Two year,0,819.24,Fiber optic,Electronic check,No
+TELCO-10497,27,71.79,Month-to-month,3,2034.65,Fiber optic,Electronic check,Yes
+TELCO-10498,67,66.23,Month-to-month,1,4295.52,Fiber optic,Bank transfer (automatic),No
+TELCO-10499,31,63.57,Two year,1,1941.78,DSL,Bank transfer (automatic),No
+TELCO-10500,9,82.7,Month-to-month,2,776.7,Fiber optic,Mailed check,Yes
+TELCO-10501,47,38.7,Month-to-month,1,1795.35,DSL,Bank transfer (automatic),No
+TELCO-10502,70,107.53,Month-to-month,1,7308.69,DSL,Credit card (automatic),Yes
+TELCO-10503,63,99.88,Month-to-month,2,6015.25,Fiber optic,Mailed check,No
+TELCO-10504,20,53.54,Two year,3,1033.21,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10505,33,76.51,Month-to-month,1,2488.28,No,Electronic check,Yes
+TELCO-10506,39,32.64,Month-to-month,2,1262.93,Fiber optic,Bank transfer (automatic),No
+TELCO-10507,18,115.98,Month-to-month,3,2096.5,DSL,Credit card (automatic),Yes
+TELCO-10508,20,109.01,Two year,3,2248.57,No,Bank transfer (automatic),Yes
+TELCO-10509,18,110.92,Month-to-month,5,1899.41,DSL,Electronic check,Yes
+TELCO-10510,72,51.8,Two year,2,3856.82,No,Bank transfer (automatic),No
+TELCO-10511,54,35.46,Two year,3,1929.63,DSL,Mailed check,No
+TELCO-10512,61,39.73,Month-to-month,1,2485.69,No,Electronic check,No
+TELCO-10513,59,27.52,Two year,2,1665.41,No,Bank transfer (automatic),No
+TELCO-10514,70,30.54,One year,1,2224.0,No,Mailed check,No
+TELCO-10515,8,25.65,Month-to-month,2,196.86,DSL,Credit card (automatic),No
+TELCO-10516,64,117.73,Month-to-month,1,7588.6,No,Credit card (automatic),Yes
+TELCO-10517,5,25.92,Two year,3,134.9,Fiber optic,Bank transfer (automatic),No
+TELCO-10518,35,31.79,One year,1,1137.04,DSL,Bank transfer (automatic),No
+TELCO-10519,43,101.43,One year,2,4185.54,Fiber optic,Mailed check,No
+TELCO-10520,26,76.67,Two year,2,2016.14,Fiber optic,Electronic check,No
+TELCO-10521,11,96.14,Month-to-month,1,1089.25,No,Electronic check,Yes
+TELCO-10522,14,81.75,Two year,0,1118.73,Fiber optic,Mailed check,No
+TELCO-10523,60,106.94,Two year,3,6501.41,Fiber optic,Mailed check,No
+TELCO-10524,23,82.51,Month-to-month,2,1962.33,Fiber optic,Credit card (automatic),Yes
+TELCO-10525,23,70.84,Month-to-month,2,1633.21,DSL,Mailed check,Yes
+TELCO-10526,67,89.95,Month-to-month,0,5842.35,Fiber optic,Electronic check,Yes
+TELCO-10527,11,63.35,Two year,1,700.31,Fiber optic,Credit card (automatic),No
+TELCO-10528,66,53.19,Month-to-month,0,3541.43,Fiber optic,Credit card (automatic),No
+TELCO-10529,67,65.38,One year,2,4337.91,Fiber optic,Mailed check,No
+TELCO-10530,44,35.51,Month-to-month,2,1590.5,Fiber optic,Electronic check,Yes
+TELCO-10531,12,98.36,Month-to-month,2,1172.45,Fiber optic,Electronic check,Yes
+TELCO-10532,12,44.64,One year,2,555.9,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10533,21,33.89,Month-to-month,5,732.44,DSL,Credit card (automatic),Yes
+TELCO-10534,42,43.2,Two year,3,1869.7,No,Mailed check,No
+TELCO-10535,12,102.92,Month-to-month,4,1238.26,No,Electronic check,Yes
+TELCO-10536,33,51.6,Two year,0,1651.09,No,Mailed check,No
+TELCO-10537,9,87.28,Month-to-month,2,803.15,No,Electronic check,Yes
+TELCO-10538,39,104.36,Two year,2,3894.59,Fiber optic,Mailed check,Yes
+TELCO-10539,2,26.29,One year,1,52.67,Fiber optic,Mailed check,No
+TELCO-10540,52,95.19,Month-to-month,4,4728.61,No,Bank transfer (automatic),Yes
+TELCO-10541,4,49.34,Month-to-month,0,197.92,DSL,Electronic check,Yes
+TELCO-10542,15,40.22,Month-to-month,0,614.52,No,Mailed check,No
+TELCO-10543,13,87.56,One year,3,1129.08,DSL,Electronic check,Yes
+TELCO-10544,60,109.71,Two year,2,6527.9,No,Mailed check,No
+TELCO-10545,4,48.08,Month-to-month,2,185.07,Fiber optic,Credit card (automatic),Yes
+TELCO-10546,31,75.53,Month-to-month,1,2295.03,No,Bank transfer (automatic),Yes
+TELCO-10547,43,47.56,One year,4,2033.68,Fiber optic,Credit card (automatic),Yes
+TELCO-10548,38,74.07,Month-to-month,2,2916.99,Fiber optic,Electronic check,Yes
+TELCO-10549,50,80.84,One year,3,4202.86,No,Credit card (automatic),No
+TELCO-10550,58,79.69,Month-to-month,2,4831.67,Fiber optic,Credit card (automatic),No
+TELCO-10551,29,81.01,One year,1,2255.38,DSL,Bank transfer (automatic),Yes
+TELCO-10552,60,32.04,Two year,2,1883.22,DSL,Credit card (automatic),No
+TELCO-10553,23,88.03,Month-to-month,4,2017.18,Fiber optic,Electronic check,Yes
+TELCO-10554,71,86.14,Month-to-month,0,6202.63,Fiber optic,Bank transfer (automatic),No
+TELCO-10555,37,86.93,Month-to-month,2,3281.64,Fiber optic,Credit card (automatic),No
+TELCO-10556,53,25.93,One year,2,1413.6,DSL,Electronic check,No
+TELCO-10557,64,63.3,Month-to-month,4,4049.53,DSL,Mailed check,Yes
+TELCO-10558,58,59.51,Two year,1,3471.11,No,Mailed check,No
+TELCO-10559,62,27.19,One year,2,1763.42,Fiber optic,Electronic check,No
+TELCO-10560,39,40.79,Month-to-month,0,1549.45,DSL,Electronic check,No
+TELCO-10561,4,62.71,One year,1,258.46,DSL,Mailed check,No
+TELCO-10562,36,92.98,Month-to-month,2,3418.18,DSL,Electronic check,Yes
+TELCO-10563,14,42.27,Two year,2,570.48,No,Bank transfer (automatic),No
+TELCO-10564,65,101.68,Month-to-month,2,6891.08,Fiber optic,Electronic check,No
+TELCO-10565,18,73.22,One year,2,1364.79,Fiber optic,Electronic check,Yes
+TELCO-10566,17,94.73,Two year,0,1655.42,Fiber optic,Bank transfer (automatic),No
+TELCO-10567,18,65.87,One year,1,1141.41,No,Mailed check,Yes
+TELCO-10568,47,68.54,Two year,1,3105.3,DSL,Mailed check,No
+TELCO-10569,42,80.63,Month-to-month,1,3448.5,DSL,Mailed check,No
+TELCO-10570,69,111.53,Two year,4,7393.34,Fiber optic,Mailed check,No
+TELCO-10571,30,67.8,One year,2,1955.35,No,Mailed check,Yes
+TELCO-10572,21,71.5,One year,2,1486.53,Fiber optic,Electronic check,Yes
+TELCO-10573,4,78.85,Month-to-month,1,299.8,Fiber optic,Electronic check,Yes
+TELCO-10574,1,92.44,Month-to-month,0,94.49,No,Mailed check,No
+TELCO-10575,27,25.7,One year,3,696.69,DSL,Bank transfer (automatic),No
+TELCO-10576,67,70.2,Month-to-month,1,4505.0,Fiber optic,Credit card (automatic),No
+TELCO-10577,38,66.78,One year,1,2548.7,Fiber optic,Electronic check,No
+TELCO-10578,65,110.9,Two year,0,6887.06,No,Electronic check,No
+TELCO-10579,8,67.97,Two year,1,520.42,DSL,Bank transfer (automatic),No
+TELCO-10580,7,65.45,Month-to-month,1,457.48,Fiber optic,Credit card (automatic),Yes
+TELCO-10581,61,114.96,Two year,4,7012.44,No,Electronic check,No
+TELCO-10582,8,63.67,Month-to-month,0,501.16,Fiber optic,Electronic check,No
+TELCO-10583,4,36.63,Month-to-month,2,148.3,Fiber optic,Mailed check,Yes
+TELCO-10584,30,40.25,Two year,1,1193.9,DSL,Bank transfer (automatic),No
+TELCO-10585,67,28.04,Month-to-month,1,1895.02,DSL,Bank transfer (automatic),Yes
+TELCO-10586,50,18.56,Month-to-month,3,914.06,Fiber optic,Electronic check,No
+TELCO-10587,8,61.8,Month-to-month,0,505.03,DSL,Bank transfer (automatic),Yes
+TELCO-10588,61,95.62,Month-to-month,2,5879.07,No,Mailed check,Yes
+TELCO-10589,61,92.03,Two year,0,5422.98,Fiber optic,Electronic check,No
+TELCO-10590,58,21.72,Month-to-month,2,1283.23,No,Credit card (automatic),No
+TELCO-10591,65,75.64,Month-to-month,4,5056.2,DSL,Bank transfer (automatic),Yes
+TELCO-10592,18,33.97,One year,3,584.91,DSL,Mailed check,No
+TELCO-10593,71,112.84,Month-to-month,1,8099.74,Fiber optic,Credit card (automatic),No
+TELCO-10594,24,35.28,One year,5,871.31,DSL,Credit card (automatic),Yes
+TELCO-10595,58,81.32,Two year,3,4534.81,DSL,Electronic check,No
+TELCO-10596,42,51.21,One year,3,2237.21,Fiber optic,Credit card (automatic),Yes
+TELCO-10597,57,82.82,Two year,1,4680.52,DSL,Bank transfer (automatic),No
+TELCO-10598,46,59.83,Month-to-month,0,2817.64,DSL,Mailed check,No
+TELCO-10599,47,94.65,Two year,2,4626.07,DSL,Mailed check,No
+TELCO-10600,45,41.63,Month-to-month,0,1965.08,No,Electronic check,No
+TELCO-10601,57,109.31,Month-to-month,1,6282.96,DSL,Credit card (automatic),No
+TELCO-10602,54,68.65,One year,1,3782.83,Fiber optic,Mailed check,No
+TELCO-10603,10,94.3,Month-to-month,1,919.59,Fiber optic,Mailed check,Yes
+TELCO-10604,60,103.69,Two year,1,6090.78,Fiber optic,Electronic check,No
+TELCO-10605,39,118.63,One year,2,4788.86,Fiber optic,Credit card (automatic),Yes
+TELCO-10606,24,40.95,Two year,1,972.8,DSL,Mailed check,No
+TELCO-10607,38,47.26,Month-to-month,2,1853.79,DSL,Bank transfer (automatic),Yes
+TELCO-10608,70,43.61,Month-to-month,4,2915.51,Fiber optic,Mailed check,Yes
+TELCO-10609,62,44.85,One year,3,2702.35,No,Bank transfer (automatic),No
+TELCO-10610,61,76.89,Month-to-month,0,4535.55,Fiber optic,Bank transfer (automatic),No
+TELCO-10611,34,118.1,Month-to-month,1,4026.27,Fiber optic,Mailed check,Yes
+TELCO-10612,57,117.78,One year,2,6431.85,No,Mailed check,Yes
+TELCO-10613,28,71.31,Two year,0,1965.51,Fiber optic,Bank transfer (automatic),No
+TELCO-10614,50,82.56,One year,3,4328.72,Fiber optic,Electronic check,No
+TELCO-10615,47,104.71,Month-to-month,0,5066.17,Fiber optic,Electronic check,No
+TELCO-10616,18,112.03,Month-to-month,1,2069.09,No,Electronic check,Yes
+TELCO-10617,20,38.94,One year,1,750.38,Fiber optic,Mailed check,No
+TELCO-10618,5,71.49,Month-to-month,6,352.61,Fiber optic,Electronic check,Yes
+TELCO-10619,11,101.99,Month-to-month,4,1142.15,Fiber optic,Mailed check,Yes
+TELCO-10620,32,48.9,Month-to-month,6,1489.94,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10621,35,62.59,Month-to-month,1,2176.19,No,Bank transfer (automatic),Yes
+TELCO-10622,12,117.31,Month-to-month,1,1468.05,No,Credit card (automatic),No
+TELCO-10623,31,117.25,Month-to-month,1,3482.94,Fiber optic,Credit card (automatic),Yes
+TELCO-10624,44,109.34,One year,3,5006.41,DSL,Mailed check,Yes
+TELCO-10625,17,98.54,Month-to-month,0,1624.01,Fiber optic,Credit card (automatic),Yes
+TELCO-10626,25,45.48,One year,5,1101.65,DSL,Credit card (automatic),Yes
+TELCO-10627,27,50.67,Month-to-month,4,1326.42,Fiber optic,Electronic check,Yes
+TELCO-10628,37,73.37,Two year,2,2831.76,DSL,Electronic check,No
+TELCO-10629,27,74.72,Month-to-month,2,2038.37,No,Credit card (automatic),Yes
+TELCO-10630,54,69.18,Month-to-month,2,3829.41,No,Credit card (automatic),Yes
+TELCO-10631,24,82.33,Month-to-month,1,1949.52,DSL,Credit card (automatic),Yes
+TELCO-10632,32,59.43,Month-to-month,3,1972.74,Fiber optic,Mailed check,Yes
+TELCO-10633,28,93.6,Month-to-month,2,2642.27,No,Credit card (automatic),Yes
+TELCO-10634,14,51.94,Two year,1,734.42,DSL,Credit card (automatic),No
+TELCO-10635,50,51.65,Two year,3,2647.66,DSL,Bank transfer (automatic),No
+TELCO-10636,17,31.25,Month-to-month,1,545.79,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10637,22,37.42,Month-to-month,2,838.21,No,Mailed check,Yes
+TELCO-10638,58,103.76,One year,2,5788.74,Fiber optic,Bank transfer (automatic),No
+TELCO-10639,69,63.24,One year,3,4523.58,DSL,Credit card (automatic),No
+TELCO-10640,49,41.34,Month-to-month,5,1977.23,DSL,Credit card (automatic),Yes
+TELCO-10641,66,94.62,One year,3,6554.79,Fiber optic,Bank transfer (automatic),No
+TELCO-10642,62,74.04,Month-to-month,1,4537.92,DSL,Electronic check,Yes
+TELCO-10643,35,20.62,One year,2,694.28,Fiber optic,Bank transfer (automatic),No
+TELCO-10644,56,50.22,Month-to-month,0,2760.6,DSL,Mailed check,No
+TELCO-10645,24,36.24,Month-to-month,1,876.16,Fiber optic,Electronic check,No
+TELCO-10646,34,84.25,Month-to-month,3,2833.4,Fiber optic,Electronic check,Yes
+TELCO-10647,39,46.07,One year,3,1855.79,No,Electronic check,No
+TELCO-10648,70,25.01,Month-to-month,3,1782.6,DSL,Mailed check,No
+TELCO-10649,62,24.01,One year,1,1445.96,Fiber optic,Mailed check,No
+TELCO-10650,36,76.82,One year,1,2776.26,Fiber optic,Mailed check,Yes
+TELCO-10651,47,20.68,One year,2,999.91,Fiber optic,Bank transfer (automatic),No
+TELCO-10652,15,103.59,Month-to-month,1,1614.64,DSL,Bank transfer (automatic),Yes
+TELCO-10653,58,34.08,Month-to-month,1,1955.87,DSL,Mailed check,No
+TELCO-10654,40,79.31,Month-to-month,2,3307.06,Fiber optic,Mailed check,Yes
+TELCO-10655,39,63.08,One year,1,2345.96,Fiber optic,Credit card (automatic),No
+TELCO-10656,56,62.9,Two year,3,3584.64,No,Mailed check,No
+TELCO-10657,46,25.7,Month-to-month,1,1215.54,No,Electronic check,No
+TELCO-10658,6,98.98,Two year,2,589.43,Fiber optic,Credit card (automatic),No
+TELCO-10659,21,108.03,Month-to-month,2,2157.69,No,Electronic check,No
+TELCO-10660,13,19.6,Month-to-month,2,259.57,Fiber optic,Credit card (automatic),No
+TELCO-10661,53,36.41,Month-to-month,2,1899.35,DSL,Mailed check,No
+TELCO-10662,3,109.12,One year,3,315.96,DSL,Credit card (automatic),Yes
+TELCO-10663,15,73.59,Month-to-month,2,1066.0,No,Electronic check,No
+TELCO-10664,44,33.54,Month-to-month,1,1515.48,Fiber optic,Electronic check,Yes
+TELCO-10665,51,38.83,One year,2,1918.42,No,Mailed check,Yes
+TELCO-10666,37,84.66,Month-to-month,3,3127.44,DSL,Mailed check,Yes
+TELCO-10667,62,91.16,Month-to-month,3,5917.78,DSL,Bank transfer (automatic),No
+TELCO-10668,67,78.59,Month-to-month,2,5401.81,Fiber optic,Bank transfer (automatic),No
+TELCO-10669,10,114.05,Month-to-month,2,1145.88,No,Credit card (automatic),No
+TELCO-10670,69,68.03,Month-to-month,1,4707.34,No,Bank transfer (automatic),No
+TELCO-10671,45,48.6,Month-to-month,2,2114.24,DSL,Electronic check,Yes
+TELCO-10672,46,66.34,One year,1,3035.29,Fiber optic,Electronic check,No
+TELCO-10673,7,54.56,Month-to-month,1,368.36,Fiber optic,Mailed check,Yes
+TELCO-10674,45,41.0,One year,2,1768.17,No,Credit card (automatic),No
+TELCO-10675,53,23.11,Month-to-month,4,1176.96,DSL,Credit card (automatic),No
+TELCO-10676,42,53.81,Month-to-month,1,2284.11,Fiber optic,Bank transfer (automatic),No
+TELCO-10677,7,89.82,Month-to-month,2,609.47,DSL,Mailed check,Yes
+TELCO-10678,38,20.35,Month-to-month,1,746.18,Fiber optic,Mailed check,No
+TELCO-10679,68,62.53,Month-to-month,3,4408.15,DSL,Bank transfer (automatic),Yes
+TELCO-10680,53,83.06,Month-to-month,3,4235.78,No,Credit card (automatic),No
+TELCO-10681,10,79.69,Two year,1,813.29,DSL,Bank transfer (automatic),No
+TELCO-10682,70,96.36,Two year,4,6689.22,Fiber optic,Electronic check,No
+TELCO-10683,70,99.75,Month-to-month,2,7037.72,Fiber optic,Credit card (automatic),No
+TELCO-10684,13,89.85,One year,0,1112.38,DSL,Credit card (automatic),Yes
+TELCO-10685,58,28.81,One year,2,1587.43,DSL,Electronic check,No
+TELCO-10686,30,66.12,Two year,3,2046.53,Fiber optic,Mailed check,No
+TELCO-10687,43,78.99,Month-to-month,1,3388.23,Fiber optic,Credit card (automatic),No
+TELCO-10688,33,43.12,Month-to-month,4,1361.96,Fiber optic,Credit card (automatic),Yes
+TELCO-10689,57,22.77,Month-to-month,1,1277.57,Fiber optic,Credit card (automatic),No
+TELCO-10690,72,40.91,Month-to-month,0,2947.39,DSL,Credit card (automatic),No
+TELCO-10691,58,64.1,Month-to-month,2,3582.28,No,Electronic check,Yes
+TELCO-10692,68,60.0,Two year,1,4098.91,DSL,Electronic check,No
+TELCO-10693,69,36.21,Two year,1,2505.67,Fiber optic,Mailed check,No
+TELCO-10694,7,101.15,Month-to-month,5,715.33,No,Bank transfer (automatic),Yes
+TELCO-10695,19,111.3,Month-to-month,1,2180.31,No,Mailed check,Yes
+TELCO-10696,52,38.69,Month-to-month,3,1994.33,DSL,Mailed check,Yes
+TELCO-10697,43,111.69,Month-to-month,2,4989.28,DSL,Mailed check,Yes
+TELCO-10698,4,20.29,One year,2,80.95,Fiber optic,Bank transfer (automatic),No
+TELCO-10699,7,111.23,Month-to-month,1,775.27,DSL,Credit card (automatic),Yes
+TELCO-10700,38,113.93,Two year,2,4396.74,Fiber optic,Credit card (automatic),No
+TELCO-10701,45,19.71,Two year,2,897.37,Fiber optic,Electronic check,No
+TELCO-10702,13,94.99,One year,1,1174.54,DSL,Electronic check,No
+TELCO-10703,13,115.76,One year,3,1577.48,Fiber optic,Mailed check,Yes
+TELCO-10704,10,109.32,Month-to-month,0,1141.6,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10705,41,115.81,Month-to-month,4,4644.36,Fiber optic,Electronic check,Yes
+TELCO-10706,1,73.67,Month-to-month,0,74.1,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10707,42,26.34,One year,0,1136.2,DSL,Bank transfer (automatic),No
+TELCO-10708,35,103.69,Month-to-month,1,3781.74,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10709,34,80.04,Two year,1,2744.74,Fiber optic,Credit card (automatic),No
+TELCO-10710,49,80.13,Month-to-month,3,3737.49,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10711,38,60.33,Month-to-month,2,2333.96,No,Bank transfer (automatic),Yes
+TELCO-10712,53,75.83,Month-to-month,2,3855.45,No,Mailed check,Yes
+TELCO-10713,56,33.9,Two year,5,1930.9,Fiber optic,Bank transfer (automatic),No
+TELCO-10714,67,92.66,Month-to-month,2,6262.5,No,Mailed check,Yes
+TELCO-10715,58,26.02,Month-to-month,0,1530.39,DSL,Electronic check,No
+TELCO-10716,38,91.66,Month-to-month,3,3374.85,Fiber optic,Electronic check,Yes
+TELCO-10717,36,103.61,One year,3,3727.58,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10718,17,65.86,Two year,2,1132.83,Fiber optic,Bank transfer (automatic),No
+TELCO-10719,44,69.61,Month-to-month,1,3001.67,Fiber optic,Mailed check,No
+TELCO-10720,11,49.8,Two year,1,530.36,DSL,Bank transfer (automatic),No
+TELCO-10721,68,115.69,Month-to-month,2,7648.76,No,Mailed check,Yes
+TELCO-10722,61,92.0,One year,3,5812.92,No,Mailed check,No
+TELCO-10723,9,55.49,Month-to-month,3,497.64,No,Bank transfer (automatic),Yes
+TELCO-10724,57,36.02,Month-to-month,0,2086.21,Fiber optic,Mailed check,No
+TELCO-10725,9,40.51,One year,2,365.13,No,Credit card (automatic),Yes
+TELCO-10726,52,65.01,Month-to-month,1,3493.47,Fiber optic,Bank transfer (automatic),No
+TELCO-10727,7,112.99,Month-to-month,1,791.6,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10728,36,92.1,Two year,4,3180.76,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10729,48,40.08,Two year,1,1865.74,No,Bank transfer (automatic),No
+TELCO-10730,53,104.67,Month-to-month,1,5277.49,Fiber optic,Credit card (automatic),Yes
+TELCO-10731,31,56.41,One year,3,1806.68,Fiber optic,Mailed check,Yes
+TELCO-10732,67,103.89,One year,1,7074.28,No,Credit card (automatic),No
+TELCO-10733,56,42.73,Month-to-month,1,2454.9,DSL,Electronic check,Yes
+TELCO-10734,15,80.52,Two year,3,1233.77,Fiber optic,Bank transfer (automatic),No
+TELCO-10735,49,111.4,Month-to-month,3,5635.72,DSL,Bank transfer (automatic),No
+TELCO-10736,53,44.35,One year,1,2465.01,Fiber optic,Electronic check,No
+TELCO-10737,25,87.97,Month-to-month,1,2233.0,DSL,Bank transfer (automatic),Yes
+TELCO-10738,54,117.48,Month-to-month,2,6186.76,DSL,Electronic check,Yes
+TELCO-10739,65,33.6,Month-to-month,2,2096.94,Fiber optic,Bank transfer (automatic),No
+TELCO-10740,59,27.36,Month-to-month,2,1628.73,DSL,Bank transfer (automatic),No
+TELCO-10741,55,86.09,Two year,3,4863.15,DSL,Bank transfer (automatic),Yes
+TELCO-10742,46,52.56,Two year,0,2432.65,Fiber optic,Bank transfer (automatic),No
+TELCO-10743,20,25.64,Month-to-month,0,502.73,DSL,Mailed check,No
+TELCO-10744,58,66.15,Month-to-month,3,3921.01,DSL,Bank transfer (automatic),Yes
+TELCO-10745,27,94.07,Month-to-month,3,2526.68,DSL,Electronic check,No
+TELCO-10746,39,47.08,Month-to-month,1,1796.94,DSL,Credit card (automatic),No
+TELCO-10747,23,52.09,Month-to-month,1,1238.93,DSL,Electronic check,Yes
+TELCO-10748,23,103.28,Two year,2,2393.62,No,Electronic check,Yes
+TELCO-10749,12,70.64,One year,1,829.32,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10750,70,102.98,Month-to-month,2,7085.05,Fiber optic,Electronic check,Yes
+TELCO-10751,11,63.25,Month-to-month,2,700.74,Fiber optic,Credit card (automatic),Yes
+TELCO-10752,7,114.04,One year,2,792.13,DSL,Electronic check,Yes
+TELCO-10753,68,83.74,Month-to-month,3,5501.01,Fiber optic,Bank transfer (automatic),No
+TELCO-10754,40,30.12,Month-to-month,2,1218.11,No,Credit card (automatic),No
+TELCO-10755,32,107.23,Month-to-month,1,3496.25,DSL,Bank transfer (automatic),No
+TELCO-10756,54,67.55,Month-to-month,3,3465.35,DSL,Bank transfer (automatic),No
+TELCO-10757,28,32.7,Month-to-month,2,918.98,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10758,10,33.81,One year,2,340.71,DSL,Bank transfer (automatic),Yes
+TELCO-10759,53,87.43,Month-to-month,5,4555.97,DSL,Electronic check,Yes
+TELCO-10760,13,23.25,One year,1,297.38,Fiber optic,Mailed check,Yes
+TELCO-10761,40,47.23,Month-to-month,3,1854.75,Fiber optic,Electronic check,Yes
+TELCO-10762,69,32.51,Two year,4,2230.93,DSL,Electronic check,No
+TELCO-10763,68,62.72,Month-to-month,2,4398.0,No,Electronic check,No
+TELCO-10764,26,60.04,Month-to-month,4,1556.2,DSL,Bank transfer (automatic),Yes
+TELCO-10765,57,70.82,Month-to-month,2,4236.01,DSL,Credit card (automatic),No
+TELCO-10766,45,46.53,Month-to-month,3,2067.92,Fiber optic,Bank transfer (automatic),No
+TELCO-10767,35,21.71,Month-to-month,2,774.99,Fiber optic,Electronic check,No
+TELCO-10768,11,80.09,One year,0,885.3,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10769,28,55.97,Month-to-month,0,1608.26,Fiber optic,Bank transfer (automatic),No
+TELCO-10770,47,83.8,Month-to-month,4,4091.56,Fiber optic,Credit card (automatic),No
+TELCO-10771,72,29.39,Month-to-month,2,2118.55,No,Mailed check,Yes
+TELCO-10772,1,19.88,One year,2,19.87,Fiber optic,Mailed check,No
+TELCO-10773,52,43.39,Two year,2,2356.17,Fiber optic,Bank transfer (automatic),No
+TELCO-10774,61,64.27,One year,2,4090.48,Fiber optic,Bank transfer (automatic),No
+TELCO-10775,69,58.01,One year,2,4201.62,DSL,Electronic check,No
+TELCO-10776,31,99.73,One year,0,2985.43,Fiber optic,Bank transfer (automatic),No
+TELCO-10777,9,56.38,One year,2,482.23,DSL,Credit card (automatic),Yes
+TELCO-10778,20,71.68,Month-to-month,6,1424.61,Fiber optic,Electronic check,Yes
+TELCO-10779,62,78.0,One year,3,4948.84,Fiber optic,Mailed check,Yes
+TELCO-10780,64,20.69,One year,2,1267.6,Fiber optic,Bank transfer (automatic),No
+TELCO-10781,46,70.14,Month-to-month,2,3185.66,DSL,Credit card (automatic),Yes
+TELCO-10782,9,53.07,One year,0,481.52,Fiber optic,Credit card (automatic),No
+TELCO-10783,9,60.73,Month-to-month,1,530.86,No,Bank transfer (automatic),No
+TELCO-10784,35,28.55,Month-to-month,2,1022.35,No,Bank transfer (automatic),Yes
+TELCO-10785,43,96.98,Month-to-month,1,4057.35,Fiber optic,Mailed check,No
+TELCO-10786,3,112.98,One year,1,350.49,DSL,Mailed check,No
+TELCO-10787,50,20.73,Two year,4,1020.77,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10788,40,78.79,Month-to-month,2,3182.69,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10789,1,95.08,Month-to-month,4,95.5,DSL,Bank transfer (automatic),No
+TELCO-10790,7,47.05,Month-to-month,0,322.65,No,Credit card (automatic),No
+TELCO-10791,33,97.45,Month-to-month,2,3196.26,Fiber optic,Electronic check,Yes
+TELCO-10792,53,81.89,Two year,0,4490.33,Fiber optic,Credit card (automatic),No
+TELCO-10793,60,111.65,Month-to-month,1,6731.39,Fiber optic,Bank transfer (automatic),No
+TELCO-10794,32,116.85,Month-to-month,2,3573.03,DSL,Bank transfer (automatic),Yes
+TELCO-10795,22,22.75,Month-to-month,1,511.16,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10796,70,63.11,Two year,3,4277.42,Fiber optic,Bank transfer (automatic),No
+TELCO-10797,34,73.34,Month-to-month,3,2490.08,DSL,Bank transfer (automatic),Yes
+TELCO-10798,23,33.21,One year,1,761.43,Fiber optic,Mailed check,No
+TELCO-10799,32,52.21,Month-to-month,1,1668.46,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10800,1,117.51,Month-to-month,3,112.0,Fiber optic,Mailed check,Yes
+TELCO-10801,22,20.13,One year,0,432.78,No,Bank transfer (automatic),No
+TELCO-10802,38,63.86,Month-to-month,4,2317.66,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10803,67,102.98,One year,1,6840.98,Fiber optic,Mailed check,No
+TELCO-10804,54,50.97,Month-to-month,2,2785.78,No,Credit card (automatic),Yes
+TELCO-10805,57,66.6,One year,1,3854.69,Fiber optic,Mailed check,No
+TELCO-10806,40,116.55,One year,1,4458.99,Fiber optic,Bank transfer (automatic),No
+TELCO-10807,8,66.11,One year,1,508.72,No,Mailed check,Yes
+TELCO-10808,29,31.62,Month-to-month,0,931.79,Fiber optic,Electronic check,No
+TELCO-10809,72,23.69,One year,2,1711.0,No,Bank transfer (automatic),No
+TELCO-10810,4,113.28,Two year,3,468.23,Fiber optic,Credit card (automatic),Yes
+TELCO-10811,64,45.15,Month-to-month,4,2804.4,Fiber optic,Mailed check,No
+TELCO-10812,50,69.03,Month-to-month,1,3320.46,DSL,Electronic check,Yes
+TELCO-10813,21,27.59,Two year,2,571.4,DSL,Electronic check,No
+TELCO-10814,57,60.97,Month-to-month,2,3522.92,Fiber optic,Mailed check,Yes
+TELCO-10815,61,111.74,One year,2,6806.58,DSL,Credit card (automatic),No
+TELCO-10816,4,68.87,One year,2,264.42,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10817,8,115.86,Month-to-month,5,887.14,DSL,Electronic check,Yes
+TELCO-10818,48,44.45,One year,2,2171.51,DSL,Credit card (automatic),No
+TELCO-10819,72,69.08,One year,1,4872.78,Fiber optic,Electronic check,No
+TELCO-10820,2,104.67,Month-to-month,0,212.89,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10821,48,63.44,Two year,2,2982.67,DSL,Credit card (automatic),No
+TELCO-10822,10,46.52,Month-to-month,0,456.58,Fiber optic,Credit card (automatic),No
+TELCO-10823,47,104.26,Month-to-month,2,4758.02,DSL,Bank transfer (automatic),Yes
+TELCO-10824,45,57.59,Two year,2,2716.91,DSL,Mailed check,No
+TELCO-10825,7,71.71,Month-to-month,1,477.68,No,Credit card (automatic),Yes
+TELCO-10826,50,116.4,Two year,2,5603.06,No,Mailed check,Yes
+TELCO-10827,65,37.19,Month-to-month,3,2498.64,Fiber optic,Mailed check,No
+TELCO-10828,63,48.72,Month-to-month,2,2958.3,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10829,3,21.61,Month-to-month,3,63.41,No,Bank transfer (automatic),Yes
+TELCO-10830,18,57.78,One year,2,1015.37,Fiber optic,Electronic check,Yes
+TELCO-10831,18,38.57,One year,0,707.94,DSL,Credit card (automatic),Yes
+TELCO-10832,33,86.67,Two year,0,2834.71,DSL,Credit card (automatic),Yes
+TELCO-10833,11,36.68,Two year,2,417.22,DSL,Mailed check,Yes
+TELCO-10834,62,86.15,One year,0,5473.46,Fiber optic,Electronic check,Yes
+TELCO-10835,56,44.91,One year,3,2522.78,Fiber optic,Electronic check,Yes
+TELCO-10836,59,54.11,Month-to-month,3,3112.38,DSL,Mailed check,No
+TELCO-10837,15,53.47,Two year,2,825.5,DSL,Electronic check,No
+TELCO-10838,2,90.35,One year,2,187.31,DSL,Credit card (automatic),No
+TELCO-10839,66,65.27,Two year,3,4452.68,Fiber optic,Credit card (automatic),No
+TELCO-10840,21,54.72,Month-to-month,1,1097.61,No,Credit card (automatic),Yes
+TELCO-10841,48,103.98,Month-to-month,1,5089.84,Fiber optic,Mailed check,No
+TELCO-10842,66,75.84,One year,2,5107.52,Fiber optic,Bank transfer (automatic),No
+TELCO-10843,3,39.94,Month-to-month,2,125.13,DSL,Mailed check,Yes
+TELCO-10844,1,108.73,Month-to-month,1,106.16,Fiber optic,Mailed check,Yes
+TELCO-10845,1,52.85,Two year,2,54.36,Fiber optic,Bank transfer (automatic),No
+TELCO-10846,12,22.41,Month-to-month,2,274.01,DSL,Electronic check,Yes
+TELCO-10847,4,68.08,Month-to-month,2,282.63,Fiber optic,Credit card (automatic),Yes
+TELCO-10848,60,30.92,Month-to-month,1,1891.06,No,Electronic check,No
+TELCO-10849,44,42.41,Month-to-month,1,1931.81,DSL,Mailed check,Yes
+TELCO-10850,71,93.4,One year,2,6538.28,Fiber optic,Electronic check,No
+TELCO-10851,58,31.61,Two year,3,1770.61,No,Bank transfer (automatic),No
+TELCO-10852,70,99.4,Two year,3,6862.92,Fiber optic,Bank transfer (automatic),No
+TELCO-10853,18,112.42,One year,1,2087.31,Fiber optic,Credit card (automatic),No
+TELCO-10854,21,79.3,One year,2,1603.96,DSL,Mailed check,No
+TELCO-10855,62,89.71,Month-to-month,0,5638.75,No,Electronic check,No
+TELCO-10856,18,90.04,Two year,5,1699.74,DSL,Electronic check,Yes
+TELCO-10857,5,118.03,Month-to-month,3,613.46,DSL,Bank transfer (automatic),Yes
+TELCO-10858,49,52.74,Month-to-month,0,2628.5,DSL,Credit card (automatic),No
+TELCO-10859,58,34.83,Two year,2,2079.26,Fiber optic,Electronic check,No
+TELCO-10860,70,70.55,Two year,2,4749.1,Fiber optic,Credit card (automatic),No
+TELCO-10861,67,71.96,Month-to-month,0,4820.76,No,Mailed check,No
+TELCO-10862,9,36.34,One year,0,328.1,Fiber optic,Credit card (automatic),Yes
+TELCO-10863,56,79.96,Month-to-month,2,4604.34,No,Electronic check,No
+TELCO-10864,61,19.92,Month-to-month,1,1188.7,Fiber optic,Credit card (automatic),No
+TELCO-10865,51,111.5,Month-to-month,0,5462.73,Fiber optic,Mailed check,Yes
+TELCO-10866,60,45.02,Month-to-month,1,2754.71,DSL,Mailed check,No
+TELCO-10867,61,22.47,Month-to-month,1,1369.65,DSL,Electronic check,No
+TELCO-10868,33,29.35,Month-to-month,2,1001.7,Fiber optic,Electronic check,No
+TELCO-10869,3,42.58,Month-to-month,0,127.5,Fiber optic,Credit card (automatic),No
+TELCO-10870,33,45.96,Month-to-month,0,1569.2,DSL,Electronic check,No
+TELCO-10871,15,21.79,Two year,2,327.11,Fiber optic,Mailed check,No
+TELCO-10872,9,46.51,One year,2,430.42,Fiber optic,Credit card (automatic),No
+TELCO-10873,9,37.84,Two year,0,348.08,Fiber optic,Mailed check,No
+TELCO-10874,51,56.46,Month-to-month,1,2812.1,DSL,Credit card (automatic),Yes
+TELCO-10875,37,57.11,One year,1,2072.79,DSL,Bank transfer (automatic),No
+TELCO-10876,39,52.49,Two year,4,2128.83,DSL,Credit card (automatic),No
+TELCO-10877,54,51.37,Month-to-month,3,2699.36,No,Credit card (automatic),No
+TELCO-10878,40,27.5,Month-to-month,1,1121.73,No,Electronic check,No
+TELCO-10879,46,21.03,Month-to-month,2,933.05,DSL,Mailed check,No
+TELCO-10880,7,38.76,Month-to-month,2,278.24,DSL,Mailed check,No
+TELCO-10881,62,94.35,Month-to-month,3,5687.83,Fiber optic,Electronic check,Yes
+TELCO-10882,33,117.83,Month-to-month,1,3924.97,DSL,Electronic check,Yes
+TELCO-10883,12,111.58,Month-to-month,2,1347.56,No,Electronic check,Yes
+TELCO-10884,59,69.05,One year,5,3953.16,Fiber optic,Credit card (automatic),Yes
+TELCO-10885,53,71.82,Month-to-month,2,3803.19,No,Credit card (automatic),No
+TELCO-10886,4,50.04,Month-to-month,1,207.75,DSL,Bank transfer (automatic),Yes
+TELCO-10887,14,96.09,One year,1,1369.55,No,Credit card (automatic),No
+TELCO-10888,2,95.17,Month-to-month,1,199.72,Fiber optic,Mailed check,No
+TELCO-10889,20,103.14,Month-to-month,0,2121.5,Fiber optic,Mailed check,Yes
+TELCO-10890,8,108.27,Month-to-month,2,878.59,No,Credit card (automatic),Yes
+TELCO-10891,52,62.04,Month-to-month,4,3246.47,Fiber optic,Electronic check,No
+TELCO-10892,38,95.38,Month-to-month,0,3782.98,DSL,Electronic check,Yes
+TELCO-10893,71,99.34,Month-to-month,4,7072.19,Fiber optic,Bank transfer (automatic),No
+TELCO-10894,54,49.42,Month-to-month,3,2642.71,No,Mailed check,No
+TELCO-10895,45,111.66,Two year,1,5192.77,No,Bank transfer (automatic),Yes
+TELCO-10896,37,27.96,Two year,3,1080.06,Fiber optic,Bank transfer (automatic),No
+TELCO-10897,4,118.18,Month-to-month,2,471.72,Fiber optic,Mailed check,Yes
+TELCO-10898,6,95.7,Month-to-month,4,553.37,DSL,Electronic check,Yes
+TELCO-10899,45,27.85,Month-to-month,2,1266.83,DSL,Electronic check,Yes
+TELCO-10900,1,84.29,Two year,1,86.32,Fiber optic,Mailed check,No
+TELCO-10901,4,21.93,Two year,1,86.61,Fiber optic,Mailed check,No
+TELCO-10902,16,95.71,Month-to-month,1,1569.32,DSL,Electronic check,Yes
+TELCO-10903,64,98.62,Month-to-month,2,6331.28,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10904,34,78.89,Month-to-month,0,2628.98,Fiber optic,Credit card (automatic),Yes
+TELCO-10905,52,104.4,Two year,8,5499.11,Fiber optic,Credit card (automatic),Yes
+TELCO-10906,30,28.31,Two year,5,839.87,DSL,Electronic check,Yes
+TELCO-10907,13,46.16,Month-to-month,6,617.29,DSL,Electronic check,Yes
+TELCO-10908,27,60.02,One year,1,1540.01,Fiber optic,Mailed check,No
+TELCO-10909,7,22.76,Month-to-month,1,164.39,No,Credit card (automatic),Yes
+TELCO-10910,56,63.43,One year,2,3483.37,DSL,Bank transfer (automatic),No
+TELCO-10911,14,45.09,Two year,2,660.27,No,Mailed check,No
+TELCO-10912,28,57.87,Month-to-month,1,1662.35,Fiber optic,Credit card (automatic),Yes
+TELCO-10913,71,61.12,Month-to-month,0,4227.14,No,Bank transfer (automatic),No
+TELCO-10914,43,106.66,One year,0,4805.98,Fiber optic,Credit card (automatic),No
+TELCO-10915,34,45.6,Month-to-month,4,1550.33,Fiber optic,Credit card (automatic),Yes
+TELCO-10916,40,108.1,Two year,3,4333.91,Fiber optic,Credit card (automatic),Yes
+TELCO-10917,57,61.2,Month-to-month,0,3631.26,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10918,19,51.36,Two year,2,1016.67,DSL,Mailed check,No
+TELCO-10919,46,68.88,Month-to-month,3,3230.86,Fiber optic,Electronic check,Yes
+TELCO-10920,63,60.38,Month-to-month,1,3985.94,Fiber optic,Bank transfer (automatic),No
+TELCO-10921,42,44.3,Month-to-month,2,1828.76,Fiber optic,Mailed check,Yes
+TELCO-10922,33,68.89,Month-to-month,1,2212.52,No,Electronic check,Yes
+TELCO-10923,11,33.72,Month-to-month,1,353.46,Fiber optic,Credit card (automatic),No
+TELCO-10924,18,53.78,One year,3,953.17,DSL,Mailed check,Yes
+TELCO-10925,69,75.22,Month-to-month,1,5243.45,No,Bank transfer (automatic),Yes
+TELCO-10926,39,59.94,Month-to-month,3,2292.16,DSL,Credit card (automatic),Yes
+TELCO-10927,22,101.1,Month-to-month,4,2241.91,DSL,Mailed check,Yes
+TELCO-10928,31,44.24,Month-to-month,1,1309.5,No,Credit card (automatic),No
+TELCO-10929,42,115.72,Two year,0,4789.32,No,Bank transfer (automatic),No
+TELCO-10930,39,97.17,Two year,2,3883.61,Fiber optic,Bank transfer (automatic),No
+TELCO-10931,51,115.5,Month-to-month,3,5657.43,Fiber optic,Mailed check,Yes
+TELCO-10932,19,102.52,One year,1,1989.73,Fiber optic,Credit card (automatic),Yes
+TELCO-10933,47,32.75,One year,1,1579.78,No,Electronic check,No
+TELCO-10934,32,71.28,Two year,1,2296.64,No,Bank transfer (automatic),No
+TELCO-10935,68,35.54,Month-to-month,2,2510.03,DSL,Credit card (automatic),No
+TELCO-10936,12,100.53,Month-to-month,2,1261.2,No,Electronic check,Yes
+TELCO-10937,11,77.06,Month-to-month,2,808.22,Fiber optic,Mailed check,No
+TELCO-10938,34,44.91,Two year,1,1554.28,DSL,Bank transfer (automatic),No
+TELCO-10939,37,111.69,One year,2,4023.92,DSL,Mailed check,No
+TELCO-10940,50,30.05,Month-to-month,1,1488.7,DSL,Electronic check,No
+TELCO-10941,30,75.03,Month-to-month,1,2278.62,No,Mailed check,No
+TELCO-10942,66,90.78,One year,4,6118.66,Fiber optic,Mailed check,No
+TELCO-10943,35,24.4,Two year,1,883.05,Fiber optic,Credit card (automatic),No
+TELCO-10944,10,78.44,Month-to-month,3,800.51,DSL,Credit card (automatic),Yes
+TELCO-10945,9,100.29,One year,2,927.65,Fiber optic,Electronic check,Yes
+TELCO-10946,71,25.27,Month-to-month,0,1811.95,Fiber optic,Mailed check,No
+TELCO-10947,10,69.85,Month-to-month,3,671.75,No,Electronic check,Yes
+TELCO-10948,69,44.42,Month-to-month,0,2918.3,Fiber optic,Credit card (automatic),No
+TELCO-10949,21,84.96,One year,2,1789.47,Fiber optic,Mailed check,No
+TELCO-10950,7,30.4,Two year,0,217.39,Fiber optic,Credit card (automatic),No
+TELCO-10951,22,112.44,Month-to-month,0,2376.93,Fiber optic,Electronic check,Yes
+TELCO-10952,45,108.2,Month-to-month,3,4834.57,No,Bank transfer (automatic),Yes
+TELCO-10953,31,37.14,Month-to-month,2,1123.27,Fiber optic,Electronic check,No
+TELCO-10954,57,50.91,Month-to-month,1,2921.34,No,Bank transfer (automatic),No
+TELCO-10955,44,77.41,Month-to-month,2,3368.74,DSL,Electronic check,No
+TELCO-10956,29,90.49,Month-to-month,2,2545.87,Fiber optic,Electronic check,Yes
+TELCO-10957,46,62.88,Month-to-month,0,2749.13,No,Electronic check,No
+TELCO-10958,70,34.17,Month-to-month,1,2349.21,No,Bank transfer (automatic),No
+TELCO-10959,30,28.94,Month-to-month,2,869.6,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10960,12,118.73,One year,1,1485.91,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10961,30,64.15,Month-to-month,1,1872.05,No,Electronic check,No
+TELCO-10962,61,105.97,One year,3,6472.09,DSL,Mailed check,No
+TELCO-10963,16,66.86,Two year,1,1076.87,No,Mailed check,No
+TELCO-10964,69,110.97,One year,1,7771.19,DSL,Credit card (automatic),No
+TELCO-10965,43,27.3,Month-to-month,0,1153.78,DSL,Bank transfer (automatic),Yes
+TELCO-10966,44,29.93,Month-to-month,4,1264.17,Fiber optic,Electronic check,No
+TELCO-10967,23,111.7,One year,4,2677.35,Fiber optic,Electronic check,No
+TELCO-10968,67,113.49,Month-to-month,1,7948.1,Fiber optic,Mailed check,Yes
+TELCO-10969,3,50.05,Month-to-month,2,149.22,DSL,Electronic check,Yes
+TELCO-10970,22,54.11,Month-to-month,0,1200.01,No,Mailed check,Yes
+TELCO-10971,31,63.86,Month-to-month,1,1886.42,Fiber optic,Credit card (automatic),Yes
+TELCO-10972,35,60.22,Month-to-month,6,2012.27,No,Electronic check,No
+TELCO-10973,35,37.55,One year,1,1258.61,DSL,Bank transfer (automatic),No
+TELCO-10974,11,108.56,Month-to-month,0,1222.67,Fiber optic,Mailed check,No
+TELCO-10975,17,43.89,Month-to-month,1,725.78,DSL,Bank transfer (automatic),Yes
+TELCO-10976,7,89.2,Two year,2,604.7,Fiber optic,Bank transfer (automatic),No
+TELCO-10977,42,25.23,Month-to-month,3,1007.56,DSL,Bank transfer (automatic),No
+TELCO-10978,26,22.38,One year,4,554.12,DSL,Mailed check,No
+TELCO-10979,41,84.04,Month-to-month,4,3413.04,Fiber optic,Credit card (automatic),Yes
+TELCO-10980,43,52.49,Month-to-month,4,2266.48,Fiber optic,Mailed check,Yes
+TELCO-10981,51,84.21,Two year,0,4328.66,Fiber optic,Electronic check,No
+TELCO-10982,40,27.93,Month-to-month,2,1112.5,Fiber optic,Electronic check,No
+TELCO-10983,47,113.72,Month-to-month,2,5323.23,Fiber optic,Electronic check,No
+TELCO-10984,43,93.54,Two year,3,4124.04,Fiber optic,Mailed check,Yes
+TELCO-10985,47,106.35,One year,0,4893.27,Fiber optic,Credit card (automatic),Yes
+TELCO-10986,45,32.18,One year,0,1410.12,No,Electronic check,No
+TELCO-10987,23,50.6,Month-to-month,2,1205.04,No,Electronic check,Yes
+TELCO-10988,18,55.43,Month-to-month,0,1016.62,DSL,Bank transfer (automatic),Yes
+TELCO-10989,57,72.35,One year,1,4114.41,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10990,25,48.26,Month-to-month,2,1179.4,No,Bank transfer (automatic),No
+TELCO-10991,40,24.58,Month-to-month,7,947.47,No,Electronic check,Yes
+TELCO-10992,15,55.48,One year,5,793.7,Fiber optic,Electronic check,Yes
+TELCO-10993,32,44.02,Month-to-month,2,1458.28,Fiber optic,Mailed check,No
+TELCO-10994,39,57.19,Month-to-month,2,2251.24,Fiber optic,Bank transfer (automatic),Yes
+TELCO-10995,46,38.25,Month-to-month,2,1679.59,No,Bank transfer (automatic),No
+TELCO-10996,38,44.76,Month-to-month,1,1642.81,Fiber optic,Credit card (automatic),No
+TELCO-10997,26,81.35,One year,2,2068.48,DSL,Bank transfer (automatic),Yes
+TELCO-10998,70,57.41,Two year,1,3923.49,No,Mailed check,No
+TELCO-10999,37,53.12,Month-to-month,1,1974.95,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11000,59,72.02,Month-to-month,1,4206.45,DSL,Mailed check,No
+TELCO-11001,54,95.88,Month-to-month,0,5375.41,DSL,Electronic check,No
+TELCO-11002,41,56.48,Month-to-month,2,2366.49,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11003,64,77.4,Month-to-month,2,5157.06,Fiber optic,Mailed check,Yes
+TELCO-11004,10,115.36,Two year,0,1195.45,Fiber optic,Mailed check,Yes
+TELCO-11005,67,70.83,Month-to-month,1,4945.58,DSL,Bank transfer (automatic),No
+TELCO-11006,62,109.71,Month-to-month,2,7128.52,DSL,Electronic check,Yes
+TELCO-11007,37,98.07,Two year,3,3560.26,Fiber optic,Electronic check,No
+TELCO-11008,53,24.39,Month-to-month,4,1255.14,DSL,Mailed check,No
+TELCO-11009,38,61.52,Two year,2,2259.48,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11010,20,88.51,Month-to-month,3,1792.87,Fiber optic,Credit card (automatic),Yes
+TELCO-11011,58,117.42,Month-to-month,2,6933.6,DSL,Bank transfer (automatic),Yes
+TELCO-11012,18,64.45,Two year,5,1112.29,Fiber optic,Mailed check,No
+TELCO-11013,23,27.8,Month-to-month,3,659.93,DSL,Mailed check,No
+TELCO-11014,38,74.84,Month-to-month,2,2924.42,Fiber optic,Mailed check,No
+TELCO-11015,61,31.19,Month-to-month,0,1927.03,Fiber optic,Mailed check,No
+TELCO-11016,28,93.84,One year,3,2610.6,Fiber optic,Bank transfer (automatic),No
+TELCO-11017,36,69.39,One year,3,2411.52,No,Credit card (automatic),No
+TELCO-11018,3,91.02,Month-to-month,0,273.21,DSL,Bank transfer (automatic),Yes
+TELCO-11019,9,105.65,One year,2,918.44,No,Mailed check,Yes
+TELCO-11020,5,81.55,One year,1,412.03,DSL,Mailed check,No
+TELCO-11021,6,79.9,Month-to-month,2,470.29,No,Electronic check,Yes
+TELCO-11022,63,94.15,Month-to-month,1,5781.57,DSL,Credit card (automatic),Yes
+TELCO-11023,61,102.96,Month-to-month,1,6243.54,Fiber optic,Credit card (automatic),No
+TELCO-11024,60,105.62,Month-to-month,4,6388.35,DSL,Electronic check,Yes
+TELCO-11025,5,22.15,Month-to-month,0,109.28,Fiber optic,Electronic check,No
+TELCO-11026,6,74.26,Month-to-month,1,466.22,DSL,Electronic check,Yes
+TELCO-11027,21,40.18,Month-to-month,3,802.09,DSL,Credit card (automatic),Yes
+TELCO-11028,41,104.75,Month-to-month,2,4472.06,DSL,Electronic check,Yes
+TELCO-11029,25,83.5,One year,0,1983.27,DSL,Electronic check,Yes
+TELCO-11030,36,60.63,Month-to-month,0,2120.85,Fiber optic,Mailed check,No
+TELCO-11031,13,37.36,Two year,1,509.79,Fiber optic,Mailed check,No
+TELCO-11032,53,52.49,Two year,1,2845.43,DSL,Mailed check,No
+TELCO-11033,23,89.05,One year,0,2077.75,No,Bank transfer (automatic),No
+TELCO-11034,5,38.99,Two year,5,199.36,Fiber optic,Electronic check,Yes
+TELCO-11035,54,27.88,Two year,1,1491.71,DSL,Electronic check,No
+TELCO-11036,66,107.52,Month-to-month,5,7298.0,Fiber optic,Electronic check,Yes
+TELCO-11037,2,95.11,One year,3,183.65,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11038,32,38.53,Month-to-month,1,1269.2,Fiber optic,Bank transfer (automatic),No
+TELCO-11039,60,47.8,One year,1,2994.06,No,Mailed check,No
+TELCO-11040,51,115.95,Month-to-month,1,6124.97,Fiber optic,Credit card (automatic),Yes
+TELCO-11041,62,89.5,Month-to-month,1,5681.99,No,Bank transfer (automatic),No
+TELCO-11042,30,79.7,Month-to-month,0,2427.19,Fiber optic,Credit card (automatic),Yes
+TELCO-11043,27,49.34,Two year,2,1334.99,No,Credit card (automatic),No
+TELCO-11044,52,48.49,Month-to-month,0,2495.06,Fiber optic,Mailed check,No
+TELCO-11045,12,22.46,Month-to-month,3,279.38,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11046,18,91.53,Month-to-month,3,1671.83,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11047,44,22.83,Month-to-month,0,997.98,Fiber optic,Mailed check,Yes
+TELCO-11048,49,18.99,Two year,0,957.01,DSL,Bank transfer (automatic),No
+TELCO-11049,9,91.63,One year,4,787.9,DSL,Mailed check,Yes
+TELCO-11050,37,113.62,Month-to-month,2,4335.57,DSL,Electronic check,Yes
+TELCO-11051,27,94.34,Month-to-month,1,2626.32,DSL,Electronic check,Yes
+TELCO-11052,37,65.78,Month-to-month,5,2367.79,No,Mailed check,Yes
+TELCO-11053,70,67.23,Month-to-month,3,4488.52,Fiber optic,Credit card (automatic),No
+TELCO-11054,6,62.22,Two year,1,381.3,DSL,Electronic check,Yes
+TELCO-11055,72,51.05,One year,3,3565.28,Fiber optic,Bank transfer (automatic),No
+TELCO-11056,33,70.8,Month-to-month,1,2452.29,DSL,Electronic check,No
+TELCO-11057,56,61.72,One year,1,3286.68,No,Bank transfer (automatic),No
+TELCO-11058,31,78.47,Month-to-month,2,2366.84,No,Electronic check,Yes
+TELCO-11059,23,108.54,One year,2,2382.1,DSL,Mailed check,No
+TELCO-11060,56,118.25,Month-to-month,3,6809.17,Fiber optic,Credit card (automatic),Yes
+TELCO-11061,50,26.39,One year,1,1329.88,No,Mailed check,No
+TELCO-11062,11,57.06,Month-to-month,2,649.53,Fiber optic,Credit card (automatic),Yes
+TELCO-11063,51,36.62,Two year,1,1954.02,No,Electronic check,No
+TELCO-11064,55,53.8,Month-to-month,2,2991.58,Fiber optic,Electronic check,Yes
+TELCO-11065,28,47.32,Month-to-month,5,1289.42,DSL,Electronic check,Yes
+TELCO-11066,67,36.0,Month-to-month,4,2313.75,Fiber optic,Electronic check,No
+TELCO-11067,47,95.1,Month-to-month,1,4633.41,DSL,Mailed check,Yes
+TELCO-11068,25,68.25,Month-to-month,4,1662.76,No,Credit card (automatic),Yes
+TELCO-11069,1,110.65,One year,1,115.0,Fiber optic,Electronic check,Yes
+TELCO-11070,49,21.77,One year,0,1107.08,DSL,Mailed check,Yes
+TELCO-11071,16,25.21,Month-to-month,3,408.52,Fiber optic,Electronic check,Yes
+TELCO-11072,55,58.93,One year,3,3274.86,Fiber optic,Bank transfer (automatic),No
+TELCO-11073,38,26.55,One year,0,1054.38,No,Bank transfer (automatic),No
+TELCO-11074,34,44.84,Month-to-month,1,1563.59,Fiber optic,Electronic check,No
+TELCO-11075,12,117.35,Month-to-month,2,1434.01,Fiber optic,Mailed check,No
+TELCO-11076,52,39.45,Month-to-month,2,2038.22,DSL,Electronic check,No
+TELCO-11077,12,38.36,Month-to-month,1,459.58,No,Mailed check,Yes
+TELCO-11078,31,76.01,One year,3,2330.14,Fiber optic,Mailed check,No
+TELCO-11079,61,68.42,Two year,1,4359.9,DSL,Credit card (automatic),No
+TELCO-11080,67,76.69,One year,1,5209.2,Fiber optic,Electronic check,No
+TELCO-11081,72,56.27,Month-to-month,1,4165.03,Fiber optic,Bank transfer (automatic),No
+TELCO-11082,69,101.38,One year,4,6671.48,Fiber optic,Credit card (automatic),Yes
+TELCO-11083,41,32.39,One year,2,1374.79,DSL,Electronic check,Yes
+TELCO-11084,15,61.45,Month-to-month,3,914.16,Fiber optic,Credit card (automatic),Yes
+TELCO-11085,61,87.65,Two year,0,5473.45,No,Credit card (automatic),No
+TELCO-11086,58,105.54,Month-to-month,0,5839.75,DSL,Mailed check,No
+TELCO-11087,72,55.55,Month-to-month,2,4157.13,DSL,Mailed check,Yes
+TELCO-11088,47,75.42,Month-to-month,2,3601.4,No,Bank transfer (automatic),Yes
+TELCO-11089,11,25.43,Month-to-month,3,278.54,Fiber optic,Bank transfer (automatic),No
+TELCO-11090,37,35.57,Two year,1,1290.24,Fiber optic,Credit card (automatic),No
+TELCO-11091,33,25.43,Month-to-month,0,823.33,No,Credit card (automatic),No
+TELCO-11092,61,91.47,Month-to-month,2,5469.97,DSL,Mailed check,Yes
+TELCO-11093,29,47.38,Month-to-month,3,1323.32,No,Electronic check,Yes
+TELCO-11094,24,91.06,Month-to-month,0,2177.53,Fiber optic,Mailed check,Yes
+TELCO-11095,6,25.16,Month-to-month,2,150.26,DSL,Bank transfer (automatic),Yes
+TELCO-11096,61,104.97,Month-to-month,2,6346.78,No,Credit card (automatic),Yes
+TELCO-11097,55,102.26,One year,3,5738.53,Fiber optic,Mailed check,No
+TELCO-11098,3,27.42,Month-to-month,1,81.6,DSL,Credit card (automatic),No
+TELCO-11099,32,20.88,One year,3,640.7,No,Electronic check,No
+TELCO-11100,35,24.14,Month-to-month,5,874.65,No,Bank transfer (automatic),No
+TELCO-11101,34,104.08,One year,3,3512.22,No,Mailed check,Yes
+TELCO-11102,67,42.03,Two year,2,2859.74,DSL,Bank transfer (automatic),No
+TELCO-11103,11,73.46,Month-to-month,1,842.8,DSL,Mailed check,Yes
+TELCO-11104,23,61.23,Month-to-month,3,1445.95,Fiber optic,Credit card (automatic),Yes
+TELCO-11105,14,98.25,Two year,3,1380.84,No,Electronic check,No
+TELCO-11106,18,67.51,Month-to-month,0,1220.65,DSL,Credit card (automatic),Yes
+TELCO-11107,66,68.69,One year,3,4692.0,Fiber optic,Mailed check,Yes
+TELCO-11108,68,117.66,Month-to-month,5,8259.81,DSL,Bank transfer (automatic),Yes
+TELCO-11109,4,33.55,Month-to-month,3,129.89,Fiber optic,Mailed check,No
+TELCO-11110,46,101.78,Month-to-month,3,4741.11,Fiber optic,Mailed check,Yes
+TELCO-11111,17,23.69,Two year,2,417.46,DSL,Mailed check,No
+TELCO-11112,14,66.38,Month-to-month,1,957.51,Fiber optic,Mailed check,Yes
+TELCO-11113,22,107.36,One year,4,2273.28,Fiber optic,Electronic check,Yes
+TELCO-11114,14,85.19,One year,2,1184.99,Fiber optic,Mailed check,Yes
+TELCO-11115,36,87.19,Month-to-month,0,3144.56,No,Mailed check,No
+TELCO-11116,72,44.9,Month-to-month,1,3154.5,DSL,Bank transfer (automatic),No
+TELCO-11117,43,60.46,Month-to-month,2,2646.45,DSL,Mailed check,Yes
+TELCO-11118,53,55.25,Month-to-month,3,2921.29,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11119,36,70.77,One year,1,2496.13,Fiber optic,Mailed check,Yes
+TELCO-11120,2,64.84,Month-to-month,3,127.56,DSL,Mailed check,Yes
+TELCO-11121,7,51.27,Month-to-month,2,371.69,No,Bank transfer (automatic),Yes
+TELCO-11122,20,49.12,One year,3,1018.38,DSL,Bank transfer (automatic),Yes
+TELCO-11123,18,43.65,One year,2,810.24,DSL,Credit card (automatic),No
+TELCO-11124,61,55.1,Month-to-month,1,3500.21,No,Mailed check,No
+TELCO-11125,61,33.53,One year,2,2137.84,No,Electronic check,No
+TELCO-11126,62,105.93,Month-to-month,3,6562.29,Fiber optic,Bank transfer (automatic),No
+TELCO-11127,46,78.86,One year,1,3481.26,DSL,Mailed check,No
+TELCO-11128,41,31.91,Month-to-month,3,1347.57,Fiber optic,Electronic check,No
+TELCO-11129,47,88.06,Month-to-month,1,4194.05,DSL,Credit card (automatic),Yes
+TELCO-11130,30,103.48,Month-to-month,2,3067.31,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11131,49,42.31,One year,2,2171.78,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11132,58,33.6,One year,1,1917.36,Fiber optic,Bank transfer (automatic),No
+TELCO-11133,55,19.36,Month-to-month,0,1108.2,Fiber optic,Credit card (automatic),No
+TELCO-11134,45,23.24,Two year,0,1055.48,Fiber optic,Bank transfer (automatic),No
+TELCO-11135,5,94.92,Two year,3,452.61,DSL,Bank transfer (automatic),Yes
+TELCO-11136,53,117.47,Month-to-month,3,6450.25,DSL,Credit card (automatic),Yes
+TELCO-11137,27,23.0,One year,3,637.28,No,Bank transfer (automatic),No
+TELCO-11138,54,93.49,Month-to-month,4,5120.39,DSL,Bank transfer (automatic),No
+TELCO-11139,39,25.7,Two year,3,1013.79,DSL,Electronic check,No
+TELCO-11140,64,77.86,Month-to-month,0,4842.93,DSL,Mailed check,No
+TELCO-11141,25,94.3,Month-to-month,0,2290.19,Fiber optic,Mailed check,Yes
+TELCO-11142,68,54.51,Month-to-month,0,3532.16,Fiber optic,Credit card (automatic),No
+TELCO-11143,61,19.6,Month-to-month,2,1154.25,Fiber optic,Bank transfer (automatic),No
+TELCO-11144,24,78.17,One year,2,1845.4,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11145,35,117.87,Month-to-month,3,4142.25,Fiber optic,Bank transfer (automatic),No
+TELCO-11146,39,44.33,Month-to-month,1,1665.04,DSL,Bank transfer (automatic),No
+TELCO-11147,56,37.5,Month-to-month,2,2112.09,No,Credit card (automatic),No
+TELCO-11148,50,30.92,Two year,1,1509.41,No,Electronic check,No
+TELCO-11149,62,74.16,One year,3,4484.79,Fiber optic,Credit card (automatic),No
+TELCO-11150,27,78.29,Month-to-month,0,2208.52,Fiber optic,Credit card (automatic),Yes
+TELCO-11151,37,97.93,Month-to-month,2,3801.81,Fiber optic,Electronic check,Yes
+TELCO-11152,32,94.0,Month-to-month,1,3101.68,DSL,Bank transfer (automatic),No
+TELCO-11153,66,107.98,Two year,2,6809.11,DSL,Mailed check,No
+TELCO-11154,22,99.28,One year,2,2234.1,No,Mailed check,No
+TELCO-11155,43,43.29,One year,4,1801.61,DSL,Credit card (automatic),No
+TELCO-11156,9,74.23,Two year,2,672.69,DSL,Mailed check,No
+TELCO-11157,62,48.32,Month-to-month,0,3113.79,Fiber optic,Credit card (automatic),No
+TELCO-11158,28,51.56,One year,4,1426.38,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11159,25,111.93,Month-to-month,2,2918.25,Fiber optic,Credit card (automatic),Yes
+TELCO-11160,42,86.86,Month-to-month,1,3724.14,DSL,Bank transfer (automatic),No
+TELCO-11161,36,116.2,Month-to-month,1,4099.96,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11162,62,60.3,Month-to-month,1,3587.16,DSL,Electronic check,No
+TELCO-11163,39,72.38,Two year,0,2911.84,No,Credit card (automatic),No
+TELCO-11164,38,67.33,Month-to-month,0,2547.81,DSL,Bank transfer (automatic),No
+TELCO-11165,8,29.26,Two year,2,224.08,DSL,Mailed check,No
+TELCO-11166,2,42.23,One year,2,81.11,Fiber optic,Mailed check,Yes
+TELCO-11167,29,71.4,One year,0,2167.29,DSL,Electronic check,No
+TELCO-11168,72,25.25,Two year,3,1771.28,Fiber optic,Mailed check,No
+TELCO-11169,67,111.88,Month-to-month,1,7845.71,DSL,Electronic check,Yes
+TELCO-11170,46,30.92,Month-to-month,1,1448.09,Fiber optic,Credit card (automatic),Yes
+TELCO-11171,46,38.35,Month-to-month,3,1728.9,DSL,Mailed check,No
+TELCO-11172,29,95.22,Month-to-month,1,2729.27,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11173,13,28.22,Two year,1,377.02,DSL,Credit card (automatic),No
+TELCO-11174,1,108.75,Month-to-month,0,108.05,DSL,Credit card (automatic),Yes
+TELCO-11175,25,91.25,Month-to-month,1,2184.24,DSL,Mailed check,Yes
+TELCO-11176,23,25.38,Month-to-month,2,567.97,No,Electronic check,No
+TELCO-11177,14,87.86,Month-to-month,2,1274.36,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11178,19,81.82,One year,1,1585.08,DSL,Credit card (automatic),Yes
+TELCO-11179,2,94.42,Month-to-month,1,188.86,DSL,Mailed check,Yes
+TELCO-11180,44,101.53,One year,3,4353.62,DSL,Electronic check,No
+TELCO-11181,67,90.51,One year,1,6048.76,DSL,Bank transfer (automatic),No
+TELCO-11182,50,77.26,One year,3,3974.58,Fiber optic,Bank transfer (automatic),No
+TELCO-11183,33,50.83,Month-to-month,2,1607.2,Fiber optic,Electronic check,Yes
+TELCO-11184,31,88.4,One year,4,2875.99,No,Electronic check,Yes
+TELCO-11185,23,114.44,Month-to-month,3,2726.81,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11186,11,77.4,Month-to-month,0,835.9,DSL,Electronic check,Yes
+TELCO-11187,44,85.1,One year,1,3883.16,DSL,Electronic check,No
+TELCO-11188,41,62.32,One year,0,2601.55,DSL,Mailed check,No
+TELCO-11189,1,94.3,Month-to-month,2,95.87,DSL,Mailed check,Yes
+TELCO-11190,30,118.52,Two year,5,3427.5,Fiber optic,Credit card (automatic),Yes
+TELCO-11191,21,34.58,Month-to-month,5,755.66,DSL,Mailed check,Yes
+TELCO-11192,13,38.79,One year,2,501.77,DSL,Credit card (automatic),Yes
+TELCO-11193,51,72.58,Two year,3,3813.82,DSL,Bank transfer (automatic),No
+TELCO-11194,38,66.76,Month-to-month,1,2486.02,Fiber optic,Mailed check,No
+TELCO-11195,46,75.8,Two year,1,3419.85,DSL,Bank transfer (automatic),No
+TELCO-11196,52,23.42,One year,3,1274.43,No,Electronic check,No
+TELCO-11197,71,59.03,One year,1,4189.73,Fiber optic,Credit card (automatic),Yes
+TELCO-11198,58,76.94,One year,2,4266.12,DSL,Mailed check,No
+TELCO-11199,45,77.17,One year,4,3589.23,Fiber optic,Credit card (automatic),No
+TELCO-11200,64,84.4,Month-to-month,2,5254.26,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11201,35,90.7,One year,3,3294.74,Fiber optic,Mailed check,Yes
+TELCO-11202,71,82.82,Month-to-month,5,6125.1,Fiber optic,Mailed check,Yes
+TELCO-11203,55,97.72,Two year,4,5144.98,DSL,Electronic check,Yes
+TELCO-11204,47,81.13,Month-to-month,3,3844.54,DSL,Bank transfer (automatic),Yes
+TELCO-11205,66,72.39,Month-to-month,1,5007.8,DSL,Electronic check,No
+TELCO-11206,38,79.27,Two year,2,3142.06,Fiber optic,Bank transfer (automatic),No
+TELCO-11207,52,28.64,Month-to-month,0,1493.04,Fiber optic,Electronic check,No
+TELCO-11208,21,45.88,Month-to-month,2,980.87,Fiber optic,Electronic check,No
+TELCO-11209,70,71.37,One year,0,5047.99,No,Electronic check,No
+TELCO-11210,45,106.02,Month-to-month,1,4629.33,Fiber optic,Electronic check,Yes
+TELCO-11211,57,86.57,Month-to-month,1,5009.99,No,Credit card (automatic),Yes
+TELCO-11212,34,27.56,Month-to-month,2,921.4,Fiber optic,Credit card (automatic),Yes
+TELCO-11213,63,77.88,Month-to-month,1,4826.94,Fiber optic,Credit card (automatic),Yes
+TELCO-11214,6,40.73,Month-to-month,1,242.42,Fiber optic,Bank transfer (automatic),No
+TELCO-11215,9,92.09,Month-to-month,0,858.0,DSL,Electronic check,Yes
+TELCO-11216,37,101.45,Month-to-month,2,3655.43,DSL,Credit card (automatic),No
+TELCO-11217,53,77.99,Month-to-month,0,4030.46,Fiber optic,Credit card (automatic),Yes
+TELCO-11218,59,77.78,Month-to-month,5,4362.94,DSL,Electronic check,Yes
+TELCO-11219,32,52.44,One year,2,1620.19,DSL,Credit card (automatic),No
+TELCO-11220,47,63.24,One year,1,3114.56,Fiber optic,Credit card (automatic),No
+TELCO-11221,40,105.13,Month-to-month,0,4177.39,Fiber optic,Mailed check,Yes
+TELCO-11222,70,91.01,Month-to-month,1,6176.5,DSL,Bank transfer (automatic),No
+TELCO-11223,48,70.61,Two year,3,3547.11,DSL,Credit card (automatic),Yes
+TELCO-11224,31,55.42,One year,2,1636.78,No,Mailed check,Yes
+TELCO-11225,70,23.55,Month-to-month,1,1645.89,No,Credit card (automatic),No
+TELCO-11226,8,32.84,Month-to-month,2,270.72,Fiber optic,Mailed check,Yes
+TELCO-11227,71,37.85,Month-to-month,2,2760.67,DSL,Credit card (automatic),Yes
+TELCO-11228,12,55.93,Two year,1,650.3,Fiber optic,Electronic check,No
+TELCO-11229,21,113.15,Two year,1,2425.52,DSL,Bank transfer (automatic),Yes
+TELCO-11230,60,69.14,Two year,2,4199.13,Fiber optic,Bank transfer (automatic),No
+TELCO-11231,53,42.04,Month-to-month,4,2267.17,Fiber optic,Mailed check,No
+TELCO-11232,70,29.1,Month-to-month,2,1989.36,Fiber optic,Mailed check,No
+TELCO-11233,54,52.42,Month-to-month,3,2918.64,Fiber optic,Electronic check,Yes
+TELCO-11234,46,100.28,Month-to-month,3,4640.21,No,Bank transfer (automatic),Yes
+TELCO-11235,25,56.93,Month-to-month,0,1455.28,Fiber optic,Credit card (automatic),No
+TELCO-11236,1,95.94,One year,2,100.16,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11237,9,98.97,Month-to-month,2,922.4,Fiber optic,Mailed check,Yes
+TELCO-11238,22,29.61,Two year,1,669.81,Fiber optic,Bank transfer (automatic),No
+TELCO-11239,3,79.52,Month-to-month,2,233.54,No,Mailed check,Yes
+TELCO-11240,37,114.65,Month-to-month,3,4052.89,Fiber optic,Credit card (automatic),Yes
+TELCO-11241,56,58.81,Two year,1,3317.94,No,Mailed check,No
+TELCO-11242,70,23.61,One year,0,1575.77,Fiber optic,Bank transfer (automatic),No
+TELCO-11243,36,111.06,Month-to-month,3,4083.8,DSL,Mailed check,Yes
+TELCO-11244,64,107.09,One year,2,7016.07,DSL,Credit card (automatic),Yes
+TELCO-11245,71,70.84,Month-to-month,2,5061.28,DSL,Electronic check,Yes
+TELCO-11246,62,73.86,Month-to-month,1,4427.36,No,Bank transfer (automatic),No
+TELCO-11247,34,39.73,Month-to-month,2,1401.57,DSL,Credit card (automatic),No
+TELCO-11248,24,100.65,Month-to-month,0,2438.77,DSL,Mailed check,Yes
+TELCO-11249,71,68.48,One year,0,4869.32,DSL,Bank transfer (automatic),No
+TELCO-11250,18,21.9,Month-to-month,1,396.86,Fiber optic,Mailed check,Yes
+TELCO-11251,30,86.97,One year,0,2500.27,No,Mailed check,Yes
+TELCO-11252,6,113.79,One year,1,699.16,No,Credit card (automatic),Yes
+TELCO-11253,58,101.62,Month-to-month,1,5635.08,DSL,Mailed check,Yes
+TELCO-11254,47,46.29,Month-to-month,3,2192.68,Fiber optic,Electronic check,No
+TELCO-11255,7,23.85,Month-to-month,2,161.43,DSL,Bank transfer (automatic),Yes
+TELCO-11256,16,112.77,One year,2,1751.58,No,Mailed check,Yes
+TELCO-11257,40,112.44,One year,2,4377.63,DSL,Credit card (automatic),Yes
+TELCO-11258,39,71.87,One year,2,2666.79,No,Electronic check,No
+TELCO-11259,58,82.89,Month-to-month,0,4996.0,No,Credit card (automatic),No
+TELCO-11260,20,64.88,Month-to-month,4,1337.08,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11261,67,60.58,Month-to-month,2,3868.62,Fiber optic,Credit card (automatic),No
+TELCO-11262,33,30.47,Month-to-month,3,960.96,DSL,Mailed check,No
+TELCO-11263,60,28.2,One year,2,1739.86,DSL,Mailed check,No
+TELCO-11264,18,41.83,Month-to-month,2,715.81,Fiber optic,Mailed check,No
+TELCO-11265,3,102.37,Month-to-month,1,306.16,DSL,Credit card (automatic),Yes
+TELCO-11266,4,33.12,Month-to-month,3,127.28,Fiber optic,Electronic check,No
+TELCO-11267,27,41.23,Month-to-month,1,1123.41,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11268,69,73.5,One year,1,5324.23,No,Mailed check,No
+TELCO-11269,4,40.07,Month-to-month,2,155.02,No,Bank transfer (automatic),Yes
+TELCO-11270,27,34.86,Two year,0,984.2,DSL,Credit card (automatic),Yes
+TELCO-11271,8,74.97,Two year,2,621.68,DSL,Bank transfer (automatic),Yes
+TELCO-11272,68,55.4,Two year,0,3950.23,Fiber optic,Electronic check,No
+TELCO-11273,49,81.27,One year,0,4088.23,DSL,Mailed check,No
+TELCO-11274,55,109.95,One year,0,6263.13,Fiber optic,Electronic check,Yes
+TELCO-11275,52,33.64,One year,3,1765.83,Fiber optic,Mailed check,No
+TELCO-11276,48,110.07,Month-to-month,0,5477.41,Fiber optic,Electronic check,Yes
+TELCO-11277,56,108.97,Month-to-month,1,5865.25,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11278,1,101.62,One year,1,104.08,No,Bank transfer (automatic),Yes
+TELCO-11279,63,81.79,Month-to-month,1,5219.1,Fiber optic,Mailed check,No
+TELCO-11280,54,80.67,Month-to-month,1,4164.44,No,Credit card (automatic),No
+TELCO-11281,54,82.58,Two year,1,4366.38,No,Bank transfer (automatic),No
+TELCO-11282,29,87.72,Month-to-month,2,2471.66,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11283,58,20.15,Month-to-month,1,1157.62,DSL,Mailed check,No
+TELCO-11284,28,114.55,One year,2,3110.65,No,Mailed check,Yes
+TELCO-11285,4,77.21,Month-to-month,1,301.89,DSL,Bank transfer (automatic),No
+TELCO-11286,66,96.84,Two year,0,6261.07,Fiber optic,Credit card (automatic),No
+TELCO-11287,17,56.32,Month-to-month,2,967.0,Fiber optic,Credit card (automatic),Yes
+TELCO-11288,8,19.74,Two year,3,152.15,DSL,Credit card (automatic),No
+TELCO-11289,45,69.6,One year,3,3050.91,DSL,Electronic check,Yes
+TELCO-11290,17,69.35,Month-to-month,5,1157.39,DSL,Credit card (automatic),Yes
+TELCO-11291,62,62.31,Month-to-month,2,3843.54,No,Electronic check,No
+TELCO-11292,32,52.56,Month-to-month,3,1604.23,Fiber optic,Electronic check,Yes
+TELCO-11293,1,43.55,Month-to-month,2,45.72,No,Bank transfer (automatic),No
+TELCO-11294,69,71.39,Month-to-month,1,4827.58,No,Mailed check,No
+TELCO-11295,38,56.12,Two year,2,2087.21,Fiber optic,Electronic check,No
+TELCO-11296,19,115.74,Month-to-month,1,2211.13,Fiber optic,Electronic check,Yes
+TELCO-11297,49,35.84,Two year,2,1818.33,Fiber optic,Electronic check,No
+TELCO-11298,39,50.55,Month-to-month,2,1962.94,DSL,Mailed check,Yes
+TELCO-11299,3,47.97,Two year,1,140.3,No,Bank transfer (automatic),No
+TELCO-11300,55,72.97,Month-to-month,0,4039.79,No,Bank transfer (automatic),No
+TELCO-11301,29,68.55,Month-to-month,2,1984.56,DSL,Electronic check,No
+TELCO-11302,51,83.03,One year,2,4201.96,No,Electronic check,Yes
+TELCO-11303,65,113.74,Month-to-month,2,7750.84,DSL,Bank transfer (automatic),No
+TELCO-11304,44,47.09,Two year,2,2174.72,No,Credit card (automatic),No
+TELCO-11305,49,87.95,Month-to-month,2,4336.25,Fiber optic,Electronic check,No
+TELCO-11306,19,21.01,Month-to-month,2,381.95,DSL,Mailed check,Yes
+TELCO-11307,18,44.8,Month-to-month,2,811.8,No,Electronic check,Yes
+TELCO-11308,30,64.99,One year,2,2037.92,Fiber optic,Mailed check,No
+TELCO-11309,62,21.61,Month-to-month,1,1396.86,DSL,Mailed check,Yes
+TELCO-11310,38,80.42,Month-to-month,4,2969.02,Fiber optic,Electronic check,Yes
+TELCO-11311,26,86.5,Month-to-month,1,2179.31,Fiber optic,Credit card (automatic),Yes
+TELCO-11312,57,93.36,Month-to-month,1,5136.47,Fiber optic,Credit card (automatic),No
+TELCO-11313,62,70.29,Month-to-month,2,4497.34,Fiber optic,Bank transfer (automatic),No
+TELCO-11314,65,79.05,Two year,1,5133.14,DSL,Credit card (automatic),No
+TELCO-11315,22,58.21,Month-to-month,0,1259.88,DSL,Mailed check,No
+TELCO-11316,52,22.64,One year,2,1156.65,Fiber optic,Credit card (automatic),No
+TELCO-11317,43,28.52,Month-to-month,2,1198.82,DSL,Mailed check,No
+TELCO-11318,33,84.16,Month-to-month,3,2883.54,Fiber optic,Mailed check,Yes
+TELCO-11319,29,118.3,Month-to-month,2,3399.71,No,Bank transfer (automatic),Yes
+TELCO-11320,9,20.08,Month-to-month,0,176.09,No,Bank transfer (automatic),No
+TELCO-11321,20,74.4,Month-to-month,1,1519.31,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11322,40,93.79,Month-to-month,6,3802.42,Fiber optic,Credit card (automatic),Yes
+TELCO-11323,64,101.38,Month-to-month,1,6628.06,No,Mailed check,Yes
+TELCO-11324,63,73.16,Two year,1,4757.47,No,Bank transfer (automatic),No
+TELCO-11325,14,80.65,Month-to-month,0,1084.08,DSL,Electronic check,No
+TELCO-11326,49,88.35,Month-to-month,1,4113.55,Fiber optic,Electronic check,Yes
+TELCO-11327,7,104.61,Month-to-month,1,699.36,DSL,Mailed check,No
+TELCO-11328,49,30.76,Month-to-month,2,1538.41,DSL,Bank transfer (automatic),No
+TELCO-11329,25,111.35,One year,1,2904.7,DSL,Bank transfer (automatic),No
+TELCO-11330,33,21.11,Month-to-month,0,684.86,Fiber optic,Electronic check,No
+TELCO-11331,52,102.33,One year,1,5470.79,Fiber optic,Credit card (automatic),Yes
+TELCO-11332,31,26.19,Month-to-month,2,830.5,No,Bank transfer (automatic),No
+TELCO-11333,59,38.01,Month-to-month,2,2349.8,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11334,39,18.89,Two year,0,734.56,Fiber optic,Bank transfer (automatic),No
+TELCO-11335,72,63.14,Month-to-month,0,4394.27,DSL,Bank transfer (automatic),No
+TELCO-11336,46,52.02,One year,1,2456.39,DSL,Mailed check,No
+TELCO-11337,22,35.14,Month-to-month,2,797.73,DSL,Mailed check,No
+TELCO-11338,56,63.72,Two year,1,3642.29,No,Electronic check,No
+TELCO-11339,30,58.84,Month-to-month,1,1829.31,DSL,Bank transfer (automatic),Yes
+TELCO-11340,39,95.46,Month-to-month,2,3674.98,Fiber optic,Electronic check,Yes
+TELCO-11341,10,108.04,One year,1,1100.96,DSL,Bank transfer (automatic),Yes
+TELCO-11342,9,83.92,Month-to-month,5,737.44,Fiber optic,Mailed check,Yes
+TELCO-11343,42,30.97,Month-to-month,5,1293.77,No,Electronic check,Yes
+TELCO-11344,14,48.11,Two year,0,656.2,No,Mailed check,No
+TELCO-11345,72,110.06,One year,3,7650.56,DSL,Credit card (automatic),Yes
+TELCO-11346,62,27.4,One year,2,1619.97,No,Bank transfer (automatic),No
+TELCO-11347,51,59.29,One year,2,3075.63,DSL,Mailed check,No
+TELCO-11348,53,112.99,Two year,0,6213.2,No,Mailed check,No
+TELCO-11349,43,113.8,Two year,3,4802.59,DSL,Bank transfer (automatic),Yes
+TELCO-11350,5,59.72,One year,0,296.49,Fiber optic,Electronic check,Yes
+TELCO-11351,29,85.41,Month-to-month,4,2353.92,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11352,36,64.29,Month-to-month,1,2294.27,No,Electronic check,No
+TELCO-11353,66,94.03,One year,4,6070.27,No,Credit card (automatic),Yes
+TELCO-11354,16,21.67,Two year,0,349.29,DSL,Bank transfer (automatic),No
+TELCO-11355,36,32.95,Month-to-month,2,1234.66,No,Electronic check,Yes
+TELCO-11356,25,80.07,Month-to-month,1,2002.98,DSL,Mailed check,No
+TELCO-11357,10,41.81,Month-to-month,2,425.44,DSL,Credit card (automatic),Yes
+TELCO-11358,8,85.27,Month-to-month,3,696.18,DSL,Credit card (automatic),Yes
+TELCO-11359,27,53.71,Two year,0,1399.77,DSL,Electronic check,No
+TELCO-11360,6,107.39,Month-to-month,5,634.45,DSL,Mailed check,Yes
+TELCO-11361,5,100.63,One year,2,483.69,Fiber optic,Electronic check,Yes
+TELCO-11362,26,67.91,One year,0,1755.2,DSL,Mailed check,No
+TELCO-11363,15,95.98,Two year,3,1495.46,Fiber optic,Credit card (automatic),No
+TELCO-11364,40,45.68,Month-to-month,1,1823.72,DSL,Bank transfer (automatic),No
+TELCO-11365,2,68.05,Two year,3,135.5,Fiber optic,Mailed check,Yes
+TELCO-11366,22,38.3,One year,2,818.11,DSL,Mailed check,No
+TELCO-11367,33,104.8,One year,3,3392.77,DSL,Bank transfer (automatic),Yes
+TELCO-11368,70,101.01,Month-to-month,1,7379.41,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11369,46,108.94,Month-to-month,2,4912.52,No,Mailed check,Yes
+TELCO-11370,64,106.47,One year,3,6971.75,No,Mailed check,No
+TELCO-11371,25,114.7,Month-to-month,1,2736.21,Fiber optic,Credit card (automatic),Yes
+TELCO-11372,33,41.39,Month-to-month,1,1315.1,No,Bank transfer (automatic),No
+TELCO-11373,31,111.92,One year,0,3404.11,Fiber optic,Credit card (automatic),No
+TELCO-11374,64,75.76,One year,0,5043.27,No,Credit card (automatic),No
+TELCO-11375,70,60.86,Month-to-month,1,4140.61,DSL,Mailed check,No
+TELCO-11376,70,74.68,Month-to-month,1,5346.13,DSL,Credit card (automatic),No
+TELCO-11377,55,52.85,Month-to-month,2,2810.11,DSL,Credit card (automatic),No
+TELCO-11378,37,47.43,Two year,3,1774.71,No,Electronic check,No
+TELCO-11379,39,42.69,Two year,3,1679.37,DSL,Electronic check,No
+TELCO-11380,71,26.76,Month-to-month,0,1923.13,DSL,Electronic check,No
+TELCO-11381,21,68.28,Month-to-month,2,1403.23,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11382,25,107.5,Month-to-month,2,2596.69,No,Credit card (automatic),Yes
+TELCO-11383,65,81.67,Month-to-month,0,5513.72,Fiber optic,Credit card (automatic),No
+TELCO-11384,28,70.73,Two year,2,1994.19,Fiber optic,Mailed check,No
+TELCO-11385,17,61.47,Month-to-month,1,1014.9,DSL,Bank transfer (automatic),Yes
+TELCO-11386,41,65.06,Month-to-month,1,2644.34,No,Electronic check,No
+TELCO-11387,24,39.48,Month-to-month,2,906.5,DSL,Bank transfer (automatic),Yes
+TELCO-11388,65,101.0,Month-to-month,2,6548.83,DSL,Mailed check,Yes
+TELCO-11389,66,38.39,Two year,2,2514.46,Fiber optic,Credit card (automatic),No
+TELCO-11390,23,90.34,One year,0,2001.51,DSL,Credit card (automatic),Yes
+TELCO-11391,39,94.69,One year,4,3672.37,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11392,71,76.13,Month-to-month,1,5480.65,Fiber optic,Bank transfer (automatic),No
+TELCO-11393,54,105.01,Two year,2,5913.52,DSL,Credit card (automatic),No
+TELCO-11394,16,47.68,Month-to-month,1,778.38,DSL,Mailed check,Yes
+TELCO-11395,43,106.88,Two year,2,4596.96,DSL,Electronic check,No
+TELCO-11396,45,91.62,Two year,2,4234.24,DSL,Bank transfer (automatic),No
+TELCO-11397,48,98.57,Month-to-month,0,4627.24,No,Mailed check,No
+TELCO-11398,2,85.12,Two year,0,173.11,Fiber optic,Bank transfer (automatic),No
+TELCO-11399,22,103.35,Month-to-month,0,2161.17,DSL,Credit card (automatic),Yes
+TELCO-11400,62,118.06,One year,2,7006.84,DSL,Bank transfer (automatic),No
+TELCO-11401,18,60.62,Month-to-month,2,1104.72,No,Mailed check,No
+TELCO-11402,22,100.1,Month-to-month,1,2134.49,No,Bank transfer (automatic),No
+TELCO-11403,24,93.14,Month-to-month,0,2277.55,No,Mailed check,Yes
+TELCO-11404,13,63.9,Month-to-month,1,842.06,DSL,Electronic check,No
+TELCO-11405,12,111.43,Month-to-month,5,1278.82,Fiber optic,Credit card (automatic),Yes
+TELCO-11406,25,58.04,Month-to-month,3,1435.4,DSL,Mailed check,Yes
+TELCO-11407,63,75.19,One year,1,4790.5,Fiber optic,Bank transfer (automatic),No
+TELCO-11408,1,29.12,Month-to-month,1,29.74,Fiber optic,Credit card (automatic),No
+TELCO-11409,21,41.13,Month-to-month,1,891.03,Fiber optic,Electronic check,Yes
+TELCO-11410,5,102.78,Two year,3,505.19,DSL,Mailed check,No
+TELCO-11411,41,58.25,Two year,0,2468.67,Fiber optic,Electronic check,No
+TELCO-11412,19,58.01,Month-to-month,0,1086.13,DSL,Mailed check,No
+TELCO-11413,58,43.16,Month-to-month,5,2379.87,No,Mailed check,No
+TELCO-11414,43,67.78,One year,2,2946.6,DSL,Credit card (automatic),No
+TELCO-11415,57,99.28,One year,0,5512.77,Fiber optic,Mailed check,No
+TELCO-11416,46,108.24,Month-to-month,2,4792.02,DSL,Bank transfer (automatic),Yes
+TELCO-11417,32,25.53,One year,1,797.22,Fiber optic,Electronic check,No
+TELCO-11418,62,76.13,Month-to-month,2,4874.84,Fiber optic,Mailed check,Yes
+TELCO-11419,35,65.34,Month-to-month,1,2381.58,Fiber optic,Credit card (automatic),No
+TELCO-11420,69,80.08,One year,1,5780.63,DSL,Bank transfer (automatic),No
+TELCO-11421,72,63.34,One year,0,4470.56,DSL,Mailed check,No
+TELCO-11422,43,58.46,Two year,1,2502.7,DSL,Credit card (automatic),No
+TELCO-11423,49,65.81,Month-to-month,2,3322.25,Fiber optic,Credit card (automatic),Yes
+TELCO-11424,19,76.85,Month-to-month,1,1433.56,DSL,Mailed check,Yes
+TELCO-11425,59,68.72,Month-to-month,5,4007.91,DSL,Credit card (automatic),Yes
+TELCO-11426,49,65.83,Month-to-month,2,3140.92,DSL,Electronic check,No
+TELCO-11427,65,100.49,Month-to-month,4,6579.12,DSL,Mailed check,Yes
+TELCO-11428,20,93.25,Month-to-month,1,1894.7,DSL,Credit card (automatic),Yes
+TELCO-11429,57,52.72,Month-to-month,2,2950.48,Fiber optic,Credit card (automatic),No
+TELCO-11430,34,98.76,One year,2,3198.08,DSL,Credit card (automatic),No
+TELCO-11431,14,104.08,Month-to-month,3,1491.49,No,Electronic check,Yes
+TELCO-11432,13,33.89,Month-to-month,0,445.71,Fiber optic,Electronic check,Yes
+TELCO-11433,41,76.91,One year,2,3064.7,Fiber optic,Bank transfer (automatic),No
+TELCO-11434,24,47.1,Month-to-month,5,1109.45,No,Electronic check,Yes
+TELCO-11435,8,92.6,Two year,1,774.66,Fiber optic,Credit card (automatic),No
+TELCO-11436,31,42.44,Month-to-month,2,1332.77,Fiber optic,Credit card (automatic),Yes
+TELCO-11437,48,85.81,Month-to-month,3,4158.21,DSL,Credit card (automatic),Yes
+TELCO-11438,23,44.08,Two year,0,1028.0,Fiber optic,Credit card (automatic),No
+TELCO-11439,69,69.74,One year,3,5030.74,DSL,Electronic check,No
+TELCO-11440,57,113.6,One year,2,6371.51,Fiber optic,Credit card (automatic),Yes
+TELCO-11441,37,56.73,One year,4,2053.02,DSL,Mailed check,Yes
+TELCO-11442,68,106.29,Month-to-month,0,7138.63,Fiber optic,Electronic check,Yes
+TELCO-11443,32,117.44,One year,1,3871.18,Fiber optic,Mailed check,Yes
+TELCO-11444,11,106.2,Two year,0,1123.92,DSL,Credit card (automatic),Yes
+TELCO-11445,3,35.13,Two year,5,102.3,DSL,Credit card (automatic),Yes
+TELCO-11446,68,100.67,Month-to-month,4,6659.53,No,Bank transfer (automatic),No
+TELCO-11447,70,21.72,Month-to-month,1,1541.13,DSL,Electronic check,No
+TELCO-11448,54,57.93,One year,1,3172.51,DSL,Bank transfer (automatic),Yes
+TELCO-11449,8,105.79,Month-to-month,1,835.48,DSL,Bank transfer (automatic),Yes
+TELCO-11450,22,87.55,Month-to-month,2,1882.99,No,Bank transfer (automatic),Yes
+TELCO-11451,3,71.91,Month-to-month,2,221.22,Fiber optic,Mailed check,Yes
+TELCO-11452,4,57.38,Month-to-month,2,218.77,Fiber optic,Electronic check,Yes
+TELCO-11453,18,99.93,Month-to-month,3,1841.68,No,Mailed check,Yes
+TELCO-11454,42,89.63,Month-to-month,1,3655.39,Fiber optic,Credit card (automatic),No
+TELCO-11455,5,65.46,Month-to-month,4,340.48,No,Mailed check,Yes
+TELCO-11456,71,107.97,Month-to-month,2,7599.71,Fiber optic,Electronic check,No
+TELCO-11457,33,41.55,Two year,3,1390.66,No,Mailed check,No
+TELCO-11458,19,35.58,Month-to-month,3,650.4,Fiber optic,Mailed check,Yes
+TELCO-11459,38,82.94,Month-to-month,3,3074.15,DSL,Bank transfer (automatic),Yes
+TELCO-11460,57,115.94,Month-to-month,1,6741.15,DSL,Bank transfer (automatic),Yes
+TELCO-11461,23,43.29,Month-to-month,2,1000.68,DSL,Mailed check,Yes
+TELCO-11462,4,43.53,Two year,2,178.83,Fiber optic,Electronic check,No
+TELCO-11463,4,32.48,Two year,0,130.74,No,Mailed check,No
+TELCO-11464,62,104.77,Month-to-month,0,6540.78,Fiber optic,Electronic check,Yes
+TELCO-11465,9,41.2,Month-to-month,2,384.08,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11466,46,68.94,Month-to-month,1,3147.36,Fiber optic,Mailed check,No
+TELCO-11467,28,117.83,Month-to-month,1,3429.57,No,Mailed check,Yes
+TELCO-11468,56,19.72,Month-to-month,2,1090.21,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11469,5,74.29,Month-to-month,3,365.08,DSL,Credit card (automatic),Yes
+TELCO-11470,65,69.86,Month-to-month,1,4667.78,Fiber optic,Mailed check,No
+TELCO-11471,51,99.45,One year,1,4824.21,Fiber optic,Bank transfer (automatic),No
+TELCO-11472,33,54.12,Month-to-month,4,1727.41,DSL,Bank transfer (automatic),Yes
+TELCO-11473,15,59.64,Month-to-month,0,856.29,DSL,Bank transfer (automatic),Yes
+TELCO-11474,71,35.34,Month-to-month,4,2512.18,DSL,Mailed check,No
+TELCO-11475,22,92.77,Month-to-month,2,2067.08,DSL,Electronic check,Yes
+TELCO-11476,36,97.17,Month-to-month,1,3326.84,DSL,Electronic check,Yes
+TELCO-11477,29,32.2,Month-to-month,2,902.19,No,Electronic check,No
+TELCO-11478,17,57.94,Month-to-month,1,965.53,DSL,Electronic check,No
+TELCO-11479,30,108.01,Month-to-month,0,3173.62,No,Credit card (automatic),Yes
+TELCO-11480,11,18.77,Two year,1,198.15,DSL,Electronic check,No
+TELCO-11481,1,48.45,Two year,2,46.86,No,Credit card (automatic),Yes
+TELCO-11482,21,74.14,Month-to-month,0,1610.97,Fiber optic,Credit card (automatic),Yes
+TELCO-11483,9,51.99,Month-to-month,1,477.3,No,Electronic check,No
+TELCO-11484,30,45.77,One year,1,1345.1,Fiber optic,Mailed check,No
+TELCO-11485,63,64.62,One year,1,3974.74,Fiber optic,Mailed check,Yes
+TELCO-11486,12,36.7,Month-to-month,1,421.91,Fiber optic,Mailed check,No
+TELCO-11487,1,71.59,Month-to-month,3,70.51,Fiber optic,Mailed check,Yes
+TELCO-11488,8,89.35,Month-to-month,2,707.51,Fiber optic,Mailed check,Yes
+TELCO-11489,37,76.17,One year,2,2932.2,DSL,Bank transfer (automatic),No
+TELCO-11490,20,27.83,Month-to-month,3,570.13,DSL,Mailed check,Yes
+TELCO-11491,36,103.15,Month-to-month,3,3705.66,No,Electronic check,Yes
+TELCO-11492,3,36.04,Month-to-month,0,104.17,DSL,Mailed check,Yes
+TELCO-11493,24,95.17,Month-to-month,1,2319.75,Fiber optic,Credit card (automatic),Yes
+TELCO-11494,30,54.65,Month-to-month,0,1710.98,DSL,Credit card (automatic),No
+TELCO-11495,32,96.97,One year,1,2972.11,Fiber optic,Electronic check,Yes
+TELCO-11496,40,39.18,Month-to-month,2,1621.83,DSL,Bank transfer (automatic),Yes
+TELCO-11497,57,37.21,Month-to-month,2,2053.12,Fiber optic,Credit card (automatic),No
+TELCO-11498,34,68.33,Month-to-month,1,2369.98,No,Electronic check,Yes
+TELCO-11499,61,21.8,Two year,3,1287.76,No,Electronic check,No
+TELCO-11500,39,41.09,Month-to-month,2,1618.54,DSL,Electronic check,Yes
+TELCO-11501,19,91.08,Month-to-month,1,1685.12,DSL,Mailed check,Yes
+TELCO-11502,17,102.45,Month-to-month,1,1748.91,No,Credit card (automatic),Yes
+TELCO-11503,24,26.6,Two year,1,644.79,DSL,Mailed check,No
+TELCO-11504,44,106.93,One year,3,4760.68,DSL,Mailed check,Yes
+TELCO-11505,18,98.45,Two year,2,1804.49,Fiber optic,Mailed check,No
+TELCO-11506,66,105.69,One year,2,6674.91,Fiber optic,Mailed check,No
+TELCO-11507,35,88.52,Month-to-month,2,3161.21,DSL,Credit card (automatic),No
+TELCO-11508,63,86.08,Month-to-month,1,5235.73,DSL,Electronic check,Yes
+TELCO-11509,50,71.14,Month-to-month,0,3619.97,No,Mailed check,No
+TELCO-11510,25,83.94,One year,2,2019.6,No,Bank transfer (automatic),No
+TELCO-11511,17,110.64,One year,4,1877.01,Fiber optic,Electronic check,No
+TELCO-11512,54,28.58,Month-to-month,2,1525.84,Fiber optic,Electronic check,No
+TELCO-11513,24,50.16,Two year,2,1260.1,No,Credit card (automatic),No
+TELCO-11514,18,25.76,Month-to-month,1,469.75,Fiber optic,Mailed check,Yes
+TELCO-11515,67,113.22,Month-to-month,3,7273.36,Fiber optic,Electronic check,No
+TELCO-11516,35,63.14,Month-to-month,0,2254.29,Fiber optic,Mailed check,No
+TELCO-11517,4,86.2,Two year,3,334.25,DSL,Electronic check,No
+TELCO-11518,36,102.82,Two year,2,3622.36,No,Electronic check,No
+TELCO-11519,34,117.85,Month-to-month,0,3958.19,Fiber optic,Electronic check,Yes
+TELCO-11520,63,34.72,Two year,5,2247.78,DSL,Bank transfer (automatic),No
+TELCO-11521,52,98.65,Two year,4,5357.6,Fiber optic,Mailed check,No
+TELCO-11522,14,107.46,Two year,0,1568.28,No,Mailed check,Yes
+TELCO-11523,11,23.4,Two year,2,248.92,DSL,Credit card (automatic),No
+TELCO-11524,44,94.1,Month-to-month,2,3958.39,Fiber optic,Mailed check,No
+TELCO-11525,4,54.06,One year,3,223.34,DSL,Electronic check,Yes
+TELCO-11526,23,83.52,One year,3,1880.28,Fiber optic,Electronic check,Yes
+TELCO-11527,10,70.03,One year,2,706.1,No,Bank transfer (automatic),Yes
+TELCO-11528,2,44.54,Month-to-month,2,93.34,No,Bank transfer (automatic),No
+TELCO-11529,67,32.06,One year,2,2080.66,No,Mailed check,No
+TELCO-11530,7,30.22,Two year,1,208.89,Fiber optic,Electronic check,Yes
+TELCO-11531,1,28.86,Month-to-month,3,29.92,Fiber optic,Electronic check,Yes
+TELCO-11532,68,82.44,Two year,3,5690.0,Fiber optic,Mailed check,No
+TELCO-11533,14,53.73,Month-to-month,1,785.13,DSL,Bank transfer (automatic),Yes
+TELCO-11534,59,40.22,Month-to-month,2,2404.24,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11535,3,87.86,Month-to-month,3,258.4,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11536,12,87.36,One year,2,1080.31,Fiber optic,Electronic check,Yes
+TELCO-11537,8,72.55,One year,4,595.45,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11538,51,112.23,Month-to-month,0,5971.92,Fiber optic,Credit card (automatic),No
+TELCO-11539,45,57.14,One year,2,2565.17,DSL,Electronic check,No
+TELCO-11540,35,102.3,Month-to-month,2,3581.52,DSL,Bank transfer (automatic),Yes
+TELCO-11541,18,26.03,Month-to-month,2,460.29,Fiber optic,Electronic check,Yes
+TELCO-11542,7,92.67,Two year,1,633.69,DSL,Credit card (automatic),No
+TELCO-11543,41,117.59,One year,4,5060.58,No,Bank transfer (automatic),Yes
+TELCO-11544,17,103.37,One year,1,1841.16,DSL,Bank transfer (automatic),Yes
+TELCO-11545,43,76.61,One year,0,3304.0,No,Bank transfer (automatic),No
+TELCO-11546,50,81.33,Two year,5,4251.56,DSL,Bank transfer (automatic),Yes
+TELCO-11547,62,53.92,Month-to-month,0,3294.95,No,Mailed check,No
+TELCO-11548,36,86.62,Month-to-month,4,3227.46,Fiber optic,Credit card (automatic),Yes
+TELCO-11549,1,95.73,Month-to-month,2,97.02,No,Electronic check,Yes
+TELCO-11550,21,118.57,One year,2,2544.02,No,Credit card (automatic),Yes
+TELCO-11551,62,67.87,One year,4,4299.76,Fiber optic,Credit card (automatic),Yes
+TELCO-11552,39,24.65,One year,4,974.41,DSL,Credit card (automatic),Yes
+TELCO-11553,45,78.23,Month-to-month,0,3644.38,Fiber optic,Electronic check,No
+TELCO-11554,33,30.43,Month-to-month,2,993.35,DSL,Mailed check,No
+TELCO-11555,12,43.04,One year,3,534.51,No,Bank transfer (automatic),Yes
+TELCO-11556,65,51.46,Two year,0,3239.01,No,Bank transfer (automatic),No
+TELCO-11557,56,91.79,Month-to-month,3,4986.01,DSL,Bank transfer (automatic),No
+TELCO-11558,72,36.93,Month-to-month,5,2716.75,Fiber optic,Bank transfer (automatic),No
+TELCO-11559,62,35.12,Month-to-month,2,2231.9,DSL,Electronic check,No
+TELCO-11560,21,23.01,Month-to-month,2,502.65,Fiber optic,Credit card (automatic),Yes
+TELCO-11561,19,106.04,Month-to-month,1,1969.36,Fiber optic,Mailed check,Yes
+TELCO-11562,18,88.02,Month-to-month,1,1514.03,Fiber optic,Credit card (automatic),No
+TELCO-11563,67,22.5,One year,3,1508.63,No,Bank transfer (automatic),Yes
+TELCO-11564,41,21.34,Month-to-month,0,907.78,DSL,Bank transfer (automatic),No
+TELCO-11565,33,74.51,Month-to-month,3,2574.76,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11566,70,46.82,Month-to-month,2,3394.67,Fiber optic,Credit card (automatic),No
+TELCO-11567,44,78.32,Two year,1,3442.62,DSL,Credit card (automatic),Yes
+TELCO-11568,66,62.07,Month-to-month,1,4245.48,Fiber optic,Bank transfer (automatic),No
+TELCO-11569,71,111.06,Month-to-month,3,7659.72,DSL,Bank transfer (automatic),Yes
+TELCO-11570,6,47.35,Month-to-month,2,296.07,Fiber optic,Electronic check,Yes
+TELCO-11571,27,86.58,One year,3,2353.29,No,Electronic check,Yes
+TELCO-11572,53,23.92,Two year,5,1253.73,DSL,Bank transfer (automatic),No
+TELCO-11573,59,114.33,Month-to-month,3,6800.54,DSL,Mailed check,Yes
+TELCO-11574,11,116.82,Month-to-month,2,1321.52,Fiber optic,Mailed check,Yes
+TELCO-11575,23,92.59,Month-to-month,4,2074.23,DSL,Bank transfer (automatic),Yes
+TELCO-11576,40,65.14,One year,1,2501.87,DSL,Electronic check,No
+TELCO-11577,58,40.55,Two year,1,2406.73,Fiber optic,Mailed check,No
+TELCO-11578,9,99.95,Month-to-month,4,940.25,Fiber optic,Electronic check,Yes
+TELCO-11579,44,92.32,Month-to-month,3,4117.72,No,Credit card (automatic),No
+TELCO-11580,22,40.75,One year,2,864.46,Fiber optic,Bank transfer (automatic),No
+TELCO-11581,16,63.73,One year,1,1034.3,Fiber optic,Electronic check,Yes
+TELCO-11582,38,64.9,Month-to-month,1,2371.65,Fiber optic,Bank transfer (automatic),No
+TELCO-11583,30,101.35,Month-to-month,1,2980.76,DSL,Electronic check,Yes
+TELCO-11584,46,87.06,Month-to-month,3,3817.18,Fiber optic,Credit card (automatic),No
+TELCO-11585,23,82.98,One year,4,1906.15,Fiber optic,Electronic check,Yes
+TELCO-11586,60,83.65,One year,3,4929.34,No,Mailed check,Yes
+TELCO-11587,6,45.61,One year,1,262.65,DSL,Credit card (automatic),Yes
+TELCO-11588,63,55.76,Two year,4,3445.79,Fiber optic,Bank transfer (automatic),No
+TELCO-11589,3,23.08,Month-to-month,3,70.26,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11590,53,97.39,Month-to-month,2,5052.8,DSL,Bank transfer (automatic),No
+TELCO-11591,25,61.91,Month-to-month,1,1492.51,No,Bank transfer (automatic),No
+TELCO-11592,28,62.43,Two year,1,1755.87,DSL,Electronic check,No
+TELCO-11593,2,43.1,One year,3,88.38,No,Mailed check,Yes
+TELCO-11594,51,39.5,Month-to-month,2,2081.01,Fiber optic,Credit card (automatic),No
+TELCO-11595,12,77.43,Month-to-month,1,926.57,DSL,Credit card (automatic),Yes
+TELCO-11596,48,41.81,One year,2,2049.24,Fiber optic,Bank transfer (automatic),No
+TELCO-11597,53,24.94,One year,1,1365.88,DSL,Credit card (automatic),No
+TELCO-11598,61,95.44,One year,2,5922.49,Fiber optic,Credit card (automatic),Yes
+TELCO-11599,51,56.24,Month-to-month,1,2876.06,No,Mailed check,No
+TELCO-11600,22,56.62,Two year,1,1190.82,Fiber optic,Bank transfer (automatic),No
+TELCO-11601,54,61.74,One year,2,3263.96,DSL,Credit card (automatic),Yes
+TELCO-11602,60,100.21,One year,3,5904.26,Fiber optic,Electronic check,No
+TELCO-11603,23,50.66,One year,1,1152.95,Fiber optic,Credit card (automatic),No
+TELCO-11604,9,94.49,Two year,3,888.75,Fiber optic,Mailed check,Yes
+TELCO-11605,65,112.69,Two year,0,7111.61,Fiber optic,Mailed check,No
+TELCO-11606,11,84.75,One year,1,936.12,Fiber optic,Mailed check,Yes
+TELCO-11607,43,61.78,Month-to-month,3,2787.03,Fiber optic,Mailed check,No
+TELCO-11608,18,93.47,Month-to-month,1,1702.45,Fiber optic,Mailed check,Yes
+TELCO-11609,10,64.4,Two year,3,625.25,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11610,56,60.05,One year,1,3517.55,DSL,Credit card (automatic),No
+TELCO-11611,11,71.16,Month-to-month,0,769.95,Fiber optic,Mailed check,No
+TELCO-11612,49,50.35,Month-to-month,2,2355.6,Fiber optic,Electronic check,No
+TELCO-11613,50,28.95,Two year,1,1437.56,No,Credit card (automatic),No
+TELCO-11614,5,60.09,Two year,3,292.66,No,Mailed check,Yes
+TELCO-11615,13,30.92,Two year,1,414.78,No,Bank transfer (automatic),No
+TELCO-11616,58,59.65,Month-to-month,0,3362.81,DSL,Mailed check,No
+TELCO-11617,37,74.33,One year,2,2838.18,Fiber optic,Electronic check,Yes
+TELCO-11618,9,111.8,Two year,2,959.53,No,Mailed check,Yes
+TELCO-11619,72,22.13,Month-to-month,1,1661.74,DSL,Mailed check,No
+TELCO-11620,20,80.8,Month-to-month,2,1542.02,DSL,Credit card (automatic),Yes
+TELCO-11621,1,64.39,Two year,2,67.21,DSL,Bank transfer (automatic),No
+TELCO-11622,67,20.53,Month-to-month,1,1316.87,Fiber optic,Bank transfer (automatic),No
+TELCO-11623,2,43.52,One year,2,90.28,Fiber optic,Electronic check,Yes
+TELCO-11624,40,30.38,One year,0,1255.46,DSL,Electronic check,No
+TELCO-11625,72,40.23,One year,2,2923.91,Fiber optic,Mailed check,Yes
+TELCO-11626,42,46.03,Month-to-month,3,1843.55,Fiber optic,Credit card (automatic),No
+TELCO-11627,43,58.73,One year,2,2555.98,No,Electronic check,No
+TELCO-11628,28,71.54,Month-to-month,1,2026.73,Fiber optic,Credit card (automatic),Yes
+TELCO-11629,10,18.6,Two year,3,187.06,No,Credit card (automatic),Yes
+TELCO-11630,42,34.73,Month-to-month,3,1477.85,Fiber optic,Mailed check,Yes
+TELCO-11631,65,27.88,One year,3,1897.03,No,Electronic check,No
+TELCO-11632,7,73.6,One year,2,540.73,Fiber optic,Electronic check,Yes
+TELCO-11633,64,51.49,Month-to-month,1,3302.11,No,Electronic check,Yes
+TELCO-11634,30,73.48,Month-to-month,1,2114.42,No,Credit card (automatic),Yes
+TELCO-11635,39,40.74,One year,0,1530.7,Fiber optic,Credit card (automatic),No
+TELCO-11636,12,20.93,Month-to-month,3,256.69,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11637,45,112.87,Month-to-month,3,5323.95,DSL,Electronic check,Yes
+TELCO-11638,14,29.36,Month-to-month,1,408.41,DSL,Credit card (automatic),Yes
+TELCO-11639,20,31.22,Two year,2,599.3,DSL,Bank transfer (automatic),No
+TELCO-11640,52,33.19,One year,4,1700.52,DSL,Credit card (automatic),Yes
+TELCO-11641,4,116.87,Month-to-month,3,462.1,Fiber optic,Mailed check,Yes
+TELCO-11642,33,80.42,Two year,1,2785.65,DSL,Electronic check,Yes
+TELCO-11643,43,79.68,Month-to-month,4,3490.17,No,Credit card (automatic),Yes
+TELCO-11644,10,117.42,Month-to-month,1,1129.33,Fiber optic,Electronic check,Yes
+TELCO-11645,22,27.37,Month-to-month,0,592.33,No,Electronic check,No
+TELCO-11646,25,116.19,Month-to-month,0,2773.62,Fiber optic,Electronic check,No
+TELCO-11647,48,38.95,Month-to-month,1,1898.22,DSL,Electronic check,No
+TELCO-11648,71,80.96,One year,1,5847.45,DSL,Bank transfer (automatic),No
+TELCO-11649,61,60.61,Month-to-month,0,3533.61,No,Electronic check,No
+TELCO-11650,14,56.99,One year,1,784.74,DSL,Credit card (automatic),No
+TELCO-11651,2,111.86,Month-to-month,5,232.73,Fiber optic,Credit card (automatic),Yes
+TELCO-11652,4,33.46,Month-to-month,5,138.21,DSL,Electronic check,Yes
+TELCO-11653,43,118.46,Month-to-month,3,5131.58,Fiber optic,Credit card (automatic),Yes
+TELCO-11654,12,56.51,One year,1,677.08,DSL,Electronic check,No
+TELCO-11655,17,83.54,One year,4,1490.17,Fiber optic,Mailed check,Yes
+TELCO-11656,62,115.53,Month-to-month,3,7322.02,DSL,Bank transfer (automatic),Yes
+TELCO-11657,63,24.27,Month-to-month,0,1598.22,No,Electronic check,No
+TELCO-11658,61,111.02,Month-to-month,4,6482.09,DSL,Electronic check,Yes
+TELCO-11659,19,75.42,Two year,6,1391.73,DSL,Electronic check,Yes
+TELCO-11660,45,89.12,Month-to-month,1,3822.36,DSL,Bank transfer (automatic),No
+TELCO-11661,44,33.46,One year,2,1526.41,No,Electronic check,Yes
+TELCO-11662,14,71.97,Month-to-month,7,1027.15,Fiber optic,Electronic check,Yes
+TELCO-11663,40,86.02,Month-to-month,2,3329.89,Fiber optic,Electronic check,Yes
+TELCO-11664,38,64.24,One year,1,2556.88,Fiber optic,Credit card (automatic),No
+TELCO-11665,29,34.04,Month-to-month,3,1032.15,No,Credit card (automatic),Yes
+TELCO-11666,55,42.97,Month-to-month,4,2298.26,DSL,Credit card (automatic),No
+TELCO-11667,49,104.15,Two year,1,5178.37,Fiber optic,Electronic check,No
+TELCO-11668,39,21.96,Month-to-month,1,870.84,No,Mailed check,Yes
+TELCO-11669,53,89.56,Month-to-month,2,4511.25,DSL,Credit card (automatic),Yes
+TELCO-11670,55,118.69,Month-to-month,0,6651.18,DSL,Bank transfer (automatic),No
+TELCO-11671,41,19.25,Month-to-month,0,767.26,Fiber optic,Electronic check,No
+TELCO-11672,20,34.64,One year,1,720.6,DSL,Electronic check,No
+TELCO-11673,55,86.08,Month-to-month,0,4894.66,DSL,Credit card (automatic),No
+TELCO-11674,52,24.51,Two year,3,1326.18,Fiber optic,Credit card (automatic),No
+TELCO-11675,71,77.63,One year,2,5653.69,DSL,Mailed check,No
+TELCO-11676,11,87.07,Two year,4,925.68,Fiber optic,Electronic check,Yes
+TELCO-11677,31,77.46,Two year,2,2367.78,Fiber optic,Electronic check,No
+TELCO-11678,67,55.11,Two year,3,3769.52,Fiber optic,Electronic check,No
+TELCO-11679,38,88.4,One year,3,3299.85,Fiber optic,Credit card (automatic),No
+TELCO-11680,68,78.08,Month-to-month,3,5420.96,Fiber optic,Credit card (automatic),No
+TELCO-11681,1,39.32,Month-to-month,3,38.68,Fiber optic,Mailed check,Yes
+TELCO-11682,3,74.95,One year,0,217.6,No,Credit card (automatic),Yes
+TELCO-11683,58,106.91,Month-to-month,5,6212.04,Fiber optic,Credit card (automatic),Yes
+TELCO-11684,26,85.35,One year,1,2260.43,Fiber optic,Credit card (automatic),Yes
+TELCO-11685,38,65.8,Month-to-month,3,2504.7,No,Credit card (automatic),Yes
+TELCO-11686,31,50.74,Two year,2,1595.25,Fiber optic,Bank transfer (automatic),No
+TELCO-11687,30,27.11,Month-to-month,4,808.26,DSL,Credit card (automatic),Yes
+TELCO-11688,68,43.02,Two year,4,3006.78,DSL,Bank transfer (automatic),No
+TELCO-11689,7,19.62,Month-to-month,4,139.4,Fiber optic,Credit card (automatic),Yes
+TELCO-11690,56,117.41,Month-to-month,1,6624.01,Fiber optic,Mailed check,Yes
+TELCO-11691,65,40.8,Two year,2,2634.86,Fiber optic,Electronic check,No
+TELCO-11692,48,100.19,Two year,2,4826.3,Fiber optic,Bank transfer (automatic),No
+TELCO-11693,29,35.41,One year,2,980.78,DSL,Mailed check,No
+TELCO-11694,12,46.93,Two year,2,572.55,Fiber optic,Mailed check,No
+TELCO-11695,50,60.43,Month-to-month,1,2932.19,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11696,34,51.02,Two year,2,1797.15,No,Bank transfer (automatic),No
+TELCO-11697,11,98.53,Month-to-month,1,1117.68,Fiber optic,Mailed check,Yes
+TELCO-11698,26,114.51,Month-to-month,1,2985.58,Fiber optic,Electronic check,No
+TELCO-11699,70,106.25,Month-to-month,3,7695.68,Fiber optic,Bank transfer (automatic),No
+TELCO-11700,20,33.9,Month-to-month,0,689.58,Fiber optic,Mailed check,Yes
+TELCO-11701,13,96.36,One year,1,1207.74,DSL,Electronic check,Yes
+TELCO-11702,50,33.33,One year,3,1706.62,Fiber optic,Electronic check,No
+TELCO-11703,15,110.07,Month-to-month,3,1732.91,DSL,Bank transfer (automatic),Yes
+TELCO-11704,67,70.42,Two year,4,4501.57,DSL,Mailed check,No
+TELCO-11705,62,52.22,Month-to-month,2,3155.05,Fiber optic,Mailed check,No
+TELCO-11706,71,34.24,Month-to-month,1,2454.8,Fiber optic,Electronic check,No
+TELCO-11707,66,19.68,One year,1,1287.86,Fiber optic,Electronic check,No
+TELCO-11708,18,43.36,Month-to-month,2,791.22,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11709,16,110.13,Month-to-month,3,1777.31,No,Credit card (automatic),Yes
+TELCO-11710,25,98.43,One year,2,2531.62,Fiber optic,Mailed check,No
+TELCO-11711,34,115.72,Month-to-month,1,3765.65,Fiber optic,Credit card (automatic),Yes
+TELCO-11712,64,28.6,Month-to-month,1,1819.53,Fiber optic,Bank transfer (automatic),No
+TELCO-11713,53,77.87,One year,2,4275.71,No,Mailed check,Yes
+TELCO-11714,47,44.28,Month-to-month,1,2052.6,Fiber optic,Bank transfer (automatic),No
+TELCO-11715,64,72.93,Two year,3,4669.29,Fiber optic,Electronic check,No
+TELCO-11716,47,50.63,One year,1,2265.76,Fiber optic,Mailed check,No
+TELCO-11717,28,46.92,Month-to-month,2,1277.52,DSL,Bank transfer (automatic),Yes
+TELCO-11718,30,76.03,Month-to-month,1,2272.61,Fiber optic,Credit card (automatic),Yes
+TELCO-11719,38,36.88,Month-to-month,2,1387.28,Fiber optic,Electronic check,Yes
+TELCO-11720,7,65.53,One year,2,468.56,DSL,Credit card (automatic),Yes
+TELCO-11721,54,83.74,Month-to-month,4,4572.55,Fiber optic,Bank transfer (automatic),No
+TELCO-11722,47,31.35,Two year,1,1529.48,DSL,Electronic check,No
+TELCO-11723,53,111.79,Month-to-month,1,6135.07,No,Credit card (automatic),Yes
+TELCO-11724,39,69.2,One year,0,2628.96,Fiber optic,Credit card (automatic),No
+TELCO-11725,57,100.66,Month-to-month,1,5460.86,DSL,Mailed check,Yes
+TELCO-11726,69,84.05,Month-to-month,0,6005.02,Fiber optic,Electronic check,No
+TELCO-11727,42,89.68,Month-to-month,0,3702.2,Fiber optic,Mailed check,Yes
+TELCO-11728,32,90.29,One year,1,2845.11,Fiber optic,Credit card (automatic),No
+TELCO-11729,8,106.23,Two year,0,820.81,Fiber optic,Electronic check,No
+TELCO-11730,57,80.01,Month-to-month,2,4648.59,DSL,Mailed check,Yes
+TELCO-11731,66,46.39,Month-to-month,0,2994.42,DSL,Mailed check,No
+TELCO-11732,51,28.48,Month-to-month,2,1405.53,Fiber optic,Electronic check,No
+TELCO-11733,63,79.28,Month-to-month,1,4996.33,Fiber optic,Bank transfer (automatic),No
+TELCO-11734,63,25.15,Two year,3,1624.13,Fiber optic,Credit card (automatic),No
+TELCO-11735,58,42.69,Two year,1,2418.97,DSL,Electronic check,No
+TELCO-11736,37,24.59,Two year,3,930.03,No,Credit card (automatic),No
+TELCO-11737,8,73.53,Month-to-month,4,586.0,Fiber optic,Credit card (automatic),Yes
+TELCO-11738,1,34.57,Month-to-month,3,34.24,Fiber optic,Credit card (automatic),Yes
+TELCO-11739,15,79.69,One year,1,1178.56,DSL,Bank transfer (automatic),Yes
+TELCO-11740,32,97.78,Month-to-month,2,3018.06,Fiber optic,Mailed check,Yes
+TELCO-11741,54,100.89,One year,3,5356.88,No,Electronic check,No
+TELCO-11742,33,49.53,Month-to-month,1,1696.48,DSL,Credit card (automatic),No
+TELCO-11743,2,73.53,Month-to-month,0,141.21,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11744,16,74.94,Two year,3,1253.99,Fiber optic,Mailed check,No
+TELCO-11745,71,65.91,Month-to-month,0,4495.93,DSL,Mailed check,No
+TELCO-11746,72,84.18,Two year,1,5977.34,DSL,Electronic check,No
+TELCO-11747,28,39.56,Month-to-month,0,1119.46,Fiber optic,Mailed check,Yes
+TELCO-11748,58,116.67,Month-to-month,1,6995.47,DSL,Credit card (automatic),Yes
+TELCO-11749,52,28.33,Month-to-month,1,1420.65,DSL,Bank transfer (automatic),No
+TELCO-11750,68,101.63,Month-to-month,0,6662.81,No,Mailed check,No
+TELCO-11751,64,78.06,Month-to-month,0,5059.98,Fiber optic,Electronic check,Yes
+TELCO-11752,46,43.05,Month-to-month,3,1939.26,Fiber optic,Mailed check,Yes
+TELCO-11753,29,93.25,One year,2,2743.33,Fiber optic,Electronic check,Yes
+TELCO-11754,46,26.97,Two year,0,1280.39,Fiber optic,Mailed check,No
+TELCO-11755,23,96.14,Month-to-month,0,2117.66,Fiber optic,Electronic check,Yes
+TELCO-11756,26,77.65,Month-to-month,0,2088.45,DSL,Credit card (automatic),Yes
+TELCO-11757,44,29.6,Month-to-month,3,1242.18,DSL,Electronic check,Yes
+TELCO-11758,42,26.47,One year,2,1156.08,Fiber optic,Electronic check,No
+TELCO-11759,42,93.77,One year,1,4125.65,No,Bank transfer (automatic),No
+TELCO-11760,28,47.87,Month-to-month,1,1362.81,Fiber optic,Mailed check,Yes
+TELCO-11761,30,107.65,Month-to-month,3,3385.89,No,Credit card (automatic),Yes
+TELCO-11762,1,94.9,Month-to-month,1,97.96,Fiber optic,Mailed check,Yes
+TELCO-11763,44,88.49,Month-to-month,3,3716.16,Fiber optic,Bank transfer (automatic),No
+TELCO-11764,42,46.43,Month-to-month,2,1853.3,Fiber optic,Credit card (automatic),No
+TELCO-11765,68,89.57,Two year,1,5798.89,DSL,Credit card (automatic),No
+TELCO-11766,37,113.55,Month-to-month,3,4181.14,Fiber optic,Credit card (automatic),Yes
+TELCO-11767,34,27.68,Month-to-month,1,952.73,DSL,Bank transfer (automatic),Yes
+TELCO-11768,5,51.2,Month-to-month,1,255.53,Fiber optic,Credit card (automatic),Yes
+TELCO-11769,15,42.03,One year,2,641.62,DSL,Mailed check,Yes
+TELCO-11770,25,57.92,Month-to-month,1,1440.7,No,Credit card (automatic),Yes
+TELCO-11771,28,92.92,Month-to-month,0,2482.75,Fiber optic,Credit card (automatic),Yes
+TELCO-11772,27,66.04,Month-to-month,1,1734.25,Fiber optic,Mailed check,Yes
+TELCO-11773,29,75.72,One year,1,2304.05,Fiber optic,Electronic check,Yes
+TELCO-11774,56,49.99,Month-to-month,3,2756.29,DSL,Bank transfer (automatic),No
+TELCO-11775,10,32.66,Two year,0,320.88,Fiber optic,Electronic check,No
+TELCO-11776,24,45.26,Month-to-month,0,1048.52,Fiber optic,Electronic check,No
+TELCO-11777,12,104.68,Month-to-month,2,1317.35,Fiber optic,Credit card (automatic),Yes
+TELCO-11778,23,78.89,Two year,1,1765.56,Fiber optic,Bank transfer (automatic),No
+TELCO-11779,50,56.39,Two year,2,2860.9,No,Bank transfer (automatic),Yes
+TELCO-11780,4,97.69,Month-to-month,0,372.87,DSL,Credit card (automatic),Yes
+TELCO-11781,25,24.96,Two year,1,596.95,No,Credit card (automatic),No
+TELCO-11782,2,43.95,Month-to-month,0,89.81,DSL,Credit card (automatic),Yes
+TELCO-11783,69,41.57,Month-to-month,1,2907.1,No,Electronic check,No
+TELCO-11784,53,117.28,Two year,0,6327.83,No,Mailed check,No
+TELCO-11785,18,89.29,One year,2,1563.98,No,Credit card (automatic),Yes
+TELCO-11786,15,80.43,Month-to-month,4,1264.95,DSL,Electronic check,Yes
+TELCO-11787,8,19.0,One year,2,152.89,Fiber optic,Electronic check,No
+TELCO-11788,35,36.98,Month-to-month,0,1355.07,No,Bank transfer (automatic),No
+TELCO-11789,55,82.21,Month-to-month,4,4369.7,Fiber optic,Mailed check,Yes
+TELCO-11790,43,56.57,Two year,6,2409.43,Fiber optic,Electronic check,No
+TELCO-11791,64,111.16,Month-to-month,1,6997.34,Fiber optic,Credit card (automatic),Yes
+TELCO-11792,25,95.16,One year,1,2439.68,DSL,Mailed check,No
+TELCO-11793,21,63.35,One year,1,1363.29,Fiber optic,Mailed check,No
+TELCO-11794,35,93.64,One year,2,3272.99,DSL,Bank transfer (automatic),Yes
+TELCO-11795,15,116.28,Month-to-month,0,1659.81,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11796,71,64.71,Two year,1,4445.19,Fiber optic,Mailed check,No
+TELCO-11797,14,82.91,One year,0,1108.54,DSL,Credit card (automatic),Yes
+TELCO-11798,35,110.6,One year,2,4005.33,DSL,Mailed check,Yes
+TELCO-11799,38,43.43,Month-to-month,2,1615.65,No,Credit card (automatic),No
+TELCO-11800,5,107.38,Month-to-month,0,516.39,Fiber optic,Credit card (automatic),Yes
+TELCO-11801,34,28.28,Month-to-month,2,947.5,Fiber optic,Electronic check,Yes
+TELCO-11802,33,83.51,Month-to-month,5,2639.34,Fiber optic,Credit card (automatic),Yes
+TELCO-11803,19,96.98,Month-to-month,0,1930.86,Fiber optic,Electronic check,Yes
+TELCO-11804,10,80.11,One year,0,786.28,Fiber optic,Mailed check,Yes
+TELCO-11805,4,68.18,Two year,1,284.53,Fiber optic,Credit card (automatic),Yes
+TELCO-11806,1,80.39,Month-to-month,1,81.86,DSL,Electronic check,Yes
+TELCO-11807,35,33.7,Month-to-month,1,1187.3,Fiber optic,Bank transfer (automatic),No
+TELCO-11808,7,40.11,One year,1,280.08,DSL,Credit card (automatic),No
+TELCO-11809,70,45.56,Month-to-month,3,3248.96,No,Mailed check,Yes
+TELCO-11810,18,78.43,Two year,2,1438.04,Fiber optic,Electronic check,No
+TELCO-11811,47,62.8,Month-to-month,1,2807.13,DSL,Electronic check,No
+TELCO-11812,49,43.01,Month-to-month,0,2193.43,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11813,36,107.0,Month-to-month,1,3801.14,DSL,Electronic check,Yes
+TELCO-11814,64,55.99,Two year,2,3530.78,Fiber optic,Electronic check,No
+TELCO-11815,8,63.21,Month-to-month,0,500.96,No,Credit card (automatic),Yes
+TELCO-11816,17,59.57,One year,3,1031.45,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11817,19,36.74,Month-to-month,2,689.41,Fiber optic,Mailed check,Yes
+TELCO-11818,10,91.85,Month-to-month,3,906.91,Fiber optic,Electronic check,Yes
+TELCO-11819,22,63.46,Two year,1,1335.17,Fiber optic,Credit card (automatic),No
+TELCO-11820,23,20.13,Month-to-month,1,459.13,DSL,Bank transfer (automatic),No
+TELCO-11821,56,115.14,Month-to-month,0,6221.83,Fiber optic,Electronic check,Yes
+TELCO-11822,22,100.28,Month-to-month,2,2284.61,Fiber optic,Credit card (automatic),Yes
+TELCO-11823,64,91.04,Two year,2,5730.14,DSL,Electronic check,No
+TELCO-11824,56,105.63,Month-to-month,2,6187.9,DSL,Bank transfer (automatic),No
+TELCO-11825,65,109.41,Month-to-month,1,7242.88,DSL,Bank transfer (automatic),No
+TELCO-11826,8,52.33,Two year,1,429.36,DSL,Mailed check,No
+TELCO-11827,71,79.75,One year,1,5915.78,DSL,Credit card (automatic),No
+TELCO-11828,45,79.53,Two year,2,3485.42,Fiber optic,Bank transfer (automatic),No
+TELCO-11829,71,45.3,One year,4,3237.94,Fiber optic,Mailed check,No
+TELCO-11830,26,40.75,One year,3,1010.84,Fiber optic,Electronic check,No
+TELCO-11831,69,29.92,Month-to-month,1,1982.06,DSL,Mailed check,No
+TELCO-11832,43,84.6,Month-to-month,2,3589.27,Fiber optic,Mailed check,Yes
+TELCO-11833,6,96.79,One year,1,591.34,No,Bank transfer (automatic),No
+TELCO-11834,30,94.79,One year,0,2938.02,DSL,Mailed check,Yes
+TELCO-11835,10,50.21,Two year,0,489.87,DSL,Electronic check,No
+TELCO-11836,68,39.08,One year,5,2723.63,Fiber optic,Bank transfer (automatic),No
+TELCO-11837,22,63.97,Month-to-month,3,1368.54,DSL,Mailed check,Yes
+TELCO-11838,17,73.32,Month-to-month,1,1184.87,DSL,Mailed check,Yes
+TELCO-11839,40,110.64,One year,0,4228.4,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11840,31,106.2,Month-to-month,2,3320.37,Fiber optic,Credit card (automatic),No
+TELCO-11841,7,110.33,One year,0,772.09,No,Electronic check,No
+TELCO-11842,59,103.74,One year,1,5980.15,No,Credit card (automatic),No
+TELCO-11843,61,115.2,Month-to-month,0,6680.44,Fiber optic,Bank transfer (automatic),No
+TELCO-11844,54,65.17,One year,4,3543.11,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11845,45,23.26,One year,2,1079.94,No,Electronic check,No
+TELCO-11846,29,26.88,Two year,1,745.89,Fiber optic,Bank transfer (automatic),No
+TELCO-11847,40,57.63,Month-to-month,1,2359.71,No,Bank transfer (automatic),Yes
+TELCO-11848,38,44.33,One year,1,1707.2,Fiber optic,Bank transfer (automatic),No
+TELCO-11849,12,35.54,Month-to-month,2,425.6,DSL,Credit card (automatic),Yes
+TELCO-11850,6,114.06,Month-to-month,3,653.45,DSL,Credit card (automatic),Yes
+TELCO-11851,19,38.09,Month-to-month,0,754.36,DSL,Credit card (automatic),No
+TELCO-11852,33,114.68,Two year,1,3775.9,No,Mailed check,Yes
+TELCO-11853,12,94.77,Two year,1,1125.82,DSL,Bank transfer (automatic),No
+TELCO-11854,8,82.75,Month-to-month,1,685.93,Fiber optic,Electronic check,Yes
+TELCO-11855,62,86.27,One year,2,5533.58,Fiber optic,Bank transfer (automatic),No
+TELCO-11856,27,51.73,Month-to-month,3,1428.45,No,Electronic check,Yes
+TELCO-11857,43,83.3,One year,3,3699.87,Fiber optic,Mailed check,No
+TELCO-11858,38,37.22,Month-to-month,1,1361.23,DSL,Bank transfer (automatic),No
+TELCO-11859,53,112.5,One year,0,6118.07,DSL,Mailed check,No
+TELCO-11860,54,48.75,Month-to-month,0,2587.23,Fiber optic,Credit card (automatic),No
+TELCO-11861,22,44.08,One year,0,1005.4,No,Electronic check,Yes
+TELCO-11862,62,89.79,Month-to-month,0,5494.74,Fiber optic,Credit card (automatic),No
+TELCO-11863,27,84.31,One year,5,2174.91,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11864,61,63.74,One year,2,3854.85,No,Mailed check,Yes
+TELCO-11865,30,81.9,Month-to-month,3,2520.09,Fiber optic,Electronic check,Yes
+TELCO-11866,8,34.49,Month-to-month,0,275.95,DSL,Electronic check,Yes
+TELCO-11867,55,86.0,Two year,0,4854.7,No,Mailed check,No
+TELCO-11868,3,45.63,One year,0,130.53,Fiber optic,Bank transfer (automatic),No
+TELCO-11869,56,45.85,Month-to-month,1,2484.71,No,Bank transfer (automatic),No
+TELCO-11870,4,34.76,Month-to-month,1,139.92,Fiber optic,Mailed check,Yes
+TELCO-11871,15,51.82,Month-to-month,3,768.39,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11872,44,51.71,One year,2,2316.23,DSL,Bank transfer (automatic),No
+TELCO-11873,68,64.03,One year,2,4555.44,Fiber optic,Mailed check,No
+TELCO-11874,30,37.59,Month-to-month,0,1145.73,DSL,Mailed check,Yes
+TELCO-11875,9,37.85,One year,2,337.83,Fiber optic,Mailed check,Yes
+TELCO-11876,17,72.81,One year,2,1243.01,DSL,Bank transfer (automatic),No
+TELCO-11877,65,31.42,One year,1,2126.61,DSL,Bank transfer (automatic),No
+TELCO-11878,53,87.56,Month-to-month,2,4720.96,Fiber optic,Electronic check,No
+TELCO-11879,8,113.13,Month-to-month,2,932.48,Fiber optic,Credit card (automatic),Yes
+TELCO-11880,28,61.29,Month-to-month,1,1682.06,Fiber optic,Electronic check,No
+TELCO-11881,20,108.84,Month-to-month,2,2229.98,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11882,13,28.36,Month-to-month,4,355.39,Fiber optic,Electronic check,No
+TELCO-11883,61,22.81,Month-to-month,0,1426.16,Fiber optic,Mailed check,No
+TELCO-11884,45,90.82,Month-to-month,1,4242.84,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11885,13,94.79,One year,1,1281.59,DSL,Credit card (automatic),No
+TELCO-11886,47,103.02,Month-to-month,0,4656.3,Fiber optic,Bank transfer (automatic),No
+TELCO-11887,30,24.2,One year,3,749.95,No,Electronic check,No
+TELCO-11888,5,96.38,Month-to-month,2,463.1,Fiber optic,Credit card (automatic),Yes
+TELCO-11889,33,56.25,One year,2,1852.24,No,Mailed check,Yes
+TELCO-11890,14,48.91,Month-to-month,2,697.24,DSL,Mailed check,No
+TELCO-11891,18,35.85,One year,2,644.28,Fiber optic,Electronic check,Yes
+TELCO-11892,64,118.35,One year,2,7453.14,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11893,52,24.88,Month-to-month,5,1317.54,Fiber optic,Mailed check,Yes
+TELCO-11894,10,101.41,One year,1,1030.41,Fiber optic,Electronic check,No
+TELCO-11895,62,82.61,Month-to-month,2,5164.28,DSL,Bank transfer (automatic),No
+TELCO-11896,42,92.19,One year,4,3882.99,Fiber optic,Electronic check,Yes
+TELCO-11897,63,89.85,Month-to-month,2,5777.01,Fiber optic,Bank transfer (automatic),No
+TELCO-11898,54,104.56,Month-to-month,1,5591.49,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11899,25,36.93,Month-to-month,3,883.44,DSL,Credit card (automatic),Yes
+TELCO-11900,39,18.58,Two year,1,727.33,DSL,Bank transfer (automatic),No
+TELCO-11901,39,78.5,Month-to-month,3,3129.91,No,Bank transfer (automatic),Yes
+TELCO-11902,52,53.97,One year,0,2750.08,DSL,Electronic check,No
+TELCO-11903,18,30.91,Month-to-month,1,536.39,Fiber optic,Electronic check,No
+TELCO-11904,24,37.16,Month-to-month,2,928.57,DSL,Bank transfer (automatic),Yes
+TELCO-11905,18,51.76,Month-to-month,1,965.57,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11906,22,25.54,Two year,2,568.53,Fiber optic,Bank transfer (automatic),No
+TELCO-11907,12,24.21,One year,0,298.85,No,Bank transfer (automatic),No
+TELCO-11908,3,110.33,Month-to-month,1,346.51,Fiber optic,Credit card (automatic),Yes
+TELCO-11909,68,49.79,One year,2,3409.17,DSL,Bank transfer (automatic),No
+TELCO-11910,6,116.97,Month-to-month,0,683.87,DSL,Electronic check,Yes
+TELCO-11911,64,115.18,Month-to-month,2,7473.85,DSL,Mailed check,No
+TELCO-11912,1,32.79,Month-to-month,0,34.15,Fiber optic,Mailed check,No
+TELCO-11913,56,90.17,Month-to-month,0,5145.54,No,Bank transfer (automatic),No
+TELCO-11914,24,78.73,Month-to-month,1,1800.0,DSL,Bank transfer (automatic),No
+TELCO-11915,38,87.74,One year,2,3473.2,Fiber optic,Bank transfer (automatic),No
+TELCO-11916,21,28.14,Month-to-month,1,605.93,Fiber optic,Bank transfer (automatic),No
+TELCO-11917,36,37.4,Two year,1,1333.18,Fiber optic,Mailed check,No
+TELCO-11918,33,26.18,One year,2,906.06,Fiber optic,Electronic check,No
+TELCO-11919,39,79.06,Two year,3,3151.69,Fiber optic,Credit card (automatic),No
+TELCO-11920,29,117.41,One year,3,3515.7,DSL,Mailed check,Yes
+TELCO-11921,39,85.87,Two year,1,3497.34,Fiber optic,Electronic check,No
+TELCO-11922,60,89.75,Month-to-month,0,5137.06,Fiber optic,Credit card (automatic),No
+TELCO-11923,32,117.2,Month-to-month,3,3853.32,Fiber optic,Electronic check,Yes
+TELCO-11924,27,86.47,Month-to-month,3,2308.16,DSL,Mailed check,Yes
+TELCO-11925,10,22.53,Two year,2,233.62,Fiber optic,Bank transfer (automatic),No
+TELCO-11926,26,105.42,Month-to-month,1,2844.77,No,Mailed check,Yes
+TELCO-11927,10,55.06,One year,1,568.69,Fiber optic,Credit card (automatic),No
+TELCO-11928,14,18.94,One year,3,272.56,DSL,Mailed check,Yes
+TELCO-11929,69,69.35,Month-to-month,1,4925.97,No,Bank transfer (automatic),No
+TELCO-11930,7,112.44,Two year,2,771.07,DSL,Mailed check,No
+TELCO-11931,35,44.3,Month-to-month,0,1536.01,Fiber optic,Mailed check,No
+TELCO-11932,61,67.77,Month-to-month,3,3974.83,DSL,Mailed check,Yes
+TELCO-11933,69,35.92,One year,3,2560.42,No,Credit card (automatic),Yes
+TELCO-11934,11,24.28,Month-to-month,3,270.98,DSL,Credit card (automatic),No
+TELCO-11935,12,26.57,Month-to-month,3,322.43,Fiber optic,Mailed check,Yes
+TELCO-11936,27,91.38,Month-to-month,1,2404.61,No,Mailed check,No
+TELCO-11937,40,105.12,Month-to-month,3,4253.17,Fiber optic,Mailed check,No
+TELCO-11938,70,32.87,One year,5,2290.44,DSL,Bank transfer (automatic),Yes
+TELCO-11939,15,47.4,Two year,1,746.21,DSL,Bank transfer (automatic),No
+TELCO-11940,12,38.05,Month-to-month,1,473.18,DSL,Bank transfer (automatic),Yes
+TELCO-11941,19,21.19,Month-to-month,1,403.66,DSL,Mailed check,No
+TELCO-11942,63,73.98,Month-to-month,1,4804.5,Fiber optic,Mailed check,Yes
+TELCO-11943,3,88.67,Two year,5,257.09,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11944,28,83.45,One year,1,2243.46,No,Credit card (automatic),Yes
+TELCO-11945,9,57.4,Month-to-month,1,523.35,Fiber optic,Credit card (automatic),No
+TELCO-11946,12,74.14,Month-to-month,2,909.86,No,Electronic check,Yes
+TELCO-11947,67,27.93,Two year,3,1787.67,Fiber optic,Electronic check,No
+TELCO-11948,1,33.97,Two year,0,32.95,Fiber optic,Bank transfer (automatic),No
+TELCO-11949,24,111.91,Month-to-month,3,2695.85,Fiber optic,Electronic check,Yes
+TELCO-11950,66,94.84,Two year,3,5985.79,Fiber optic,Bank transfer (automatic),No
+TELCO-11951,44,111.0,Month-to-month,2,4846.91,DSL,Mailed check,Yes
+TELCO-11952,6,110.4,Month-to-month,0,661.21,No,Electronic check,Yes
+TELCO-11953,34,83.6,One year,0,2962.3,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11954,70,111.56,Month-to-month,3,7665.26,DSL,Bank transfer (automatic),No
+TELCO-11955,29,60.27,Month-to-month,3,1689.92,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11956,39,18.86,Two year,5,699.32,DSL,Credit card (automatic),No
+TELCO-11957,39,24.77,Two year,3,929.48,Fiber optic,Credit card (automatic),No
+TELCO-11958,48,29.48,Month-to-month,2,1450.54,Fiber optic,Mailed check,No
+TELCO-11959,14,28.06,One year,0,390.68,No,Bank transfer (automatic),No
+TELCO-11960,61,53.76,One year,3,3180.56,Fiber optic,Credit card (automatic),No
+TELCO-11961,72,88.8,One year,3,6670.46,Fiber optic,Credit card (automatic),Yes
+TELCO-11962,11,97.76,Two year,2,1106.28,Fiber optic,Bank transfer (automatic),No
+TELCO-11963,59,77.67,One year,2,4405.81,No,Electronic check,No
+TELCO-11964,59,33.18,Month-to-month,0,1912.39,No,Mailed check,No
+TELCO-11965,54,93.48,Month-to-month,0,5224.32,Fiber optic,Electronic check,No
+TELCO-11966,27,54.07,Two year,1,1487.98,Fiber optic,Electronic check,No
+TELCO-11967,34,19.8,Two year,2,703.19,Fiber optic,Mailed check,No
+TELCO-11968,61,46.63,Month-to-month,1,2723.9,No,Mailed check,No
+TELCO-11969,12,51.64,Month-to-month,2,636.75,No,Credit card (automatic),Yes
+TELCO-11970,60,45.99,One year,1,2642.51,Fiber optic,Mailed check,No
+TELCO-11971,67,99.89,Month-to-month,0,6583.31,Fiber optic,Electronic check,No
+TELCO-11972,50,94.68,Month-to-month,1,4852.67,DSL,Electronic check,No
+TELCO-11973,25,88.23,Two year,1,2252.29,DSL,Electronic check,No
+TELCO-11974,41,32.44,Two year,3,1263.82,DSL,Mailed check,No
+TELCO-11975,4,99.49,Two year,0,386.1,DSL,Mailed check,Yes
+TELCO-11976,68,86.39,One year,2,6038.17,Fiber optic,Mailed check,No
+TELCO-11977,25,38.03,Month-to-month,1,915.21,Fiber optic,Mailed check,Yes
+TELCO-11978,5,83.47,Two year,2,410.1,Fiber optic,Mailed check,No
+TELCO-11979,58,66.97,Month-to-month,3,3761.47,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11980,48,62.54,Month-to-month,1,2885.28,DSL,Electronic check,Yes
+TELCO-11981,45,29.74,Two year,3,1383.35,Fiber optic,Credit card (automatic),No
+TELCO-11982,4,70.46,One year,3,269.48,DSL,Mailed check,Yes
+TELCO-11983,55,28.52,Two year,2,1574.25,DSL,Electronic check,No
+TELCO-11984,46,34.97,Month-to-month,4,1639.61,No,Electronic check,Yes
+TELCO-11985,58,31.79,Two year,1,1762.25,DSL,Bank transfer (automatic),No
+TELCO-11986,60,114.15,One year,0,6940.38,DSL,Bank transfer (automatic),No
+TELCO-11987,16,47.06,One year,2,740.47,Fiber optic,Electronic check,Yes
+TELCO-11988,16,54.11,Two year,3,894.64,Fiber optic,Mailed check,Yes
+TELCO-11989,67,50.79,Month-to-month,1,3504.22,Fiber optic,Electronic check,No
+TELCO-11990,39,108.55,One year,1,4357.87,Fiber optic,Credit card (automatic),No
+TELCO-11991,32,74.94,One year,0,2373.78,Fiber optic,Mailed check,Yes
+TELCO-11992,21,110.65,One year,1,2398.6,Fiber optic,Credit card (automatic),No
+TELCO-11993,47,48.57,Two year,1,2312.46,No,Bank transfer (automatic),No
+TELCO-11994,55,30.01,One year,4,1630.53,DSL,Credit card (automatic),No
+TELCO-11995,1,74.26,Month-to-month,4,71.15,Fiber optic,Bank transfer (automatic),Yes
+TELCO-11996,40,53.14,Month-to-month,3,2033.52,DSL,Electronic check,Yes
+TELCO-11997,72,98.89,Two year,0,6943.08,DSL,Bank transfer (automatic),No
+TELCO-11998,21,106.66,Two year,0,2194.97,No,Mailed check,No
+TELCO-11999,21,65.88,Two year,1,1442.63,Fiber optic,Credit card (automatic),No
+TELCO-12000,64,115.88,Month-to-month,2,7787.09,DSL,Mailed check,Yes
+TELCO-12001,5,73.94,Month-to-month,1,356.53,Fiber optic,Electronic check,Yes
+TELCO-12002,29,45.66,One year,6,1382.77,DSL,Electronic check,Yes
+TELCO-12003,33,67.52,One year,2,2274.18,Fiber optic,Bank transfer (automatic),No
+TELCO-12004,58,22.24,Month-to-month,1,1289.74,Fiber optic,Electronic check,No
+TELCO-12005,10,99.1,One year,0,1036.06,No,Bank transfer (automatic),No
+TELCO-12006,32,28.67,Month-to-month,2,937.05,DSL,Electronic check,Yes
+TELCO-12007,11,49.45,Month-to-month,2,549.04,DSL,Electronic check,No
+TELCO-12008,57,75.17,Month-to-month,0,4160.23,No,Bank transfer (automatic),Yes
+TELCO-12009,46,22.81,Month-to-month,0,1022.45,No,Mailed check,No
+TELCO-12010,36,26.45,Month-to-month,5,991.38,DSL,Bank transfer (automatic),Yes
+TELCO-12011,29,88.29,Two year,2,2487.45,Fiber optic,Electronic check,No
+TELCO-12012,12,25.7,One year,1,293.98,No,Electronic check,No
+TELCO-12013,67,66.33,Two year,1,4340.22,Fiber optic,Electronic check,No
+TELCO-12014,47,52.45,Month-to-month,2,2460.36,Fiber optic,Mailed check,Yes
+TELCO-12015,23,41.36,Month-to-month,0,940.05,Fiber optic,Mailed check,No
+TELCO-12016,30,37.43,Month-to-month,1,1171.84,No,Mailed check,No
+TELCO-12017,53,95.03,One year,2,4995.58,Fiber optic,Electronic check,No
+TELCO-12018,52,113.89,Month-to-month,2,6152.69,DSL,Mailed check,Yes
+TELCO-12019,34,32.55,One year,2,1117.18,Fiber optic,Credit card (automatic),No
+TELCO-12020,22,114.71,Two year,4,2529.71,Fiber optic,Electronic check,Yes
+TELCO-12021,48,78.12,Two year,4,3622.34,Fiber optic,Credit card (automatic),No
+TELCO-12022,48,82.83,Month-to-month,4,3884.81,DSL,Mailed check,Yes
+TELCO-12023,44,89.67,Month-to-month,2,4090.34,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12024,6,89.09,Month-to-month,1,549.5,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12025,35,100.69,Month-to-month,5,3505.62,No,Bank transfer (automatic),Yes
+TELCO-12026,45,66.97,One year,5,3136.91,Fiber optic,Credit card (automatic),No
+TELCO-12027,69,71.97,Month-to-month,3,5124.43,Fiber optic,Credit card (automatic),No
+TELCO-12028,38,50.96,One year,1,1861.36,Fiber optic,Electronic check,No
+TELCO-12029,25,29.05,Month-to-month,1,733.94,DSL,Mailed check,Yes
+TELCO-12030,41,85.13,Two year,2,3594.64,Fiber optic,Bank transfer (automatic),No
+TELCO-12031,13,21.87,Two year,2,293.08,DSL,Bank transfer (automatic),No
+TELCO-12032,7,46.13,Month-to-month,4,309.71,Fiber optic,Credit card (automatic),Yes
+TELCO-12033,49,27.95,Two year,1,1331.83,Fiber optic,Bank transfer (automatic),No
+TELCO-12034,72,37.62,Month-to-month,1,2685.09,DSL,Mailed check,No
+TELCO-12035,61,82.53,One year,2,4909.29,Fiber optic,Credit card (automatic),Yes
+TELCO-12036,43,81.5,Two year,0,3367.45,No,Bank transfer (automatic),No
+TELCO-12037,3,60.71,Two year,2,184.48,DSL,Credit card (automatic),No
+TELCO-12038,72,27.54,Two year,2,1984.36,No,Bank transfer (automatic),No
+TELCO-12039,33,61.95,Month-to-month,2,1973.82,DSL,Electronic check,Yes
+TELCO-12040,21,53.86,Two year,1,1140.83,DSL,Credit card (automatic),No
+TELCO-12041,65,90.73,One year,1,5639.15,Fiber optic,Bank transfer (automatic),No
+TELCO-12042,54,76.55,Month-to-month,2,4085.35,DSL,Electronic check,Yes
+TELCO-12043,54,67.78,Month-to-month,1,3767.19,No,Mailed check,No
+TELCO-12044,20,67.32,One year,1,1398.92,Fiber optic,Mailed check,No
+TELCO-12045,72,115.37,One year,0,8095.02,Fiber optic,Mailed check,No
+TELCO-12046,33,94.32,Month-to-month,2,3224.46,Fiber optic,Bank transfer (automatic),No
+TELCO-12047,39,68.32,Two year,3,2768.86,Fiber optic,Bank transfer (automatic),No
+TELCO-12048,55,66.54,One year,0,3698.82,Fiber optic,Electronic check,No
+TELCO-12049,48,21.15,Month-to-month,1,1064.15,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12050,13,112.99,Month-to-month,3,1431.59,No,Mailed check,Yes
+TELCO-12051,22,50.5,One year,1,1063.11,Fiber optic,Electronic check,No
+TELCO-12052,27,44.16,One year,2,1233.27,Fiber optic,Credit card (automatic),No
+TELCO-12053,69,118.69,One year,2,8182.18,Fiber optic,Mailed check,No
+TELCO-12054,52,90.55,Month-to-month,2,4636.3,Fiber optic,Electronic check,Yes
+TELCO-12055,27,23.25,One year,1,599.83,DSL,Bank transfer (automatic),No
+TELCO-12056,53,24.7,One year,1,1252.1,Fiber optic,Credit card (automatic),No
+TELCO-12057,54,21.06,Two year,3,1090.69,Fiber optic,Electronic check,No
+TELCO-12058,29,78.61,Month-to-month,1,2207.57,DSL,Electronic check,No
+TELCO-12059,30,25.67,One year,1,806.33,No,Credit card (automatic),No
+TELCO-12060,65,112.07,Month-to-month,4,7125.31,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12061,41,112.42,Month-to-month,1,4755.35,DSL,Mailed check,No
+TELCO-12062,11,73.24,One year,2,766.92,No,Mailed check,No
+TELCO-12063,52,80.32,One year,2,4102.22,No,Bank transfer (automatic),No
+TELCO-12064,43,47.76,Month-to-month,3,2137.1,No,Bank transfer (automatic),Yes
+TELCO-12065,37,24.91,One year,2,892.64,DSL,Electronic check,No
+TELCO-12066,53,92.43,Month-to-month,0,4792.99,Fiber optic,Mailed check,No
+TELCO-12067,66,28.7,Month-to-month,2,1956.05,Fiber optic,Credit card (automatic),No
+TELCO-12068,24,27.08,Month-to-month,3,625.31,Fiber optic,Electronic check,Yes
+TELCO-12069,31,49.7,Month-to-month,0,1471.86,Fiber optic,Credit card (automatic),Yes
+TELCO-12070,14,19.75,One year,3,289.38,Fiber optic,Mailed check,No
+TELCO-12071,47,62.01,Two year,3,2886.72,Fiber optic,Electronic check,No
+TELCO-12072,29,89.45,One year,3,2635.0,No,Bank transfer (automatic),No
+TELCO-12073,25,98.84,Month-to-month,1,2378.86,Fiber optic,Bank transfer (automatic),No
+TELCO-12074,51,79.08,Month-to-month,1,3920.23,No,Mailed check,Yes
+TELCO-12075,30,103.4,Month-to-month,2,3089.59,No,Credit card (automatic),Yes
+TELCO-12076,34,59.25,One year,1,2049.78,DSL,Electronic check,Yes
+TELCO-12077,32,103.59,Month-to-month,4,3246.34,No,Electronic check,Yes
+TELCO-12078,19,69.27,Month-to-month,3,1366.75,DSL,Bank transfer (automatic),Yes
+TELCO-12079,10,40.86,One year,4,420.09,DSL,Bank transfer (automatic),No
+TELCO-12080,60,113.15,One year,0,6824.0,No,Bank transfer (automatic),No
+TELCO-12081,7,46.07,Month-to-month,2,321.17,Fiber optic,Credit card (automatic),Yes
+TELCO-12082,24,21.13,Month-to-month,1,513.18,Fiber optic,Credit card (automatic),No
+TELCO-12083,49,42.83,One year,2,2147.29,No,Bank transfer (automatic),No
+TELCO-12084,10,55.26,Month-to-month,0,532.43,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12085,48,53.72,Month-to-month,2,2669.49,DSL,Credit card (automatic),Yes
+TELCO-12086,53,71.1,Two year,2,3764.31,DSL,Credit card (automatic),No
+TELCO-12087,48,107.03,Month-to-month,3,5361.1,Fiber optic,Electronic check,Yes
+TELCO-12088,22,47.81,Month-to-month,1,1099.73,DSL,Bank transfer (automatic),No
+TELCO-12089,2,70.71,Month-to-month,2,134.78,DSL,Credit card (automatic),Yes
+TELCO-12090,64,52.6,Month-to-month,1,3327.51,No,Electronic check,No
+TELCO-12091,24,100.88,Month-to-month,1,2427.47,DSL,Credit card (automatic),Yes
+TELCO-12092,58,34.3,Month-to-month,1,1997.28,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12093,15,28.88,One year,1,447.17,DSL,Electronic check,No
+TELCO-12094,12,68.93,Month-to-month,1,797.47,Fiber optic,Bank transfer (automatic),No
+TELCO-12095,57,85.86,Two year,4,4953.96,Fiber optic,Mailed check,No
+TELCO-12096,68,98.25,Two year,0,6976.7,Fiber optic,Mailed check,No
+TELCO-12097,62,77.61,Month-to-month,2,5050.82,DSL,Bank transfer (automatic),No
+TELCO-12098,55,96.08,Month-to-month,3,5025.51,DSL,Bank transfer (automatic),No
+TELCO-12099,18,57.87,One year,4,1090.89,DSL,Credit card (automatic),Yes
+TELCO-12100,66,21.79,Two year,2,1383.81,DSL,Mailed check,No
+TELCO-12101,49,30.14,Two year,1,1482.32,Fiber optic,Electronic check,No
+TELCO-12102,13,22.38,Month-to-month,2,283.56,DSL,Credit card (automatic),Yes
+TELCO-12103,10,51.48,Month-to-month,1,520.28,DSL,Mailed check,Yes
+TELCO-12104,63,68.17,Month-to-month,4,4095.88,DSL,Credit card (automatic),No
+TELCO-12105,20,54.22,Two year,2,1056.02,No,Credit card (automatic),Yes
+TELCO-12106,56,74.7,One year,1,4099.78,Fiber optic,Electronic check,No
+TELCO-12107,10,66.68,Month-to-month,1,694.51,Fiber optic,Mailed check,Yes
+TELCO-12108,21,86.46,One year,1,1830.84,Fiber optic,Electronic check,No
+TELCO-12109,21,85.36,Month-to-month,0,1829.88,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12110,21,50.39,One year,2,1076.82,DSL,Credit card (automatic),No
+TELCO-12111,49,53.21,Month-to-month,3,2579.21,Fiber optic,Bank transfer (automatic),No
+TELCO-12112,66,77.16,One year,3,4845.07,Fiber optic,Mailed check,No
+TELCO-12113,66,78.29,One year,2,4964.08,Fiber optic,Credit card (automatic),No
+TELCO-12114,54,50.05,One year,3,2691.57,DSL,Electronic check,No
+TELCO-12115,15,51.61,Month-to-month,2,808.31,No,Electronic check,No
+TELCO-12116,70,88.08,Two year,1,6010.69,Fiber optic,Mailed check,No
+TELCO-12117,40,83.4,One year,0,3402.16,DSL,Credit card (automatic),No
+TELCO-12118,40,32.04,Month-to-month,1,1323.46,No,Credit card (automatic),No
+TELCO-12119,51,62.71,Month-to-month,0,3328.31,DSL,Bank transfer (automatic),No
+TELCO-12120,56,107.99,One year,1,5922.55,DSL,Credit card (automatic),No
+TELCO-12121,69,22.14,Month-to-month,0,1593.55,DSL,Credit card (automatic),No
+TELCO-12122,42,104.23,Month-to-month,0,4424.93,No,Bank transfer (automatic),Yes
+TELCO-12123,44,34.86,Month-to-month,1,1535.13,DSL,Electronic check,No
+TELCO-12124,54,69.35,Month-to-month,5,3849.16,Fiber optic,Credit card (automatic),No
+TELCO-12125,19,61.04,Month-to-month,2,1129.46,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12126,23,19.52,One year,1,462.99,Fiber optic,Electronic check,No
+TELCO-12127,46,110.27,Month-to-month,1,5148.49,Fiber optic,Credit card (automatic),Yes
+TELCO-12128,5,64.11,One year,3,330.15,DSL,Mailed check,Yes
+TELCO-12129,24,114.17,Month-to-month,1,2837.55,Fiber optic,Credit card (automatic),No
+TELCO-12130,52,47.25,Month-to-month,5,2485.83,Fiber optic,Mailed check,Yes
+TELCO-12131,71,105.34,Month-to-month,0,7132.66,Fiber optic,Electronic check,No
+TELCO-12132,38,110.97,One year,1,4131.57,DSL,Mailed check,Yes
+TELCO-12133,29,74.32,Two year,3,2236.75,Fiber optic,Mailed check,No
+TELCO-12134,32,38.82,Month-to-month,1,1258.01,Fiber optic,Credit card (automatic),Yes
+TELCO-12135,50,87.2,Month-to-month,0,4530.06,Fiber optic,Electronic check,No
+TELCO-12136,40,73.54,Month-to-month,3,2907.63,Fiber optic,Credit card (automatic),Yes
+TELCO-12137,2,113.19,Month-to-month,3,226.49,DSL,Electronic check,Yes
+TELCO-12138,39,62.54,Two year,4,2527.5,DSL,Credit card (automatic),Yes
+TELCO-12139,29,45.42,Month-to-month,2,1351.69,DSL,Bank transfer (automatic),No
+TELCO-12140,51,32.36,Two year,0,1630.14,Fiber optic,Mailed check,No
+TELCO-12141,64,88.54,One year,0,5396.06,DSL,Credit card (automatic),No
+TELCO-12142,70,116.15,Month-to-month,1,8439.74,DSL,Mailed check,Yes
+TELCO-12143,44,21.34,Two year,0,965.85,DSL,Bank transfer (automatic),No
+TELCO-12144,27,92.73,Month-to-month,2,2490.98,DSL,Electronic check,Yes
+TELCO-12145,32,111.42,One year,2,3581.93,Fiber optic,Electronic check,Yes
+TELCO-12146,13,26.0,Month-to-month,2,328.01,Fiber optic,Mailed check,No
+TELCO-12147,68,29.54,Two year,1,1991.06,Fiber optic,Electronic check,No
+TELCO-12148,62,87.87,Month-to-month,1,5264.45,Fiber optic,Electronic check,No
+TELCO-12149,62,83.46,Month-to-month,0,5024.75,Fiber optic,Mailed check,No
+TELCO-12150,24,25.4,Two year,0,630.71,Fiber optic,Bank transfer (automatic),No
+TELCO-12151,24,102.15,Month-to-month,1,2417.88,No,Electronic check,No
+TELCO-12152,62,70.97,Month-to-month,1,4538.62,No,Credit card (automatic),No
+TELCO-12153,40,109.45,One year,4,4366.57,No,Credit card (automatic),Yes
+TELCO-12154,51,106.52,Month-to-month,1,5199.34,No,Credit card (automatic),Yes
+TELCO-12155,36,99.95,Two year,3,3548.37,No,Electronic check,Yes
+TELCO-12156,32,70.22,One year,1,2170.25,Fiber optic,Credit card (automatic),No
+TELCO-12157,46,43.73,One year,4,2050.52,Fiber optic,Electronic check,Yes
+TELCO-12158,59,69.22,Month-to-month,1,4251.99,Fiber optic,Electronic check,No
+TELCO-12159,25,28.61,Month-to-month,3,734.07,DSL,Bank transfer (automatic),No
+TELCO-12160,59,84.55,Two year,1,5127.35,Fiber optic,Credit card (automatic),No
+TELCO-12161,18,31.93,Month-to-month,0,595.54,No,Electronic check,No
+TELCO-12162,30,69.75,Month-to-month,3,2150.39,Fiber optic,Mailed check,Yes
+TELCO-12163,66,23.95,Month-to-month,1,1591.54,DSL,Mailed check,No
+TELCO-12164,69,48.53,Month-to-month,4,3420.32,Fiber optic,Bank transfer (automatic),No
+TELCO-12165,67,41.77,One year,1,2775.07,DSL,Bank transfer (automatic),No
+TELCO-12166,23,80.66,One year,3,1775.55,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12167,61,97.38,One year,3,6062.3,Fiber optic,Electronic check,No
+TELCO-12168,68,24.24,Two year,0,1684.86,Fiber optic,Credit card (automatic),No
+TELCO-12169,71,103.74,Month-to-month,1,7162.05,Fiber optic,Bank transfer (automatic),No
+TELCO-12170,2,104.79,Month-to-month,1,219.09,DSL,Bank transfer (automatic),Yes
+TELCO-12171,54,52.81,Month-to-month,0,2724.13,Fiber optic,Mailed check,Yes
+TELCO-12172,72,84.57,One year,1,6232.72,DSL,Electronic check,No
+TELCO-12173,56,58.86,Month-to-month,2,3450.58,Fiber optic,Bank transfer (automatic),No
+TELCO-12174,17,33.96,One year,1,566.3,Fiber optic,Mailed check,No
+TELCO-12175,55,71.5,Month-to-month,1,4094.7,DSL,Electronic check,No
+TELCO-12176,8,27.16,Two year,3,224.37,No,Bank transfer (automatic),No
+TELCO-12177,35,106.57,Two year,1,3821.0,Fiber optic,Mailed check,No
+TELCO-12178,46,111.16,Two year,3,5345.4,DSL,Credit card (automatic),No
+TELCO-12179,33,100.87,Month-to-month,0,3379.99,Fiber optic,Bank transfer (automatic),No
+TELCO-12180,51,74.89,Two year,3,3817.43,DSL,Mailed check,No
+TELCO-12181,18,74.4,Month-to-month,2,1362.73,DSL,Electronic check,Yes
+TELCO-12182,44,117.21,Month-to-month,2,5111.77,No,Mailed check,No
+TELCO-12183,47,43.35,Month-to-month,2,2001.77,Fiber optic,Electronic check,No
+TELCO-12184,46,26.11,Month-to-month,1,1150.89,Fiber optic,Electronic check,No
+TELCO-12185,21,74.83,One year,4,1552.26,Fiber optic,Mailed check,Yes
+TELCO-12186,22,51.46,Month-to-month,1,1166.45,No,Bank transfer (automatic),Yes
+TELCO-12187,19,50.81,Month-to-month,2,1008.39,No,Electronic check,Yes
+TELCO-12188,34,19.21,One year,0,684.17,DSL,Electronic check,Yes
+TELCO-12189,43,78.27,Two year,1,3266.84,DSL,Electronic check,No
+TELCO-12190,27,44.97,One year,0,1222.86,Fiber optic,Credit card (automatic),No
+TELCO-12191,30,37.33,One year,3,1128.38,DSL,Credit card (automatic),No
+TELCO-12192,21,22.55,Month-to-month,2,458.21,Fiber optic,Mailed check,Yes
+TELCO-12193,16,55.03,Two year,2,887.67,DSL,Mailed check,Yes
+TELCO-12194,48,106.62,Month-to-month,3,5047.53,Fiber optic,Mailed check,Yes
+TELCO-12195,59,52.25,Month-to-month,2,3219.13,DSL,Bank transfer (automatic),Yes
+TELCO-12196,21,86.58,Month-to-month,0,1773.67,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12197,62,94.34,One year,1,6045.0,Fiber optic,Mailed check,Yes
+TELCO-12198,42,51.39,Month-to-month,1,2244.04,DSL,Bank transfer (automatic),No
+TELCO-12199,13,100.87,One year,4,1342.24,No,Electronic check,Yes
+TELCO-12200,27,87.86,Month-to-month,3,2304.54,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12201,1,74.56,Month-to-month,6,72.77,Fiber optic,Credit card (automatic),Yes
+TELCO-12202,3,18.6,Month-to-month,2,58.43,No,Electronic check,Yes
+TELCO-12203,25,22.02,Month-to-month,1,527.15,DSL,Bank transfer (automatic),No
+TELCO-12204,33,117.83,Month-to-month,1,3739.5,DSL,Bank transfer (automatic),No
+TELCO-12205,58,96.92,One year,1,5890.38,DSL,Credit card (automatic),No
+TELCO-12206,10,112.49,Month-to-month,1,1156.05,DSL,Credit card (automatic),Yes
+TELCO-12207,61,108.96,Month-to-month,4,6810.32,No,Electronic check,No
+TELCO-12208,17,20.55,One year,1,337.48,No,Electronic check,No
+TELCO-12209,10,97.88,Month-to-month,3,977.72,Fiber optic,Electronic check,Yes
+TELCO-12210,51,63.73,Month-to-month,0,3360.99,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12211,56,97.65,Month-to-month,3,5374.82,No,Bank transfer (automatic),Yes
+TELCO-12212,44,19.17,Month-to-month,1,817.57,DSL,Bank transfer (automatic),No
+TELCO-12213,9,47.39,Month-to-month,1,405.65,DSL,Mailed check,No
+TELCO-12214,9,93.82,One year,3,854.73,No,Electronic check,Yes
+TELCO-12215,29,98.0,Month-to-month,2,2783.4,Fiber optic,Electronic check,Yes
+TELCO-12216,33,80.63,One year,3,2757.56,DSL,Mailed check,Yes
+TELCO-12217,72,48.7,Month-to-month,2,3430.49,Fiber optic,Mailed check,No
+TELCO-12218,21,49.61,One year,2,1005.51,DSL,Mailed check,No
+TELCO-12219,14,115.42,One year,0,1690.28,Fiber optic,Electronic check,Yes
+TELCO-12220,69,62.53,Month-to-month,3,4515.1,Fiber optic,Mailed check,No
+TELCO-12221,12,63.32,Month-to-month,1,773.9,DSL,Credit card (automatic),Yes
+TELCO-12222,2,73.87,Month-to-month,1,154.07,Fiber optic,Electronic check,Yes
+TELCO-12223,31,59.55,Two year,1,1783.62,Fiber optic,Credit card (automatic),No
+TELCO-12224,29,73.91,Two year,3,2134.89,Fiber optic,Electronic check,Yes
+TELCO-12225,45,61.84,Month-to-month,4,2700.47,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12226,64,101.38,One year,3,6474.55,Fiber optic,Electronic check,No
+TELCO-12227,68,109.63,Month-to-month,2,7671.91,DSL,Mailed check,No
+TELCO-12228,21,111.94,Month-to-month,0,2431.82,DSL,Credit card (automatic),Yes
+TELCO-12229,71,75.07,One year,1,5065.69,Fiber optic,Credit card (automatic),No
+TELCO-12230,46,62.83,Month-to-month,4,2858.24,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12231,6,89.2,Month-to-month,1,561.64,DSL,Bank transfer (automatic),Yes
+TELCO-12232,68,102.54,Two year,1,7035.0,No,Bank transfer (automatic),No
+TELCO-12233,10,74.94,Month-to-month,2,734.13,No,Credit card (automatic),No
+TELCO-12234,43,88.67,One year,0,3770.49,DSL,Bank transfer (automatic),Yes
+TELCO-12235,57,93.66,Month-to-month,4,5243.89,DSL,Bank transfer (automatic),No
+TELCO-12236,18,86.31,Month-to-month,1,1545.44,Fiber optic,Electronic check,Yes
+TELCO-12237,20,93.3,Month-to-month,3,1855.64,DSL,Credit card (automatic),Yes
+TELCO-12238,35,39.42,Two year,1,1380.65,No,Bank transfer (automatic),No
+TELCO-12239,64,68.46,Month-to-month,1,4365.89,Fiber optic,Mailed check,No
+TELCO-12240,17,77.47,Month-to-month,2,1319.11,DSL,Electronic check,No
+TELCO-12241,48,18.75,One year,1,857.52,Fiber optic,Bank transfer (automatic),No
+TELCO-12242,33,104.31,Two year,1,3288.85,DSL,Credit card (automatic),Yes
+TELCO-12243,9,79.65,Two year,1,707.61,Fiber optic,Credit card (automatic),No
+TELCO-12244,52,31.45,One year,1,1698.35,DSL,Credit card (automatic),No
+TELCO-12245,60,100.34,Month-to-month,2,6195.49,No,Credit card (automatic),Yes
+TELCO-12246,42,90.38,One year,2,3647.98,Fiber optic,Bank transfer (automatic),No
+TELCO-12247,13,94.52,Two year,3,1228.12,No,Credit card (automatic),Yes
+TELCO-12248,12,57.8,Two year,0,700.85,DSL,Electronic check,Yes
+TELCO-12249,31,104.13,Two year,3,3221.96,Fiber optic,Mailed check,No
+TELCO-12250,37,60.01,Month-to-month,1,2264.24,No,Mailed check,No
+TELCO-12251,40,75.69,Month-to-month,2,3178.15,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12252,18,18.56,One year,3,320.6,Fiber optic,Mailed check,No
+TELCO-12253,37,83.15,Month-to-month,0,3081.33,No,Mailed check,Yes
+TELCO-12254,22,90.5,Month-to-month,2,1993.46,Fiber optic,Credit card (automatic),No
+TELCO-12255,50,75.35,Month-to-month,1,3791.0,No,Bank transfer (automatic),Yes
+TELCO-12256,58,68.28,One year,3,3828.35,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12257,47,99.7,Two year,1,4750.73,Fiber optic,Electronic check,No
+TELCO-12258,1,86.81,One year,5,82.85,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12259,72,46.38,Two year,2,3419.88,Fiber optic,Mailed check,No
+TELCO-12260,2,114.65,One year,2,233.04,DSL,Bank transfer (automatic),Yes
+TELCO-12261,72,89.4,One year,0,6327.65,No,Credit card (automatic),No
+TELCO-12262,3,117.54,Month-to-month,1,369.86,Fiber optic,Mailed check,Yes
+TELCO-12263,38,115.87,One year,2,4547.82,Fiber optic,Credit card (automatic),Yes
+TELCO-12264,8,110.62,Month-to-month,0,888.46,No,Bank transfer (automatic),No
+TELCO-12265,7,94.23,Month-to-month,3,691.96,Fiber optic,Mailed check,Yes
+TELCO-12266,50,79.6,Month-to-month,3,4111.38,DSL,Credit card (automatic),Yes
+TELCO-12267,53,35.76,Two year,4,1826.67,Fiber optic,Electronic check,No
+TELCO-12268,9,72.97,One year,3,662.71,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12269,71,95.23,Two year,1,6816.0,DSL,Mailed check,No
+TELCO-12270,24,70.72,Two year,3,1723.24,DSL,Bank transfer (automatic),No
+TELCO-12271,23,105.54,Two year,1,2534.41,Fiber optic,Electronic check,No
+TELCO-12272,22,29.49,Month-to-month,0,648.26,Fiber optic,Bank transfer (automatic),No
+TELCO-12273,34,56.69,Two year,1,1846.0,No,Electronic check,No
+TELCO-12274,13,69.22,Two year,3,898.0,Fiber optic,Mailed check,Yes
+TELCO-12275,31,61.84,Two year,6,1972.21,Fiber optic,Credit card (automatic),Yes
+TELCO-12276,16,29.39,Month-to-month,1,463.59,DSL,Bank transfer (automatic),No
+TELCO-12277,4,33.89,Month-to-month,2,129.15,No,Mailed check,No
+TELCO-12278,27,102.47,Two year,3,2712.25,No,Mailed check,Yes
+TELCO-12279,49,67.06,Month-to-month,1,3345.79,No,Electronic check,Yes
+TELCO-12280,55,23.38,Month-to-month,3,1232.66,Fiber optic,Electronic check,Yes
+TELCO-12281,26,20.15,Month-to-month,2,517.4,DSL,Bank transfer (automatic),No
+TELCO-12282,24,65.97,Month-to-month,2,1525.19,Fiber optic,Mailed check,No
+TELCO-12283,57,34.98,Month-to-month,1,1989.06,Fiber optic,Electronic check,No
+TELCO-12284,50,89.19,Two year,1,4299.63,DSL,Mailed check,No
+TELCO-12285,60,98.23,Two year,1,5663.37,DSL,Mailed check,No
+TELCO-12286,66,41.39,Two year,2,2785.77,DSL,Credit card (automatic),No
+TELCO-12287,60,77.87,Month-to-month,1,4512.41,Fiber optic,Electronic check,Yes
+TELCO-12288,68,33.98,Month-to-month,3,2230.88,No,Mailed check,No
+TELCO-12289,30,48.93,Month-to-month,2,1481.48,Fiber optic,Electronic check,No
+TELCO-12290,29,107.6,Month-to-month,1,2977.98,Fiber optic,Electronic check,Yes
+TELCO-12291,24,73.05,Month-to-month,3,1671.32,DSL,Bank transfer (automatic),Yes
+TELCO-12292,17,107.31,One year,1,1811.76,Fiber optic,Electronic check,No
+TELCO-12293,54,41.08,Two year,2,2188.39,Fiber optic,Bank transfer (automatic),No
+TELCO-12294,52,51.58,Month-to-month,0,2694.13,DSL,Credit card (automatic),No
+TELCO-12295,58,65.71,Month-to-month,1,3999.26,Fiber optic,Mailed check,No
+TELCO-12296,13,66.63,Month-to-month,3,860.53,DSL,Electronic check,Yes
+TELCO-12297,36,118.51,Month-to-month,0,4298.81,No,Credit card (automatic),Yes
+TELCO-12298,16,29.97,Month-to-month,0,499.62,No,Credit card (automatic),Yes
+TELCO-12299,65,103.91,Month-to-month,2,6742.79,DSL,Credit card (automatic),Yes
+TELCO-12300,20,105.08,Month-to-month,0,2160.68,Fiber optic,Credit card (automatic),No
+TELCO-12301,11,73.96,Month-to-month,2,817.52,Fiber optic,Credit card (automatic),Yes
+TELCO-12302,42,52.99,Two year,2,2256.12,DSL,Bank transfer (automatic),No
+TELCO-12303,64,70.55,Month-to-month,5,4710.48,Fiber optic,Credit card (automatic),Yes
+TELCO-12304,66,47.82,Month-to-month,3,2998.54,Fiber optic,Mailed check,Yes
+TELCO-12305,7,98.61,Month-to-month,2,717.95,Fiber optic,Credit card (automatic),Yes
+TELCO-12306,24,68.45,Month-to-month,1,1642.42,DSL,Electronic check,Yes
+TELCO-12307,12,111.32,One year,1,1350.1,Fiber optic,Credit card (automatic),Yes
+TELCO-12308,23,80.92,Two year,2,1851.86,DSL,Mailed check,Yes
+TELCO-12309,39,70.06,Two year,1,2667.01,DSL,Mailed check,No
+TELCO-12310,21,89.78,One year,2,1803.56,DSL,Bank transfer (automatic),Yes
+TELCO-12311,5,69.02,Month-to-month,1,360.46,DSL,Electronic check,Yes
+TELCO-12312,37,109.18,Month-to-month,0,4089.7,DSL,Credit card (automatic),No
+TELCO-12313,4,36.99,Month-to-month,1,153.49,Fiber optic,Bank transfer (automatic),No
+TELCO-12314,17,116.08,Month-to-month,0,1932.08,Fiber optic,Electronic check,Yes
+TELCO-12315,1,99.92,Two year,3,97.7,DSL,Credit card (automatic),Yes
+TELCO-12316,7,104.79,Month-to-month,1,721.48,DSL,Electronic check,Yes
+TELCO-12317,32,66.91,Month-to-month,2,2083.53,No,Credit card (automatic),Yes
+TELCO-12318,62,102.43,Month-to-month,3,6349.37,No,Credit card (automatic),Yes
+TELCO-12319,56,49.25,Month-to-month,2,2878.32,DSL,Bank transfer (automatic),Yes
+TELCO-12320,8,94.89,Two year,1,787.67,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12321,3,32.58,Month-to-month,1,97.69,DSL,Credit card (automatic),Yes
+TELCO-12322,25,49.28,Month-to-month,2,1213.37,No,Credit card (automatic),Yes
+TELCO-12323,47,63.18,Month-to-month,2,3002.63,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12324,54,50.81,Two year,1,2774.54,DSL,Electronic check,No
+TELCO-12325,60,57.3,Month-to-month,3,3501.18,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12326,25,100.72,One year,1,2526.96,Fiber optic,Electronic check,Yes
+TELCO-12327,13,44.23,Month-to-month,3,547.78,DSL,Electronic check,Yes
+TELCO-12328,2,93.21,Month-to-month,1,178.52,DSL,Electronic check,Yes
+TELCO-12329,11,25.89,Two year,0,298.28,Fiber optic,Mailed check,No
+TELCO-12330,5,95.27,Month-to-month,2,488.08,DSL,Credit card (automatic),No
+TELCO-12331,62,97.9,Month-to-month,1,6341.88,DSL,Electronic check,No
+TELCO-12332,20,58.77,One year,1,1156.54,No,Electronic check,No
+TELCO-12333,60,90.93,Month-to-month,1,5474.87,Fiber optic,Electronic check,Yes
+TELCO-12334,40,110.24,Month-to-month,1,4331.09,Fiber optic,Electronic check,Yes
+TELCO-12335,39,98.77,Two year,2,4009.55,Fiber optic,Bank transfer (automatic),No
+TELCO-12336,33,57.64,Month-to-month,3,1861.74,Fiber optic,Credit card (automatic),No
+TELCO-12337,59,67.04,Month-to-month,3,4032.02,Fiber optic,Electronic check,Yes
+TELCO-12338,4,96.63,Month-to-month,2,373.96,Fiber optic,Credit card (automatic),Yes
+TELCO-12339,7,47.83,One year,1,321.59,DSL,Credit card (automatic),No
+TELCO-12340,31,99.09,Month-to-month,1,2966.01,DSL,Electronic check,Yes
+TELCO-12341,29,51.39,Month-to-month,1,1494.7,DSL,Mailed check,Yes
+TELCO-12342,40,99.3,One year,4,4108.85,Fiber optic,Credit card (automatic),Yes
+TELCO-12343,54,27.2,One year,0,1542.13,Fiber optic,Bank transfer (automatic),No
+TELCO-12344,43,22.95,Two year,1,998.96,Fiber optic,Electronic check,No
+TELCO-12345,19,118.52,Month-to-month,5,2259.45,Fiber optic,Electronic check,Yes
+TELCO-12346,24,105.66,Month-to-month,0,2608.59,No,Mailed check,No
+TELCO-12347,55,107.01,Month-to-month,1,5628.79,DSL,Credit card (automatic),Yes
+TELCO-12348,15,113.87,One year,3,1760.9,Fiber optic,Credit card (automatic),Yes
+TELCO-12349,37,62.44,Month-to-month,1,2369.97,Fiber optic,Mailed check,No
+TELCO-12350,39,47.26,One year,1,1848.58,Fiber optic,Bank transfer (automatic),No
+TELCO-12351,55,31.54,Month-to-month,4,1651.95,Fiber optic,Bank transfer (automatic),No
+TELCO-12352,52,68.75,Two year,1,3468.54,DSL,Mailed check,No
+TELCO-12353,34,40.56,Two year,2,1361.07,No,Bank transfer (automatic),No
+TELCO-12354,23,112.29,Month-to-month,0,2696.62,Fiber optic,Mailed check,Yes
+TELCO-12355,27,18.9,Two year,1,517.37,No,Bank transfer (automatic),No
+TELCO-12356,30,32.86,Two year,2,986.79,Fiber optic,Bank transfer (automatic),No
+TELCO-12357,16,43.21,Month-to-month,4,690.56,No,Bank transfer (automatic),Yes
+TELCO-12358,46,38.45,Month-to-month,1,1818.22,DSL,Credit card (automatic),No
+TELCO-12359,16,41.13,One year,2,646.47,Fiber optic,Bank transfer (automatic),No
+TELCO-12360,47,84.27,Month-to-month,3,3800.09,DSL,Bank transfer (automatic),No
+TELCO-12361,55,51.33,Month-to-month,2,2873.13,DSL,Credit card (automatic),Yes
+TELCO-12362,70,80.16,Month-to-month,0,5515.26,DSL,Bank transfer (automatic),No
+TELCO-12363,9,107.75,Two year,0,952.84,Fiber optic,Mailed check,No
+TELCO-12364,55,78.91,Month-to-month,4,4320.4,Fiber optic,Bank transfer (automatic),No
+TELCO-12365,7,88.13,One year,0,601.04,Fiber optic,Credit card (automatic),No
+TELCO-12366,25,55.14,Month-to-month,2,1436.63,DSL,Credit card (automatic),Yes
+TELCO-12367,13,34.51,Month-to-month,1,464.2,DSL,Mailed check,Yes
+TELCO-12368,12,50.64,Two year,1,637.52,Fiber optic,Mailed check,No
+TELCO-12369,13,115.17,Month-to-month,0,1566.76,Fiber optic,Mailed check,Yes
+TELCO-12370,4,80.84,Month-to-month,0,317.36,DSL,Electronic check,No
+TELCO-12371,60,46.32,Month-to-month,2,2746.02,Fiber optic,Mailed check,No
+TELCO-12372,5,63.7,One year,1,324.81,DSL,Electronic check,No
+TELCO-12373,29,102.26,Month-to-month,2,2821.96,Fiber optic,Mailed check,Yes
+TELCO-12374,51,85.51,Month-to-month,4,4576.4,Fiber optic,Electronic check,No
+TELCO-12375,72,74.71,Month-to-month,1,5116.0,Fiber optic,Mailed check,No
+TELCO-12376,62,107.24,Month-to-month,4,6669.81,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12377,10,85.91,Month-to-month,0,873.59,No,Credit card (automatic),Yes
+TELCO-12378,72,82.93,Month-to-month,2,6218.25,DSL,Credit card (automatic),Yes
+TELCO-12379,48,37.52,Month-to-month,2,1826.92,DSL,Bank transfer (automatic),No
+TELCO-12380,13,29.17,Month-to-month,2,382.89,No,Bank transfer (automatic),No
+TELCO-12381,33,115.26,One year,1,3727.65,No,Credit card (automatic),No
+TELCO-12382,67,78.54,One year,3,5310.02,Fiber optic,Bank transfer (automatic),No
+TELCO-12383,29,60.17,Month-to-month,0,1788.5,DSL,Electronic check,Yes
+TELCO-12384,14,77.55,Month-to-month,1,1087.39,DSL,Credit card (automatic),Yes
+TELCO-12385,64,24.7,Month-to-month,2,1625.0,No,Bank transfer (automatic),No
+TELCO-12386,69,100.92,Two year,3,6663.78,Fiber optic,Bank transfer (automatic),No
+TELCO-12387,71,40.22,Month-to-month,3,2808.61,DSL,Electronic check,Yes
+TELCO-12388,69,99.16,Month-to-month,2,7156.65,DSL,Mailed check,Yes
+TELCO-12389,63,72.07,Month-to-month,1,4460.25,Fiber optic,Mailed check,No
+TELCO-12390,33,46.23,Month-to-month,0,1544.18,Fiber optic,Credit card (automatic),No
+TELCO-12391,14,21.53,Month-to-month,3,302.02,No,Mailed check,No
+TELCO-12392,45,100.29,Month-to-month,3,4710.1,Fiber optic,Mailed check,No
+TELCO-12393,16,36.19,One year,2,559.51,DSL,Bank transfer (automatic),Yes
+TELCO-12394,35,23.69,One year,3,812.52,DSL,Electronic check,Yes
+TELCO-12395,48,94.28,One year,2,4689.43,Fiber optic,Bank transfer (automatic),No
+TELCO-12396,69,53.59,One year,1,3759.17,DSL,Electronic check,No
+TELCO-12397,21,57.53,Month-to-month,2,1213.33,DSL,Electronic check,Yes
+TELCO-12398,19,43.27,Two year,1,813.49,DSL,Mailed check,Yes
+TELCO-12399,53,104.63,One year,2,5496.21,DSL,Electronic check,Yes
+TELCO-12400,1,48.31,Two year,3,50.41,No,Electronic check,No
+TELCO-12401,41,39.57,One year,4,1650.12,DSL,Mailed check,Yes
+TELCO-12402,54,49.5,Month-to-month,1,2787.7,Fiber optic,Bank transfer (automatic),No
+TELCO-12403,40,38.87,Month-to-month,0,1628.22,Fiber optic,Electronic check,No
+TELCO-12404,28,50.34,Month-to-month,1,1416.15,DSL,Mailed check,Yes
+TELCO-12405,60,26.81,Month-to-month,3,1626.28,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12406,27,34.39,Month-to-month,0,943.05,No,Credit card (automatic),Yes
+TELCO-12407,52,60.31,Month-to-month,2,3242.49,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12408,34,106.67,Month-to-month,2,3684.47,Fiber optic,Bank transfer (automatic),No
+TELCO-12409,2,24.24,Two year,3,46.61,No,Credit card (automatic),No
+TELCO-12410,39,39.82,One year,1,1621.69,No,Electronic check,Yes
+TELCO-12411,4,109.56,One year,1,445.29,No,Credit card (automatic),Yes
+TELCO-12412,68,107.72,Month-to-month,2,7595.92,Fiber optic,Mailed check,Yes
+TELCO-12413,44,86.61,One year,1,3782.16,Fiber optic,Mailed check,No
+TELCO-12414,27,42.61,Two year,2,1147.56,Fiber optic,Bank transfer (automatic),No
+TELCO-12415,36,60.59,One year,3,2222.43,DSL,Credit card (automatic),Yes
+TELCO-12416,45,39.67,One year,2,1834.49,Fiber optic,Credit card (automatic),No
+TELCO-12417,19,31.39,Month-to-month,2,571.27,No,Credit card (automatic),No
+TELCO-12418,21,56.59,Month-to-month,2,1177.38,DSL,Mailed check,Yes
+TELCO-12419,31,76.23,One year,2,2426.9,No,Electronic check,Yes
+TELCO-12420,19,54.58,Two year,1,1088.07,No,Electronic check,No
+TELCO-12421,55,79.74,Month-to-month,2,4171.52,DSL,Credit card (automatic),Yes
+TELCO-12422,8,48.2,Month-to-month,2,376.53,DSL,Electronic check,Yes
+TELCO-12423,60,53.17,Month-to-month,1,3178.99,No,Mailed check,No
+TELCO-12424,26,97.77,Month-to-month,0,2471.59,DSL,Mailed check,Yes
+TELCO-12425,41,106.55,Two year,0,4161.88,Fiber optic,Bank transfer (automatic),No
+TELCO-12426,12,50.78,One year,2,611.77,DSL,Mailed check,Yes
+TELCO-12427,28,75.79,Month-to-month,1,2153.82,DSL,Bank transfer (automatic),No
+TELCO-12428,55,46.39,Month-to-month,1,2530.03,DSL,Bank transfer (automatic),Yes
+TELCO-12429,20,23.85,Month-to-month,0,470.79,DSL,Credit card (automatic),No
+TELCO-12430,10,92.47,Month-to-month,0,969.6,No,Electronic check,Yes
+TELCO-12431,38,35.64,Month-to-month,3,1351.28,DSL,Credit card (automatic),No
+TELCO-12432,12,61.18,Two year,3,756.04,DSL,Bank transfer (automatic),Yes
+TELCO-12433,23,67.33,One year,6,1515.63,Fiber optic,Credit card (automatic),Yes
+TELCO-12434,33,36.99,Month-to-month,0,1260.98,No,Mailed check,No
+TELCO-12435,41,27.98,One year,1,1184.31,Fiber optic,Mailed check,No
+TELCO-12436,47,53.39,One year,1,2451.04,Fiber optic,Bank transfer (automatic),No
+TELCO-12437,49,113.97,Month-to-month,1,5671.57,DSL,Credit card (automatic),No
+TELCO-12438,61,80.17,One year,2,4979.38,No,Electronic check,No
+TELCO-12439,5,56.74,One year,3,282.07,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12440,27,22.4,Two year,1,621.36,No,Electronic check,No
+TELCO-12441,1,78.68,Month-to-month,2,77.16,Fiber optic,Credit card (automatic),Yes
+TELCO-12442,1,27.75,Month-to-month,2,27.71,No,Mailed check,Yes
+TELCO-12443,16,72.89,Month-to-month,1,1223.4,Fiber optic,Credit card (automatic),Yes
+TELCO-12444,44,93.88,Month-to-month,0,3997.99,Fiber optic,Electronic check,No
+TELCO-12445,65,60.96,Month-to-month,5,3822.84,Fiber optic,Electronic check,Yes
+TELCO-12446,56,48.52,One year,1,2619.9,DSL,Credit card (automatic),No
+TELCO-12447,47,23.25,Month-to-month,3,1147.18,No,Mailed check,No
+TELCO-12448,57,20.98,Month-to-month,0,1155.19,Fiber optic,Electronic check,No
+TELCO-12449,13,61.61,Two year,4,776.12,No,Credit card (automatic),Yes
+TELCO-12450,61,107.06,Month-to-month,2,6657.87,Fiber optic,Mailed check,No
+TELCO-12451,65,42.97,Month-to-month,0,2865.53,No,Credit card (automatic),No
+TELCO-12452,7,76.05,One year,1,533.79,DSL,Mailed check,Yes
+TELCO-12453,34,87.1,Month-to-month,1,3104.34,No,Credit card (automatic),Yes
+TELCO-12454,60,24.6,Month-to-month,1,1407.94,DSL,Bank transfer (automatic),No
+TELCO-12455,35,33.85,One year,4,1199.06,Fiber optic,Mailed check,Yes
+TELCO-12456,61,51.71,Month-to-month,1,3187.89,DSL,Mailed check,No
+TELCO-12457,68,85.68,Month-to-month,1,5722.09,Fiber optic,Mailed check,Yes
+TELCO-12458,35,62.51,Month-to-month,0,2275.24,Fiber optic,Bank transfer (automatic),No
+TELCO-12459,5,92.1,Two year,0,462.94,No,Bank transfer (automatic),No
+TELCO-12460,25,105.48,Month-to-month,0,2570.11,No,Electronic check,Yes
+TELCO-12461,16,94.53,One year,4,1450.22,Fiber optic,Mailed check,Yes
+TELCO-12462,35,117.97,Month-to-month,1,3966.73,No,Mailed check,Yes
+TELCO-12463,43,94.12,One year,3,4207.97,Fiber optic,Credit card (automatic),No
+TELCO-12464,34,103.93,Month-to-month,3,3445.39,Fiber optic,Mailed check,Yes
+TELCO-12465,15,101.94,Month-to-month,3,1591.34,DSL,Bank transfer (automatic),Yes
+TELCO-12466,22,91.71,Month-to-month,0,1940.97,DSL,Electronic check,Yes
+TELCO-12467,49,98.88,One year,1,5079.59,DSL,Mailed check,No
+TELCO-12468,2,112.2,Month-to-month,1,231.88,Fiber optic,Mailed check,Yes
+TELCO-12469,16,66.14,Month-to-month,2,1017.63,Fiber optic,Mailed check,Yes
+TELCO-12470,65,82.49,Month-to-month,1,5139.9,Fiber optic,Credit card (automatic),Yes
+TELCO-12471,8,70.12,Month-to-month,1,577.98,No,Credit card (automatic),Yes
+TELCO-12472,30,103.82,One year,1,2983.18,DSL,Mailed check,Yes
+TELCO-12473,15,61.74,Month-to-month,1,904.08,No,Bank transfer (automatic),No
+TELCO-12474,8,100.68,Month-to-month,3,829.7,No,Credit card (automatic),Yes
+TELCO-12475,31,98.64,Month-to-month,3,3182.47,Fiber optic,Electronic check,Yes
+TELCO-12476,38,114.93,Month-to-month,1,4484.23,Fiber optic,Mailed check,Yes
+TELCO-12477,13,43.45,Month-to-month,0,586.87,DSL,Bank transfer (automatic),Yes
+TELCO-12478,6,89.64,Month-to-month,2,541.06,No,Electronic check,Yes
+TELCO-12479,10,94.38,Month-to-month,2,970.19,Fiber optic,Mailed check,Yes
+TELCO-12480,47,112.36,Two year,1,5198.64,No,Electronic check,Yes
+TELCO-12481,62,109.42,Month-to-month,2,6977.53,DSL,Mailed check,Yes
+TELCO-12482,13,76.0,Two year,2,1005.76,Fiber optic,Electronic check,Yes
+TELCO-12483,24,76.56,Month-to-month,0,1851.19,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12484,25,35.27,Month-to-month,2,925.16,Fiber optic,Credit card (automatic),No
+TELCO-12485,26,116.24,Month-to-month,3,3013.11,Fiber optic,Mailed check,Yes
+TELCO-12486,18,44.07,Month-to-month,1,802.72,DSL,Electronic check,No
+TELCO-12487,4,91.15,One year,1,364.96,DSL,Mailed check,Yes
+TELCO-12488,38,98.28,Two year,0,3645.2,DSL,Electronic check,No
+TELCO-12489,26,62.73,One year,0,1603.31,DSL,Mailed check,No
+TELCO-12490,25,39.67,One year,3,1039.23,DSL,Bank transfer (automatic),Yes
+TELCO-12491,20,37.44,Month-to-month,1,740.72,DSL,Mailed check,No
+TELCO-12492,67,104.36,Month-to-month,3,7117.56,Fiber optic,Bank transfer (automatic),Yes
+TELCO-12493,44,69.7,One year,2,3087.38,Fiber optic,Bank transfer (automatic),No
+TELCO-12494,31,27.54,Month-to-month,1,887.02,Fiber optic,Electronic check,No
+TELCO-12495,15,90.38,Month-to-month,2,1390.64,DSL,Bank transfer (automatic),Yes
+TELCO-12496,58,43.58,Two year,4,2421.64,DSL,Bank transfer (automatic),No
+TELCO-12497,64,106.36,Two year,2,6708.64,Fiber optic,Electronic check,No
+TELCO-12498,3,49.53,One year,2,151.74,Fiber optic,Mailed check,Yes
+TELCO-12499,67,38.58,Month-to-month,3,2497.33,DSL,Mailed check,No

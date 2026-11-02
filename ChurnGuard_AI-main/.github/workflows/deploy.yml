@@ -1,0 +1,168 @@
+name: Deploy Churn API to ACI
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+
+env:
+  IMAGE_NAME: churn-api
+  RESOURCE_GROUP: churn-rg
+  ACI_NAME: churn-api
+  LOCATION: centralindia
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+
+      - name: Validate required CI settings
+        env:
+          ACR_NAME: ${{ secrets.ACR_NAME }}
+          AZURE_CLIENT_ID: ${{ secrets.AZURE_CLIENT_ID }}
+          AZURE_TENANT_ID: ${{ secrets.AZURE_TENANT_ID }}
+          AZURE_SUBSCRIPTION_ID: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+        run: |
+          echo "Validating required secrets for backend deploy..."
+          if [[ -z "$ACR_NAME" ]]; then
+            echo "::error::Missing required secret: ACR_NAME"
+            exit 1
+          fi
+
+          if [[ -z "$AZURE_CLIENT_ID" || -z "$AZURE_TENANT_ID" || -z "$AZURE_SUBSCRIPTION_ID" ]]; then
+            echo "::error::Missing one of required secrets: AZURE_CLIENT_ID, AZURE_TENANT_ID, AZURE_SUBSCRIPTION_ID"
+            exit 1
+          fi
+
+      - name: Normalize and validate ACR name
+        env:
+          ACR_NAME_RAW: ${{ secrets.ACR_NAME }}
+        run: |
+          ACR_NAME="$(echo "$ACR_NAME_RAW" | tr '[:upper:]' '[:lower:]' | tr -d '[:space:]')"
+          if [[ ! "$ACR_NAME" =~ ^[a-z0-9]{5,50}$ ]]; then
+            echo "::error::Invalid ACR_NAME after normalization: '$ACR_NAME'. Use only lowercase letters/numbers, 5-50 chars."
+            exit 1
+          fi
+
+          echo "Using ACR_NAME=$ACR_NAME"
+          echo "ACR_NAME=$ACR_NAME" >> "$GITHUB_ENV"
+
+      - name: Azure login
+        uses: azure/login@v2
+        with:
+          client-id: ${{ secrets.AZURE_CLIENT_ID }}
+          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+
+      - name: Ensure Azure CLI installed
+        run: |
+          if ! command -v az >/dev/null 2>&1; then
+            curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+          fi
+          az version
+
+      - name: Normalize subscription id
+        env:
+          AZ_SUBSCRIPTION_RAW: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+        run: |
+          AZ_SUBSCRIPTION_ID="$(echo "$AZ_SUBSCRIPTION_RAW" | tr -d '[:space:]')"
+          if [[ ! "$AZ_SUBSCRIPTION_ID" =~ ^[0-9a-fA-F-]{36}$ ]]; then
+            echo "::error::Invalid AZURE_SUBSCRIPTION_ID format after normalization."
+            exit 1
+          fi
+          echo "AZ_SUBSCRIPTION_ID=$AZ_SUBSCRIPTION_ID" >> "$GITHUB_ENV"
+
+      - name: Verify Azure account context
+        run: |
+          az account set --subscription "$AZ_SUBSCRIPTION_ID"
+          az account show -o table
+          CURRENT_SUB="$(az account show --query id -o tsv)"
+          if [[ -z "$CURRENT_SUB" ]]; then
+            echo "::error::Unable to resolve current Azure subscription in frontend job."
+            exit 1
+          fi
+          if [[ "$CURRENT_SUB" != "$AZ_SUBSCRIPTION_ID" ]]; then
+            echo "::error::Azure context subscription mismatch. Expected $AZ_SUBSCRIPTION_ID but got $CURRENT_SUB"
+            exit 1
+          fi
+          ACTIVE_SUBSCRIPTION_ID="$(az account show --query id -o tsv)"
+          if [[ -z "$ACTIVE_SUBSCRIPTION_ID" ]]; then
+            echo "::error::Unable to resolve active subscription id from Azure context."
+            exit 1
+          fi
+          echo "ACTIVE_SUBSCRIPTION_ID=$ACTIVE_SUBSCRIPTION_ID" >> "$GITHUB_ENV"
+          if ! az account list --query "[?id=='$AZ_SUBSCRIPTION_ID'] | length(@)" -o tsv | grep -q '^1$'; then
+            echo "::error::OIDC identity cannot see AZ_SUBSCRIPTION_ID. Check secret value and IAM role assignment for the app registration."
+            exit 1
+          fi
+
+      - name: Verify ACR name in Azure context
+        run: az acr check-name --name "$ACR_NAME" -o table
+
+      - name: Register required Azure providers
+        run: |
+          az provider register --namespace Microsoft.ContainerRegistry --wait
+          az provider register --namespace Microsoft.ContainerInstance --wait
+          az provider register --namespace Microsoft.Network --wait
+
+      - name: Ensure resource group exists
+        run: az group create --name "$RESOURCE_GROUP" --location "$LOCATION"
+
+      - name: Ensure ACR exists
+        run: |
+          if ! az acr show --name "$ACR_NAME" --resource-group "$RESOURCE_GROUP" >/dev/null 2>&1; then
+            az acr create --resource-group "$RESOURCE_GROUP" --name "$ACR_NAME" --location "$LOCATION" --sku Basic --admin-enabled true
+          fi
+
+      - name: Build Docker image
+        run: |
+          docker build -t $IMAGE_NAME:latest ./backend
+
+      - name: Log in to ACR and get login server
+        run: |
+          az acr login --name "$ACR_NAME"
+          ACR_LOGIN_SERVER="$(az acr show --name "$ACR_NAME" --resource-group "$RESOURCE_GROUP" --query loginServer -o tsv)"
+          echo "ACR_LOGIN_SERVER=$ACR_LOGIN_SERVER" >> "$GITHUB_ENV"
+
+      - name: Tag and push image
+        run: |
+          docker tag $IMAGE_NAME:latest $ACR_LOGIN_SERVER/$IMAGE_NAME:latest
+          docker push $ACR_LOGIN_SERVER/$IMAGE_NAME:latest
+
+      - name: Recreate Azure Container Instance
+        run: |
+          ACR_USERNAME="$(az acr credential show --name "$ACR_NAME" --query username -o tsv)"
+          ACR_PASSWORD="$(az acr credential show --name "$ACR_NAME" --query passwords[0].value -o tsv)"
+
+          if az container show --resource-group "$RESOURCE_GROUP" --name "$ACI_NAME" >/dev/null 2>&1; then
+            az container delete --resource-group "$RESOURCE_GROUP" --name "$ACI_NAME" --yes
+          fi
+
+          az container create \
+            --resource-group "$RESOURCE_GROUP" \
+            --name "$ACI_NAME" \
+            --location "$LOCATION" \
+            --image "$ACR_LOGIN_SERVER/$IMAGE_NAME:latest" \
+            --os-type Linux \
+            --registry-login-server "$ACR_LOGIN_SERVER" \
+            --registry-username "$ACR_USERNAME" \
+            --registry-password "$ACR_PASSWORD" \
+            --dns-name-label "$ACI_NAME-${{ github.run_number }}" \
+            --ports 8000 \
+            --ip-address Public \
+            --cpu 1 \
+            --memory 1.5 \
+            --restart-policy Always
+
+          API_URL="http://$(az container show --resource-group "$RESOURCE_GROUP" --name "$ACI_NAME" --query ipAddress.fqdn -o tsv):8000"
+          echo "Deployment complete. API URL: $API_URL"
+

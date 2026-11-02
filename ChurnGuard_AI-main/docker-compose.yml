@@ -1,0 +1,37 @@
+version: "3.8"
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_ENV=production
+      - APP_NAME=ChurnGuard AI
+      - API_V1_STR=/api/v1
+      - SECRET_KEY=prod_super_secret_key_churnguard_ai_2026_enterprise
+      - DATABASE_URL=sqlite:///./churnguard.db
+      - CORS_ORIGINS=http://localhost:5173,http://localhost:80,http://localhost
+      - UPLOAD_DIR=./storage/uploads
+      - MODEL_DIR=./storage/models
+    volumes:
+      - backend_storage:/app/storage
+      - backend_db:/app/churnguard.db
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+      - "5173:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  backend_storage:
+  backend_db:
